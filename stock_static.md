@@ -126,3 +126,7 @@ Ordered but not shipping
 2. LJ699682706US
 
 **Australia Post**
+
+**SingPost**
+
+1. RC637167172SG
