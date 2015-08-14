@@ -9,10 +9,10 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            7
-  * Sponge Wax                               3
-  * Quicksand                                14
-  * Claymation                               12
+  * Modify Pomade                            6
+  * Sponge Wax                               2
+  * Quicksand                                13
+  * Claymation                               11
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          1
@@ -26,7 +26,7 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               4
+  * Shapepaste                               3
 
 ### Morris Motley ###
 
@@ -35,7 +35,7 @@ Received
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         0
+* Styling Meraki (Special Edition)         0
 
 -------------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ Shipped
 
 ### BlackLabel ###
 
-  * ShapePaste                               0
+  * ShapePaste                               14
 
 
 ### Morris Motley ###
@@ -100,7 +100,7 @@ Ordered but not shipping
 
 ### BlackLabel ###
 
-  * ShapePaste                               4
+  * ShapePaste                               0
 
 
 ### Morris Motley ###
