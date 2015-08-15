@@ -9,7 +9,7 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            5
+  * Modify Pomade                            4
   * Sponge Wax                               1
   * Quicksand                                13
   * Claymation                               11
@@ -31,7 +31,7 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   1
-  * Treatment Cleansing Oil                  2
+  * Treatment Cleansing Oil                  1
 
 ### Original by Blumaan ###
 
@@ -146,6 +146,7 @@ Ordered but not shipping
 
 **DHL**
 
+1. P1323611DMC1508
 
 **USPS**
 
