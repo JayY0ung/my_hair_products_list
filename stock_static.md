@@ -26,7 +26,7 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               3
+  * Shapepaste                               2
 
 ### Morris Motley ###
 
