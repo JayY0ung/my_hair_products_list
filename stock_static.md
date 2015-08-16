@@ -102,10 +102,10 @@ Ordered but not shipping
 ### Hanz de Fuko ###
 
   * Scheme Cream                             0
-  * Modify Pomade                            0
-  * Sponge Wax                               0
-  * Quicksand                                0
-  * Claymation                               0
+  * Modify Pomade                            10
+  * Sponge Wax                               15
+  * Quicksand                                10
+  * Claymation                               5
   * Hybridized Wax                           0
   * Gel Triq                                 0
   * Natural Shampoo                          0
@@ -133,10 +133,10 @@ Ordered but not shipping
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         0
- * Natural Beeswax Paste                     0
- * Sculpting Clay                            0
- * Moroccan Texture Paste                    0
+ * Peppermint Pomade                         5
+ * Natural Beeswax Paste                     5
+ * Sculpting Clay                            5
+ * Moroccan Texture Paste                    5
  * Peppermint Shampoo                        0
  * Peppermint Conditioner                    0
 
