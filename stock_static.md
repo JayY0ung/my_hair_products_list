@@ -9,7 +9,7 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            4
+  * Modify Pomade                            3
   * Sponge Wax                               0
   * Quicksand                                11
   * Claymation                               11
@@ -87,10 +87,10 @@ Shipped
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         2
- * Natural Beeswax Paste                     2
- * Sculpting Clay                            2
- * Moroccan Texture Paste                    2
+ * Peppermint Pomade                         7
+ * Natural Beeswax Paste                     7
+ * Sculpting Clay                            7
+ * Moroccan Texture Paste                    7
  * Peppermint Shampoo                        1
  * Peppermint Conditioner                    1
 
@@ -133,10 +133,10 @@ Ordered but not shipping
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         5
- * Natural Beeswax Paste                     5
- * Sculpting Clay                            5
- * Moroccan Texture Paste                    5
+ * Peppermint Pomade                         0
+ * Natural Beeswax Paste                     0
+ * Sculpting Clay                            0
+ * Moroccan Texture Paste                    0
  * Peppermint Shampoo                        0
  * Peppermint Conditioner                    0
 
@@ -158,3 +158,4 @@ Ordered but not shipping
 **SingPost**
 
 1. RC637167172SG
+2. RC637168796SG
