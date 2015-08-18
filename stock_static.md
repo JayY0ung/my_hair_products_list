@@ -77,8 +77,8 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
-  * Treatment Cleansing Oil                  0
+  * Treatment Styling Balm                   10
+  * Treatment Cleansing Oil                  1
 
 
 ### Original by Blumaan ###
@@ -123,8 +123,8 @@ Ordered but not shipping
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   10
-  * Treatment Cleansing Oil                  1
+  * Treatment Styling Balm                   0
+  * Treatment Cleansing Oil                  0
 
 
 ### Original by Blumaan ###
