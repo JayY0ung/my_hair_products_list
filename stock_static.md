@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             4
   * Modify Pomade                            3
   * Sponge Wax                               0
-  * Quicksand                                10
+  * Quicksand                                8
   * Claymation                               11
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -146,7 +146,7 @@ Ordered but not shipping
 
 **DHL**
 
-1. P1323611DMC1508
+1. P1323611DMC1508 (EMS: RX931432782DE)
 
 **USPS**
 
