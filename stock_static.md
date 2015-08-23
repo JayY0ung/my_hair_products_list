@@ -11,13 +11,13 @@ Received
   * Scheme Cream                             4
   * Modify Pomade                            3
   * Sponge Wax                               0
-  * Quicksand                                7
+  * Quicksand                                6
   * Claymation                               11
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          1
   * Natural Conditioner                      1
-  * Sample Pack                              3
+  * Sample Pack                              2
   * Steel Comb with Leather                  0
 
 **Bonus**
@@ -26,7 +26,7 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               2
+  * Shapepaste                               6
 
 ### Morris Motley ###
 
@@ -54,10 +54,10 @@ Shipped
 ### Hanz de Fuko ###
 
   * Scheme Cream                             0
-  * Modify Pomade                            0
-  * Sponge Wax                               0
-  * Quicksand                                0
-  * Claymation                               0
+  * Modify Pomade                            10
+  * Sponge Wax                               15
+  * Quicksand                                10
+  * Claymation                               5
   * Hybridized Wax                           0
   * Natural Shampoo                          1
   * Natural Conditioner                      1
@@ -72,7 +72,7 @@ Shipped
 
 ### BlackLabel ###
 
-  * ShapePaste                               14
+  * ShapePaste                               10
 
 
 ### Morris Motley ###
@@ -102,10 +102,10 @@ Ordered but not shipping
 ### Hanz de Fuko ###
 
   * Scheme Cream                             0
-  * Modify Pomade                            10
-  * Sponge Wax                               15
-  * Quicksand                                10
-  * Claymation                               5
+  * Modify Pomade                            0
+  * Sponge Wax                               0
+  * Quicksand                                0
+  * Claymation                               0
   * Hybridized Wax                           0
   * Gel Triq                                 0
   * Natural Shampoo                          0
@@ -148,6 +148,7 @@ Ordered but not shipping
 
 1. P1323611DMC1508 (EMS: RX931432782DE)
 2. P1321051DMC1508 (EMS: RX931432632DE)
+3. 5520180481
 
 **USPS**
 
