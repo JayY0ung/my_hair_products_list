@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             4
   * Modify Pomade                            3
   * Sponge Wax                               0
-  * Quicksand                                4
+  * Quicksand                                2
   * Claymation                               10
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -30,8 +30,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
-  * Treatment Cleansing Oil                  0
+  * Treatment Styling Balm                   8
+  * Treatment Cleansing Oil                  1
 
 ### Original by Blumaan ###
 
@@ -39,12 +39,12 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         0
- * Natural Beeswax Paste                     0
- * Sculpting Clay                            0
- * Moroccan Texture Paste                    0
- * Peppermint Shampoo                        0
- * Peppermint Conditioner                    0
+ * Peppermint Pomade                         4
+ * Natural Beeswax Paste                     6
+ * Sculpting Clay                            7
+ * Moroccan Texture Paste                    7
+ * Peppermint Shampoo                        1
+ * Peppermint Conditioner                    1
 
 -------------------------------------------------------------------------------
 
@@ -77,8 +77,8 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   10
-  * Treatment Cleansing Oil                  1
+  * Treatment Styling Balm                   0
+  * Treatment Cleansing Oil                  0
 
 
 ### Original by Blumaan ###
@@ -87,12 +87,12 @@ Shipped
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         7
- * Natural Beeswax Paste                     7
- * Sculpting Clay                            7
- * Moroccan Texture Paste                    7
- * Peppermint Shampoo                        1
- * Peppermint Conditioner                    1
+ * Peppermint Pomade                         0
+ * Natural Beeswax Paste                     0
+ * Sculpting Clay                            0
+ * Moroccan Texture Paste                    0
+ * Peppermint Shampoo                        0
+ * Peppermint Conditioner                    0
 
 -------------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ Ordered but not shipping
   * Scheme Cream                             0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                0
+  * Quicksand                                20
   * Claymation                               0
   * Hybridized Wax                           0
   * Gel Triq                                 0
@@ -133,7 +133,7 @@ Ordered but not shipping
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         0
+ * Peppermint Pomade                         1
  * Natural Beeswax Paste                     0
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
@@ -146,9 +146,7 @@ Ordered but not shipping
 
 **DHL**
 
-1. P1323611DMC1508 (EMS: RX931432782DE)
-2. P1321051DMC1508 (EMS: RX931432632DE)
-3. 5520180481
+1. 5520180481
 
 **USPS**
 
@@ -158,6 +156,3 @@ Ordered but not shipping
 **Australia Post**
 
 **SingPost**
-
-1. RC637167172SG
-2. RC637168796SG
