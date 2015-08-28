@@ -9,9 +9,9 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            3
+  * Modify Pomade                            2
   * Sponge Wax                               0
-  * Quicksand                                2
+  * Quicksand                                0
   * Claymation                               10
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -30,7 +30,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   8
+  * Treatment Styling Balm                   7
   * Treatment Cleansing Oil                  1
 
 ### Original by Blumaan ###
