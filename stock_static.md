@@ -9,10 +9,10 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            2
+  * Modify Pomade                            1(ordered)
   * Sponge Wax                               0
   * Quicksand                                0
-  * Claymation                               10
+  * Claymation                               8
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          1
@@ -30,7 +30,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   7
+  * Treatment Styling Balm                   6
   * Treatment Cleansing Oil                  1
 
 ### Original by Blumaan ###
@@ -56,7 +56,7 @@ Shipped
   * Scheme Cream                             0
   * Modify Pomade                            10
   * Sponge Wax                               15
-  * Quicksand                                10
+  * Quicksand                                30
   * Claymation                               5
   * Hybridized Wax                           0
   * Natural Shampoo                          1
@@ -104,7 +104,7 @@ Ordered but not shipping
   * Scheme Cream                             0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                20
+  * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
   * Gel Triq                                 0
@@ -123,8 +123,8 @@ Ordered but not shipping
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
-  * Treatment Cleansing Oil                  0
+  * Treatment Styling Balm                   10
+  * Treatment Cleansing Oil                  5
 
 
 ### Original by Blumaan ###
@@ -147,6 +147,7 @@ Ordered but not shipping
 **DHL**
 
 1. 5520180481
+2. 2590864916
 
 **USPS**
 
