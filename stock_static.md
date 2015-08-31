@@ -12,11 +12,11 @@ Received
   * Modify Pomade                            1(ordered)
   * Sponge Wax                               0
   * Quicksand                                0
-  * Claymation                               8
+  * Claymation                               7
   * Hybridized Wax                           4
   * Gel Triq                                 1
-  * Natural Shampoo                          1
-  * Natural Conditioner                      1
+  * Natural Shampoo                          0
+  * Natural Conditioner                      0
   * Sample Pack                              2
   * Steel Comb with Leather                  0
 
@@ -30,7 +30,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   6
+  * Treatment Styling Balm                   4
   * Treatment Cleansing Oil                  1
 
 ### Original by Blumaan ###
@@ -77,8 +77,8 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
-  * Treatment Cleansing Oil                  0
+  * Treatment Styling Balm                   10
+  * Treatment Cleansing Oil                  5
 
 
 ### Original by Blumaan ###
@@ -123,8 +123,8 @@ Ordered but not shipping
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   10
-  * Treatment Cleansing Oil                  5
+  * Treatment Styling Balm                   0
+  * Treatment Cleansing Oil                  0
 
 
 ### Original by Blumaan ###
@@ -148,6 +148,7 @@ Ordered but not shipping
 
 1. 5520180481
 2. 2590864916
+3. AUDMM000170518
 
 **USPS**
 
