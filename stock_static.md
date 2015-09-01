@@ -9,10 +9,10 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            1(ordered)
-  * Sponge Wax                               0
-  * Quicksand                                0
-  * Claymation                               7
+  * Modify Pomade                            8
+  * Sponge Wax                               13
+  * Quicksand                                9
+  * Claymation                               12
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          0
@@ -55,10 +55,10 @@ Shipped
 ### Hanz de Fuko ###
 
   * Scheme Cream                             0
-  * Modify Pomade                            10
-  * Sponge Wax                               15
-  * Quicksand                                30
-  * Claymation                               5
+  * Modify Pomade                            0
+  * Sponge Wax                               0
+  * Quicksand                                20
+  * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          1
   * Natural Conditioner                      1
@@ -149,9 +149,8 @@ Ordered but not shipping
 
 **DHL**
 
-1. 5520180481
-2. 2590864916
-3. AUDMM000170518
+1. 2590864916
+2. AUDMM000170518
 
 **USPS**
 
