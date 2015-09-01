@@ -43,6 +43,7 @@ Received
  * Natural Beeswax Paste                     6
  * Sculpting Clay                            7
  * Moroccan Texture Paste                    7
+ * Texture Powder                            0
  * Peppermint Shampoo                        1
  * Peppermint Conditioner                    1
 
@@ -91,6 +92,7 @@ Shipped
  * Natural Beeswax Paste                     0
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
+ * Texture Powder                            0
  * Peppermint Shampoo                        0
  * Peppermint Conditioner                    0
 
