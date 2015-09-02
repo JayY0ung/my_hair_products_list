@@ -11,18 +11,19 @@ Received
   * Scheme Cream                             4
   * Modify Pomade                            6
   * Sponge Wax                               13
-  * Quicksand                                9
-  * Claymation                               12
+  * Quicksand                                28
+  * Claymation                               11
   * Hybridized Wax                           4
   * Gel Triq                                 1
-  * Natural Shampoo                          0
-  * Natural Conditioner                      0
-  * Sample Pack                              2
-  * Steel Comb with Leather                  0
+  * Natural Shampoo                          1
+  * Natural Conditioner                      1
+  * Sample Pack                              3
+  * Steel Comb with Leather                  2
 
 **Bonus**
 
   * Quicksand pocket jar                     1
+  * Shampoo & Conditioner Deluxe Kit         1
 
 ### BlackLabel ###
 
@@ -57,17 +58,17 @@ Shipped
   * Scheme Cream                             0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                20
+  * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
-  * Natural Shampoo                          1
-  * Natural Conditioner                      1
-  * Sample Pack                              1
-  * Steel Comb with Leather                  2
+  * Natural Shampoo                          0
+  * Natural Conditioner                      0
+  * Sample Pack                              0
+  * Steel Comb with Leather                  0
 
 **Bonus**
 
-  * Deluxe Shampoo && Conditioner            1
+  * Shampoo & Conditioner Deluxe Kit         0
   * Quicksand Pocket Jar                     0
 
 
@@ -104,14 +105,14 @@ Ordered but not shipping
 ### Hanz de Fuko ###
 
   * Scheme Cream                             0
-  * Modify Pomade                            0
+  * Modify Pomade                            15
   * Sponge Wax                               0
   * Quicksand                                0
-  * Claymation                               0
+  * Claymation                               5
   * Hybridized Wax                           0
   * Gel Triq                                 0
-  * Natural Shampoo                          0
-  * Natural Conditioner                      0
+  * Natural Shampoo                          1
+  * Natural Conditioner                      1
   * Sample Pack                              0
   * Steel Comb with Leather Sheath           0
 
@@ -149,8 +150,7 @@ Ordered but not shipping
 
 **DHL**
 
-1. 2590864916
-2. AUDMM000170518
+1. AUDMM000170518
 
 **USPS**
 
