@@ -9,10 +9,10 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            6
-  * Sponge Wax                               13
+  * Modify Pomade                            4
+  * Sponge Wax                               12
   * Quicksand                                28
-  * Claymation                               11
+  * Claymation                               10
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          1
@@ -27,12 +27,12 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               6
+  * Shapepaste                               16
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   4
-  * Treatment Cleansing Oil                  1
+  * Treatment Styling Balm                   3
+  * Treatment Cleansing Oil                  0
 
 ### Original by Blumaan ###
 
@@ -74,7 +74,7 @@ Shipped
 
 ### BlackLabel ###
 
-  * ShapePaste                               10
+  * ShapePaste                               0
 
 
 ### Morris Motley ###
