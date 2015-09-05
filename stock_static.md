@@ -10,7 +10,7 @@ Received
 
   * Scheme Cream                             4
   * Modify Pomade                            4
-  * Sponge Wax                               12
+  * Sponge Wax                               11
   * Quicksand                                28
   * Claymation                               10
   * Hybridized Wax                           4
@@ -160,3 +160,5 @@ Ordered but not shipping
 **Australia Post**
 
 **SingPost**
+
+1. RC637211021SG
