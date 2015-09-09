@@ -56,13 +56,13 @@ Shipped
 ### Hanz de Fuko ###
 
   * Scheme Cream                             0
-  * Modify Pomade                            0
+  * Modify Pomade                            15
   * Sponge Wax                               0
   * Quicksand                                0
-  * Claymation                               0
+  * Claymation                               5
   * Hybridized Wax                           0
-  * Natural Shampoo                          0
-  * Natural Conditioner                      0
+  * Natural Shampoo                          1
+  * Natural Conditioner                      1
   * Sample Pack                              0
   * Steel Comb with Leather                  0
 
@@ -89,11 +89,11 @@ Shipped
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         0
- * Natural Beeswax Paste                     0
+ * Peppermint Pomade                         5
+ * Natural Beeswax Paste                     5
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
- * Texture Powder                            0
+ * Texture Powder                            1
  * Peppermint Shampoo                        0
  * Peppermint Conditioner                    0
 
@@ -150,7 +150,9 @@ Ordered but not shipping
 
 **DHL**
 
-1. AUDMM000170518
+1. RX532200789DE
+2. RX532200792DE
+3. 7592518356
 
 **USPS**
 
