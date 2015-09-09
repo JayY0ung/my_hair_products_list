@@ -9,10 +9,10 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            2
+  * Modify Pomade                            1
   * Sponge Wax                               9
   * Quicksand                                25
-  * Claymation                               9
+  * Claymation                               8
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          0
