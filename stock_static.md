@@ -9,7 +9,7 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            1
+  * Modify Pomade                            0
   * Sponge Wax                               9
   * Quicksand                                25
   * Claymation                               8
@@ -126,7 +126,7 @@ Ordered but not shipping
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
+  * Treatment Styling Balm                   10
   * Treatment Cleansing Oil                  0
 
 
