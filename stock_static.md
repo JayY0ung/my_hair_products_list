@@ -9,15 +9,15 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            0
+  * Modify Pomade                            10
   * Sponge Wax                               9
   * Quicksand                                25
-  * Claymation                               8
+  * Claymation                               13
   * Hybridized Wax                           4
   * Gel Triq                                 1
-  * Natural Shampoo                          0
-  * Natural Conditioner                      1
-  * Sample Pack                              3
+  * Natural Shampoo                          1
+  * Natural Conditioner                      2
+  * Sample Pack                              2
   * Steel Comb with Leather                  2
 
 **Bonus**
@@ -40,7 +40,7 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         4
+ * Peppermint Pomade                         3
  * Natural Beeswax Paste                     6
  * Sculpting Clay                            7
  * Moroccan Texture Paste                    7
@@ -56,13 +56,13 @@ Shipped
 ### Hanz de Fuko ###
 
   * Scheme Cream                             0
-  * Modify Pomade                            15
+  * Modify Pomade                            0
   * Sponge Wax                               0
   * Quicksand                                0
-  * Claymation                               5
+  * Claymation                               0
   * Hybridized Wax                           0
-  * Natural Shampoo                          1
-  * Natural Conditioner                      1
+  * Natural Shampoo                          0
+  * Natural Conditioner                      0
   * Sample Pack                              0
   * Steel Comb with Leather                  0
 
