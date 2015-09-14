@@ -152,7 +152,6 @@ Ordered but not shipping
 
 1. RX532200789DE
 2. RX532200792DE
-3. 7592518356
 
 **USPS**
 
@@ -163,4 +162,3 @@ Ordered but not shipping
 
 **SingPost**
 
-1. RC637211021SG
