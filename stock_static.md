@@ -9,7 +9,7 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            9
+  * Modify Pomade                            8
   * Sponge Wax                               9
   * Quicksand                                24
   * Claymation                               13
@@ -105,13 +105,13 @@ Ordered but not shipping
 ### Hanz de Fuko ###
 
   * Scheme Cream                             0
-  * Modify Pomade                            0
+  * Modify Pomade                            20
   * Sponge Wax                               0
   * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
   * Gel Triq                                 0
-  * Natural Shampoo                          0
+  * Natural Shampoo                          2
   * Natural Conditioner                      0
   * Sample Pack                              0
   * Steel Comb with Leather Sheath           0
