@@ -9,9 +9,9 @@ Received
 ### Hanz de Fuko ###
 
   * Scheme Cream                             4
-  * Modify Pomade                            8
+  * Modify Pomade                            6
   * Sponge Wax                               9
-  * Quicksand                                24
+  * Quicksand                                23
   * Claymation                               13
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   2
-  * Treatment Cleansing Oil                  0
+  * Treatment Styling Balm                   12
+  * Treatment Cleansing Oil                  5
 
 ### Original by Blumaan ###
 
@@ -40,11 +40,11 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         3
- * Natural Beeswax Paste                     6
+ * Peppermint Pomade                         8
+ * Natural Beeswax Paste                     11
  * Sculpting Clay                            7
  * Moroccan Texture Paste                    7
- * Texture Powder                            0
+ * Texture Powder                            1
  * Peppermint Shampoo                        1
  * Peppermint Conditioner                    1
 
@@ -79,8 +79,8 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   20
-  * Treatment Cleansing Oil                  5
+  * Treatment Styling Balm                   10
+  * Treatment Cleansing Oil                  0
 
 
 ### Original by Blumaan ###
@@ -89,11 +89,11 @@ Shipped
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         5
- * Natural Beeswax Paste                     5
+ * Peppermint Pomade                         0
+ * Natural Beeswax Paste                     0
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
- * Texture Powder                            1
+ * Texture Powder                            0
  * Peppermint Shampoo                        0
  * Peppermint Conditioner                    0
 
@@ -152,7 +152,7 @@ Ordered but not shipping
 
 1. RX532200789DE
 2. RX532200792DE
-3. AUDMM000183051
+3. RX532670080DE
 
 **USPS**
 
