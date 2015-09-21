@@ -8,8 +8,9 @@ Received
 
 ### Hanz de Fuko ###
 
+  * Gravity Paste                            0
   * Scheme Cream                             4
-  * Modify Pomade                            6
+  * Modify Pomade                            5
   * Sponge Wax                               9
   * Quicksand                                23
   * Claymation                               13
@@ -55,7 +56,7 @@ Shipped
 
 ### Hanz de Fuko ###
 
-  * Scheme Cream                             0
+  * Gravity Paste                            0
   * Modify Pomade                            0
   * Sponge Wax                               0
   * Quicksand                                0
@@ -104,11 +105,11 @@ Ordered but not shipping
 
 ### Hanz de Fuko ###
 
-  * Scheme Cream                             0
+  * Gravity Paste                            10
   * Modify Pomade                            20
-  * Sponge Wax                               0
+  * Sponge Wax                               5
   * Quicksand                                0
-  * Claymation                               0
+  * Claymation                               5
   * Hybridized Wax                           0
   * Gel Triq                                 0
   * Natural Shampoo                          2
