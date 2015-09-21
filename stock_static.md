@@ -17,8 +17,8 @@ Received
   * Gel Triq                                 1
   * Natural Shampoo                          1
   * Natural Conditioner                      2
-  * Sample Pack                              2
-  * Steel Comb with Leather                  2
+  * Sample Pack                              3
+  * Steel Comb with Leather                  4
 
 **Bonus**
 
@@ -150,14 +150,11 @@ Ordered but not shipping
 
 **DHL**
 
-1. RX532200789DE
-2. RX532200792DE
-3. RX532670080DE
+1. RX532670080DE
 
 **USPS**
 
 1. LJ850030846US
-2. LJ699682706US
 
 **Australia Post**
 
