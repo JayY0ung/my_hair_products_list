@@ -45,6 +45,7 @@ Received
  * Natural Beeswax Paste                     11
  * Sculpting Clay                            7
  * Moroccan Texture Paste                    7
+ * Classic Wax                               0
  * Texture Powder                            1
  * Peppermint Shampoo                        1
  * Peppermint Conditioner                    1
@@ -94,6 +95,7 @@ Shipped
  * Natural Beeswax Paste                     0
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
+ * Classic Wax                               0
  * Texture Powder                            0
  * Peppermint Shampoo                        0
  * Peppermint Conditioner                    0
@@ -137,13 +139,14 @@ Ordered but not shipping
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         1
- * Natural Beeswax Paste                     0
+ * Peppermint Pomade                         6
+ * Natural Beeswax Paste                     2
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
+ * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        0
- * Peppermint Conditioner                    0
+ * Peppermint Shampoo                        1
+ * Peppermint Conditioner                    1
 
 -------------------------------------------------------------------------------
 
