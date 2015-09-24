@@ -105,7 +105,7 @@ Ordered but not shipping
 
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            10
+  * Gravity Paste                            0
   * Modify Pomade                            20
   * Sponge Wax                               5
   * Quicksand                                0
