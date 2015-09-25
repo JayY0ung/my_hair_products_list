@@ -16,15 +16,15 @@ Received
   * Claymation                               12
   * Hybridized Wax                           4
   * Gel Triq                                 1
-  * Natural Shampoo                          1
-  * Natural Conditioner                      2
+  * Natural Shampoo                          2
+  * Natural Conditioner                      3
   * Sample Pack                              3
   * Steel Comb with Leather                  4
 
 **Bonus**
 
   * Quicksand pocket jar                     1
-  * Shampoo & Conditioner Deluxe Kit         1
+  * Shampoo & Conditioner Deluxe Kit         2
 
 ### BlackLabel ###
 
@@ -158,8 +158,6 @@ Ordered but not shipping
 2. 2874123394
 
 **USPS**
-
-1. LJ850030846US
 
 **Australia Post**
 
