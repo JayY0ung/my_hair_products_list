@@ -12,8 +12,8 @@ Received
   * Scheme Cream                             4
   * Modify Pomade                            4
   * Sponge Wax                               9
-  * Quicksand                                22
-  * Claymation                               13
+  * Quicksand                                21
+  * Claymation                               12
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          1
@@ -58,12 +58,12 @@ Shipped
 ### Hanz de Fuko ###
 
   * Gravity Paste                            0
-  * Modify Pomade                            0
-  * Sponge Wax                               0
+  * Modify Pomade                            20
+  * Sponge Wax                               5
   * Quicksand                                0
-  * Claymation                               0
+  * Claymation                               5
   * Hybridized Wax                           0
-  * Natural Shampoo                          0
+  * Natural Shampoo                          2
   * Natural Conditioner                      0
   * Sample Pack                              0
   * Steel Comb with Leather                  0
@@ -108,13 +108,13 @@ Ordered but not shipping
 ### Hanz de Fuko ###
 
   * Gravity Paste                            0
-  * Modify Pomade                            20
-  * Sponge Wax                               5
+  * Modify Pomade                            0
+  * Sponge Wax                               0
   * Quicksand                                0
-  * Claymation                               5
+  * Claymation                               0
   * Hybridized Wax                           0
   * Gel Triq                                 0
-  * Natural Shampoo                          2
+  * Natural Shampoo                          0
   * Natural Conditioner                      0
   * Sample Pack                              0
   * Steel Comb with Leather Sheath           0
@@ -155,6 +155,7 @@ Ordered but not shipping
 **DHL**
 
 1. RX532670080DE
+2. 2874123394
 
 **USPS**
 
