@@ -91,14 +91,14 @@ Shipped
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         0
- * Natural Beeswax Paste                     0
+ * Peppermint Pomade                         6
+ * Natural Beeswax Paste                     2
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
- * Classic Wax                               0
+ * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        0
- * Peppermint Conditioner                    0
+ * Peppermint Shampoo                        1
+ * Peppermint Conditioner                    1
 
 -------------------------------------------------------------------------------
 
@@ -162,4 +162,6 @@ Ordered but not shipping
 **Australia Post**
 
 **SingPost**
+
+1. RC637180240SG
 
