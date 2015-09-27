@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   12
+  * Treatment Styling Balm                   22
   * Treatment Cleansing Oil                  5
 
 ### Original by Blumaan ###
@@ -81,7 +81,7 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   10
+  * Treatment Styling Balm                   0
   * Treatment Cleansing Oil                  0
 
 
@@ -154,12 +154,13 @@ Ordered but not shipping
 
 **DHL**
 
-1. RX532670080DE
-2. 2874123394
+1. 2874123394
 
 **USPS**
 
 **Australia Post**
 
 **SingPost**
+
+1. RC637180240SG
 
