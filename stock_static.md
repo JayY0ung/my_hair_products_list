@@ -42,7 +42,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         8
- * Natural Beeswax Paste                     11
+ * Natural Beeswax Paste                     10
  * Sculpting Clay                            7
  * Moroccan Texture Paste                    7
  * Classic Wax                               0
