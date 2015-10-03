@@ -164,3 +164,18 @@ Ordered but not shipping
 
 1. RC637180240SG
 
+-------------------------------------------------------------------------------
+
+### Retail store infomation collect ###
+
+1. Bussiness infomation
+   + Name of business
+   + Type of business
+   + Business address
+2. Salon/Shop name
+3. Website
+4. Contact information
+   + Name
+   + Relationship to business
+   + Business phone (alternate phone)
+   + Paypal
