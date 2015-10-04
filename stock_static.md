@@ -12,7 +12,7 @@ Received
   * Scheme Cream                             4
   * Modify Pomade                            3
   * Sponge Wax                               9
-  * Quicksand                                18
+  * Quicksand                                17
   * Claymation                               11
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   22
+  * Treatment Styling Balm                   21
   * Treatment Cleansing Oil                  5
 
 ### Original by Blumaan ###
