@@ -12,7 +12,7 @@ Received
   * Scheme Cream                             4
   * Modify Pomade                            3
   * Sponge Wax                               9
-  * Quicksand                                17
+  * Quicksand                                16
   * Claymation                               11
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -28,11 +28,11 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               16
+  * Shapepaste                               15
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   21
+  * Treatment Styling Balm                   20
   * Treatment Cleansing Oil                  5
 
 ### Original by Blumaan ###
@@ -42,7 +42,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         8
- * Natural Beeswax Paste                     10
+ * Natural Beeswax Paste                     9
  * Sculpting Clay                            7
  * Moroccan Texture Paste                    7
  * Classic Wax                               0
