@@ -12,13 +12,13 @@ Received
   * Scheme Cream                             4
   * Modify Pomade                            3
   * Sponge Wax                               9
-  * Quicksand                                16
+  * Quicksand                                14
   * Claymation                               11
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          2
   * Natural Conditioner                      3
-  * Sample Pack                              3
+  * Sample Pack                              2
   * Steel Comb with Leather                  4
 
 **Bonus**
