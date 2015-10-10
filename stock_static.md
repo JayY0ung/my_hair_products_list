@@ -18,7 +18,7 @@ Received
   * Gel Triq                                 1
   * Natural Shampoo                          4
   * Natural Conditioner                      3
-  * Sample Pack                              2
+  * Sample Pack                              1
   * Steel Comb with Leather                  4
 
 **Bonus**
