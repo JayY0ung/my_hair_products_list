@@ -57,15 +57,15 @@ Shipped
 
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            0
+  * Gravity Paste                            2
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                0
+  * Quicksand                                5
   * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
-  * Sample Pack                              0
+  * Sample Pack                              1
   * Steel Comb with Leather                  0
 
 **Bonus**
@@ -107,16 +107,16 @@ Ordered but not shipping
 
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            2
+  * Gravity Paste                            0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                5
+  * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
   * Gel Triq                                 0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
-  * Sample Pack                              1
+  * Sample Pack                              0
   * Steel Comb with Leather Sheath           0
 
 **Bonus**
@@ -153,6 +153,8 @@ Ordered but not shipping
 ### Package Tracking Numbers:
 
 **DHL**
+
+1. 4070014410
 
 **USPS**
 
