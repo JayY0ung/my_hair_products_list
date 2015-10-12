@@ -41,7 +41,7 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         14
+ * Peppermint Pomade                         12
  * Natural Beeswax Paste                     10
  * Sculpting Clay                            7
  * Moroccan Texture Paste                    7
@@ -91,7 +91,7 @@ Shipped
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         0
+ * Peppermint Pomade                         2
  * Natural Beeswax Paste                     0
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
@@ -162,6 +162,7 @@ Ordered but not shipping
 
 **SingPost**
 
+1. RC637184198SG
 
 -------------------------------------------------------------------------------
 
