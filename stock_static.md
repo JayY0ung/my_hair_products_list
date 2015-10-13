@@ -9,7 +9,7 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            0
-  * Scheme Cream                             4
+  * Scheme Cream                             3
   * Modify Pomade                            23
   * Sponge Wax                               11
   * Quicksand                                9
