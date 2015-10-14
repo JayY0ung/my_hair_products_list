@@ -19,7 +19,7 @@ Received
   * Natural Shampoo                          4
   * Natural Conditioner                      3
   * Sample Pack                              1
-  * Steel Comb with Leather                  4
+  * Steel Comb with Leather                  3
 
 **Bonus**
 
