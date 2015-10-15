@@ -8,17 +8,17 @@ Received
 
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            0
+  * Gravity Paste                            2
   * Scheme Cream                             3
   * Modify Pomade                            22
   * Sponge Wax                               11
-  * Quicksand                                9
+  * Quicksand                                14
   * Claymation                               12
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          4
   * Natural Conditioner                      3
-  * Sample Pack                              1
+  * Sample Pack                              2
   * Steel Comb with Leather                  3
 
 **Bonus**
@@ -57,15 +57,15 @@ Shipped
 
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            2
+  * Gravity Paste                            0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                5
+  * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
-  * Sample Pack                              1
+  * Sample Pack                              0
   * Steel Comb with Leather                  0
 
 **Bonus**
@@ -154,7 +154,6 @@ Ordered but not shipping
 
 **DHL**
 
-1. 4070014410
 
 **USPS**
 
