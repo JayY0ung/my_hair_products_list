@@ -110,13 +110,13 @@ Ordered but not shipping
   * Gravity Paste                            0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                0
-  * Claymation                               0
+  * Quicksand                                20
+  * Claymation                               10
   * Hybridized Wax                           0
   * Gel Triq                                 0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
-  * Sample Pack                              0
+  * Sample Pack                              5
   * Steel Comb with Leather Sheath           0
 
 **Bonus**
