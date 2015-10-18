@@ -10,9 +10,9 @@ Received
 
   * Gravity Paste                            2
   * Scheme Cream                             3
-  * Modify Pomade                            22
+  * Modify Pomade                            21
   * Sponge Wax                               11
-  * Quicksand                                13
+  * Quicksand                                12
   * Claymation                               11
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -28,7 +28,7 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               15
+  * Shapepaste                               14
 
 ### Morris Motley ###
 
