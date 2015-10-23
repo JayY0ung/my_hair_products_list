@@ -179,3 +179,16 @@ Ordered but not shipping
    + Relationship to business
    + Business phone (alternate phone)
    + Paypal
+
+-------------------------------------------------------------------------------
+
+### 地址 ###
+
+地址：香港新界上水新运路188号剑桥广场B座B221室A单位
+联系人：袁少入仓号LC555
+电话：00852-69446123 / 15815581515
+
+Address: No.A, Rm B221, Block B, Cambridge Plaza, No.188 of Xin Yun Road,
+Sheung Shui, New Territorie, HongKong
+Contact: Mr. Qiao Yuan (LC555)
+Tel: 00852-69446123 / 15815581515
