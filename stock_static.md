@@ -12,13 +12,13 @@ Received
   * Scheme Cream                             3
   * Modify Pomade                            21
   * Sponge Wax                               11
-  * Quicksand                                9
-  * Claymation                               11
+  * Quicksand                                8
+  * Claymation                               10
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          4
   * Natural Conditioner                      3
-  * Sample Pack                              2
+  * Sample Pack                              1
   * Steel Comb with Leather                  3
 
 **Bonus**
@@ -60,7 +60,7 @@ Shipped
   * Gravity Paste                            0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                20
+  * Quicksand                                20(1)
   * Claymation                               10
   * Hybridized Wax                           0
   * Natural Shampoo                          0
@@ -135,7 +135,7 @@ Ordered but not shipping
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         12
+  * Styling Meraki (Special Edition)         12(3)
 
 ### Mister Pompadour ###
 
