@@ -12,9 +12,9 @@ Received
   * Scheme Cream                             3
   * Modify Pomade                            21
   * Sponge Wax                               11
-  * Quicksand                                7
+  * Quicksand                                6
   * Quicksand(Aus)                           19
-  * Claymation                               9
+  * Claymation                               8
   * Claymation(Aus)                          10
   * Hybridized Wax                           4
   * Gel Triq                                 1
