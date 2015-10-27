@@ -14,7 +14,7 @@ Received
   * Sponge Wax                               11
   * Quicksand                                8
   * Quicksand(Aus)                           19
-  * Claymation                               10
+  * Claymation                               9
   * Claymation(Aus)                          10
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -47,7 +47,7 @@ Received
  * Peppermint Pomade                         14
  * Natural Beeswax Paste                     7
  * Sculpting Clay                            7
- * Moroccan Texture Paste                    5
+ * Moroccan Texture Paste                    4
  * Classic Wax                               1
  * Texture Powder                            1
  * Peppermint Shampoo                        2
