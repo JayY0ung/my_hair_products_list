@@ -12,7 +12,7 @@ Received
   * Scheme Cream                             3
   * Modify Pomade                            19
   * Sponge Wax                               10
-  * Quicksand                                1
+  * Quicksand                                0
   * Quicksand(Aus)                           5
   * Claymation                               5
   * Claymation(Aus)                          5
@@ -31,7 +31,7 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               14
+  * Shapepaste                               13
   * CraftClay                                0
 
 ### Morris Motley ###
@@ -81,7 +81,7 @@ Shipped
 ### BlackLabel ###
 
   * ShapePaste                               0
-  * CraftClay                                2
+  * CraftClay                                2(1)
 
 
 ### Morris Motley ###
@@ -141,7 +141,7 @@ Ordered but not shipping
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         12(3)
+  * Styling Meraki (Special Edition)         12(4)
 
 ### Mister Pompadour ###
 
