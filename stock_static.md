@@ -130,7 +130,7 @@ Ordered but not shipping
 ### BlackLabel ###
 
   * ShapePaste                               0
-  * CraftClay                                0
+  * CraftClay                                5
 
 
 ### Morris Motley ###
