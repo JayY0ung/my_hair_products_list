@@ -20,7 +20,7 @@ Received
   * Gel Triq                                 1
   * Natural Shampoo                          4
   * Natural Conditioner                      3
-  * Sample Pack                              1
+  * Sample Pack                              0
   * Sample Pack(Aus)                         5
   * Steel Comb with Leather                  3
 
