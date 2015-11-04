@@ -14,7 +14,7 @@ Received
   * Sponge Wax                               10
   * Quicksand                                0
   * Quicksand(Aus)                           5
-  * Claymation                               5
+  * Claymation                               4
   * Claymation(Aus)                          5
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -36,7 +36,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   11
+  * Treatment Styling Balm                   10
   * Treatment Cleansing Oil                  4
 
 ### Original by Blumaan ###
