@@ -14,7 +14,7 @@ Received
   * Sponge Wax                               10
   * Quicksand                                0
   * Quicksand(Aus)                           5
-  * Claymation                               4
+  * Claymation                               3
   * Claymation(Aus)                          5
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -22,7 +22,7 @@ Received
   * Natural Conditioner                      3
   * Sample Pack                              0
   * Sample Pack(Aus)                         5
-  * Steel Comb with Leather                  3
+  * Steel Comb with Leather                  2
 
 **Bonus**
 
@@ -45,7 +45,7 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         13
+ * Peppermint Pomade                         12
  * Natural Beeswax Paste                     6
  * Sculpting Clay                            7
  * Moroccan Texture Paste                    4
@@ -91,7 +91,7 @@ Shipped
 ### BlackLabel ###
 
   * ShapePaste                               0
-  * CraftClay                                7(1)
+  * CraftClay                                7(2)
 
 
 ### Morris Motley ###
@@ -161,7 +161,7 @@ Ordered but not shipping
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         12(4)
+  * Styling Meraki (Special Edition)         12(5)
 
 ### Mister Pompadour ###
 
