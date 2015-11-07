@@ -11,10 +11,10 @@ Received
   * Gravity Paste                            1
   * Scheme Cream                             3
   * Modify Pomade                            19
-  * Sponge Wax                               10
+  * Sponge Wax                               9
   * Quicksand                                0
   * Quicksand(Aus)                           5
-  * Claymation                               3
+  * Claymation                               2
   * Claymation(Aus)                          5
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -48,7 +48,7 @@ Received
  * Peppermint Pomade                         12
  * Natural Beeswax Paste                     6
  * Sculpting Clay                            7
- * Moroccan Texture Paste                    4
+ * Moroccan Texture Paste                    3
  * Classic Wax                               1
  * Texture Powder                            1
  * Peppermint Shampoo                        2
