@@ -36,7 +36,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   7
+  * Treatment Styling Balm                   6
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
@@ -161,7 +161,7 @@ Ordered but not shipping
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         12(5)
+  * Styling Meraki (Special Edition)         12(4)
 
 ### Mister Pompadour ###
 
