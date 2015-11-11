@@ -11,7 +11,7 @@ Received
   * Gravity Paste                            1
   * Scheme Cream                             3
   * Modify Pomade                            19
-  * Sponge Wax                               9
+  * Sponge Wax                               8
   * Quicksand                                0
   * Quicksand(Aus)                           5
   * Claymation                               0
@@ -45,7 +45,7 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         12
+ * Peppermint Pomade                         11
  * Natural Beeswax Paste                     6
  * Sculpting Clay                            7
  * Moroccan Texture Paste                    3
