@@ -12,15 +12,15 @@ Received
   * Scheme Cream                             3
   * Modify Pomade                            19
   * Sponge Wax                               8
-  * Quicksand                                0
+  * Quicksand                                13
   * Quicksand(Aus)                           5
-  * Claymation                               0
+  * Claymation                               5
   * Claymation(Aus)                          5
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          4
   * Natural Conditioner                      3
-  * Sample Pack                              0
+  * Sample Pack                              5
   * Sample Pack(Aus)                         5
   * Steel Comb with Leather                  2
 
@@ -74,12 +74,12 @@ Shipped
   * Gravity Paste                            0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                13
-  * Claymation                               5
+  * Quicksand                                0
+  * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
-  * Sample Pack                              5
+  * Sample Pack                              0
   * Steel Comb with Leather                  0
 
 **Bonus**
@@ -199,7 +199,6 @@ Ordered but not shipping
 
 **Everfast Aus**
 
-1. S158177635S (中通 359959816256)
 
 **SingPost**
 
