@@ -56,13 +56,13 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               0
- * Hard Water Pomade                         0
- * Hard Cream Pomade                         0
- * Soft Water Pomade                         0
- * Cream Pomade                              0
- * Pocket Comb                               0
- * Large Comb                                0
+ * Clay Pomade                               2
+ * Hard Water Pomade                         2
+ * Hard Cream Pomade                         1
+ * Soft Water Pomade                         1
+ * Cream Pomade                              1
+ * Pocket Comb                               1
+ * Large Comb                                1
 
 -------------------------------------------------------------------------------
 
@@ -117,13 +117,13 @@ Shipped
 
 ### Baxter of California ###
 
- * Clay Pomade                               2
- * Hard Water Pomade                         2
- * Hard Cream Pomade                         1
- * Soft Water Pomade                         1
- * Cream Pomade                              1
- * Pocket Comb                               1
- * Large Comb                                1
+ * Clay Pomade                               0
+ * Hard Water Pomade                         0
+ * Hard Cream Pomade                         0
+ * Soft Water Pomade                         0
+ * Cream Pomade                              0
+ * Pocket Comb                               0
+ * Large Comb                                0
 
 -------------------------------------------------------------------------------
 
@@ -193,7 +193,6 @@ Ordered but not shipping
 
 **USPS**
 
-1. CJ494229630US
 
 **Australia Post**
 
