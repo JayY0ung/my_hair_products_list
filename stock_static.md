@@ -32,7 +32,7 @@ Received
 ### BlackLabel ###
 
   * Shapepaste                               11
-  * CraftClay                                2
+  * CraftClay                                1
 
 ### Morris Motley ###
 
