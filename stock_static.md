@@ -134,9 +134,9 @@ Ordered but not shipping
 
   * Gravity Paste                            3
   * Modify Pomade                            0
-  * Sponge Wax                               0
-  * Quicksand                                20
-  * Claymation                               10
+  * Sponge Wax                               10
+  * Quicksand                                55
+  * Claymation                               45
   * Hybridized Wax                           0
   * Gel Triq                                 0
   * Natural Shampoo                          0
