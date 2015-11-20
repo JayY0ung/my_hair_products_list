@@ -64,6 +64,24 @@ Received
  * Pocket Comb                               1
  * Large Comb                                1
 
+### O'Douds ###
+
+ * Water Based Pomade                        0
+ * Traditional Pomade
+     * Light                                 0
+     * Original                              0
+     * Heavy                                 0
+ * Shampoo                                   0
+ * Soap
+     * Bay Rum                               0
+     * Lemon Lavender                        0
+ * Cologne
+     * Heritage                              0
+     * Tobacoo Rum                           0
+ * Solid Cologne
+     * Heritage                              0
+     * Tobacoo Rum                           0
+
 -------------------------------------------------------------------------------
 
 Shipped
@@ -125,6 +143,24 @@ Shipped
  * Pocket Comb                               0
  * Large Comb                                0
 
+### O'Douds ###
+
+ * Water Based Pomade                        30
+ * Traditional Pomade
+     * Light                                 5
+     * Original                              10
+     * Heavy                                 5
+ * Shampoo                                   10
+ * Soap
+     * Bay Rum                               5
+     * Lemon Lavender                        5
+ * Cologne
+     * Heritage                              1
+     * Tobacoo Rum                           0
+ * Solid Cologne
+     * Heritage                              1
+     * Tobacoo Rum                           0
+
 -------------------------------------------------------------------------------
 
 Ordered but not shipping
@@ -184,6 +220,25 @@ Ordered but not shipping
  * Pocket Comb                               0
  * Large Comb                                0
 
+### O'Douds ###
+
+ * Water Based Pomade                        0
+ * Traditional Pomade
+     * Light                                 0
+     * Original                              0
+     * Heavy                                 0
+ * Shampoo                                   0
+ * Soap
+     * Bay Rum                               0
+     * Lemon Lavender                        0
+ * Cologne
+     * Heritage                              0
+     * Tobacoo Rum                           0
+ * Solid Cologne
+     * Heritage                              0
+     * Tobacoo Rum                           0
+
+
 -------------------------------------------------------------------------------
 
 ### Package Tracking Numbers:
@@ -193,6 +248,7 @@ Ordered but not shipping
 
 **USPS**
 
+1. CJ447790497US
 
 **Australia Post**
 
