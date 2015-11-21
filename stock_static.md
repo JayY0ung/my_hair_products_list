@@ -12,17 +12,17 @@ Received
   * Scheme Cream                             3
   * Modify Pomade                            19
   * Sponge Wax                               8
-  * Quicksand                                9
+  * Quicksand                                6
   * Quicksand(Aus)                           5
   * Claymation                               0
   * Claymation(Aus)                          5
   * Hybridized Wax                           4
   * Gel Triq                                 1
-  * Natural Shampoo                          4
+  * Natural Shampoo                          3
   * Natural Conditioner                      3
   * Sample Pack                              5
-  * Sample Pack(Aus)                         5
-  * Steel Comb with Leather                  2
+  * Sample Pack(Aus)                         0
+  * Steel Comb with Leather                  1
 
 **Bonus**
 
@@ -31,12 +31,12 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               10
+  * Shapepaste                               8
   * CraftClay                                5
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   6
+  * Treatment Styling Balm                   5
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
