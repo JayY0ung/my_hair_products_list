@@ -18,8 +18,8 @@ Received
   * Claymation(Aus)                          5
   * Hybridized Wax                           4
   * Gel Triq                                 1
-  * Natural Shampoo                          3
-  * Natural Conditioner                      3
+  * Natural Shampoo                          2
+  * Natural Conditioner                      2
   * Sample Pack                              5
   * Sample Pack(Aus)                         0
   * Steel Comb with Leather                  1
@@ -36,7 +36,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   5
+  * Treatment Styling Balm                   3
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
@@ -45,8 +45,8 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         11
- * Natural Beeswax Paste                     5
+ * Peppermint Pomade                         10
+ * Natural Beeswax Paste                     4
  * Sculpting Clay                            7
  * Moroccan Texture Paste                    3
  * Classic Wax                               1
