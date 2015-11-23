@@ -114,7 +114,7 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
+  * Treatment Styling Balm                   20
   * Treatment Cleansing Oil                  0
 
 
@@ -191,7 +191,7 @@ Ordered but not shipping
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   20
+  * Treatment Styling Balm                   0
   * Treatment Cleansing Oil                  0
 
 
