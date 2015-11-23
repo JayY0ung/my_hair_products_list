@@ -14,7 +14,7 @@ Received
   * Sponge Wax                               18
   * Quicksand                                41
   * Quicksand(Aus)                           5
-  * Claymation                               35
+  * Claymation                               34
   * Claymation(Aus)                          5
   * Hybridized Wax                           4
   * Gel Triq                                 1
