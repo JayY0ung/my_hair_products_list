@@ -10,11 +10,11 @@ Received
 
   * Gravity Paste                            1
   * Scheme Cream                             2
-  * Modify Pomade                            18
+  * Modify Pomade                            17
   * Sponge Wax                               18
-  * Quicksand                                38
+  * Quicksand                                37
   * Quicksand(Aus)                           5
-  * Claymation                               33
+  * Claymation                               32
   * Claymation(Aus)                          5
   * Hybridized Wax                           4
   * Gel Triq                                 1
