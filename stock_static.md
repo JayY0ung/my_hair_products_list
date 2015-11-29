@@ -175,10 +175,10 @@ Ordered but not shipping
   * Claymation                               10
   * Hybridized Wax                           0
   * Gel Triq                                 0
-  * Natural Shampoo                          0
+  * Natural Shampoo                          10
   * Natural Conditioner                      0
   * Sample Pack                              0
-  * Steel Comb with Leather Sheath           0
+  * Steel Comb with Leather Sheath           5
 
 **Bonus**
 
