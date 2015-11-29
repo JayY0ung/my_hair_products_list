@@ -9,7 +9,7 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            1
-  * Scheme Cream                             2
+  * Scheme Cream                             1
   * Modify Pomade                            17
   * Sponge Wax                               17
   * Quicksand                                37
@@ -20,7 +20,7 @@ Received
   * Gel Triq                                 1
   * Natural Shampoo                          0
   * Natural Conditioner                      2
-  * Sample Pack                              5
+  * Sample Pack                              4
   * Sample Pack(Aus)                         0
   * Steel Comb with Leather                  1
 
