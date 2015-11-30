@@ -36,7 +36,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   20
+  * Treatment Styling Balm                   18
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
