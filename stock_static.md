@@ -36,7 +36,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
+  * Treatment Styling Balm                   20
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
@@ -114,7 +114,7 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   20
+  * Treatment Styling Balm                   0
   * Treatment Cleansing Oil                  0
 
 
@@ -245,7 +245,6 @@ Ordered but not shipping
 
 **DHL**
 
-1. 5338112006
 
 **USPS**
 
