@@ -12,7 +12,7 @@ Received
   * Scheme Cream                             1
   * Modify Pomade                            16
   * Sponge Wax                               16
-  * Quicksand                                34
+  * Quicksand                                33
   * Quicksand(Aus)                           5
   * Claymation                               29
   * Claymation(Aus)                          5
