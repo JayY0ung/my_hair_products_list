@@ -14,7 +14,7 @@ Received
   * Sponge Wax                               16
   * Quicksand                                33
   * Quicksand(Aus)                           5
-  * Claymation                               29
+  * Claymation                               27
   * Claymation(Aus)                          5
   * Hybridized Wax                           4
   * Gel Triq                                 1
@@ -36,7 +36,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   16
+  * Treatment Styling Balm                   14
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
@@ -51,8 +51,8 @@ Received
  * Moroccan Texture Paste                    3
  * Classic Wax                               1
  * Texture Powder                            1
- * Peppermint Shampoo                        2
- * Peppermint Conditioner                    2
+ * Peppermint Shampoo                        1
+ * Peppermint Conditioner                    1
 
 ### Baxter of California ###
 
