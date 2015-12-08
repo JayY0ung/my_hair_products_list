@@ -66,20 +66,20 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        0
+ * Water Based Pomade                        28
  * Traditional Pomade
-     * Light                                 0
-     * Original                              0
-     * Heavy                                 0
- * Shampoo                                   0
+     * Light                                 5
+     * Original                              10
+     * Heavy                                 5
+ * Shampoo                                   9
  * Soap
-     * Bay Rum                               0
-     * Lemon Lavender                        0
+     * Bay Rum                               5
+     * Lemon Lavender                        5
  * Cologne
-     * Heritage                              0
+     * Heritage                              1
      * Tobacoo Rum                           0
  * Solid Cologne
-     * Heritage                              0
+     * Heritage                              1
      * Tobacoo Rum                           0
 
 -------------------------------------------------------------------------------
@@ -145,20 +145,20 @@ Shipped
 
 ### O'Douds ###
 
- * Water Based Pomade                        30
+ * Water Based Pomade                        0
  * Traditional Pomade
-     * Light                                 5
-     * Original                              10
-     * Heavy                                 5
- * Shampoo                                   10
+     * Light                                 0
+     * Original                              0
+     * Heavy                                 0
+ * Shampoo                                   0
  * Soap
-     * Bay Rum                               5
-     * Lemon Lavender                        5
+     * Bay Rum                               0
+     * Lemon Lavender                        0
  * Cologne
-     * Heritage                              1
+     * Heritage                              0
      * Tobacoo Rum                           0
  * Solid Cologne
-     * Heritage                              1
+     * Heritage                              0
      * Tobacoo Rum                           0
 
 -------------------------------------------------------------------------------
@@ -248,7 +248,6 @@ Ordered but not shipping
 
 **USPS**
 
-1. CJ447790497US
 
 **Australia Post**
 
