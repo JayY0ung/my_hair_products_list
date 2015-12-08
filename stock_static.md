@@ -9,18 +9,18 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            1
-  * Scheme Cream                             1
-  * Modify Pomade                            16
+  * Scheme Cream                             0
+  * Modify Pomade                            15
   * Sponge Wax                               16
-  * Quicksand                                33
+  * Quicksand                                31
   * Quicksand(Aus)                           5
-  * Claymation                               27
+  * Claymation                               26
   * Claymation(Aus)                          5
   * Hybridized Wax                           4
   * Gel Triq                                 1
   * Natural Shampoo                          0
   * Natural Conditioner                      2
-  * Sample Pack                              4
+  * Sample Pack                              3
   * Sample Pack(Aus)                         0
   * Steel Comb with Leather                  1
 
@@ -32,11 +32,11 @@ Received
 ### BlackLabel ###
 
   * Shapepaste                               8
-  * CraftClay                                5
+  * CraftClay                                4
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   14
+  * Treatment Styling Balm                   13
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
@@ -56,7 +56,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               2
+ * Clay Pomade                               1
  * Hard Water Pomade                         2
  * Hard Cream Pomade                         1
  * Soft Water Pomade                         1
@@ -197,7 +197,7 @@ Ordered but not shipping
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         12(4)
+  * Styling Meraki (Special Edition)         12(5)
 
 ### Mister Pompadour ###
 
