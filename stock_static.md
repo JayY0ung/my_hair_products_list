@@ -32,11 +32,11 @@ Received
 ### BlackLabel ###
 
   * Shapepaste                               8
-  * CraftClay                                4
+  * CraftClay                                3
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   13
+  * Treatment Styling Balm                   12
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
