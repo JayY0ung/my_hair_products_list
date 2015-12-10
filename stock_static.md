@@ -47,7 +47,7 @@ Received
 
  * Peppermint Pomade                         9
  * Natural Beeswax Paste                     2
- * Sculpting Clay                            7
+ * Sculpting Clay                            6
  * Moroccan Texture Paste                    3
  * Classic Wax                               1
  * Texture Powder                            1
