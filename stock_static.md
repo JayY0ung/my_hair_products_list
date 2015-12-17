@@ -81,6 +81,7 @@ Received
  * Solid Cologne
      * Heritage                              1
      * Tobacoo Rum                           0
+ * Winter stockist pomade                    0
 
 -------------------------------------------------------------------------------
 
@@ -160,6 +161,7 @@ Shipped
  * Solid Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
+ * Winter stockist pomade                    0
 
 -------------------------------------------------------------------------------
 
@@ -232,12 +234,12 @@ Ordered but not shipping
      * Bay Rum                               0
      * Lemon Lavender                        0
  * Cologne
-     * Heritage                              0
-     * Tobacoo Rum                           0
+     * Heritage                              10
+     * Tobacoo Rum                           10
  * Solid Cologne
-     * Heritage                              0
-     * Tobacoo Rum                           0
-
+     * Heritage                              1
+     * Tobacoo Rum                           2
+ * Winter stockist pomade                    20
 
 -------------------------------------------------------------------------------
 
