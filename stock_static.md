@@ -56,7 +56,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               1
+ * Clay Pomade                               0
  * Hard Water Pomade                         2
  * Hard Cream Pomade                         1
  * Soft Water Pomade                         1
