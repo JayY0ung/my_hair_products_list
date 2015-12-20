@@ -156,12 +156,12 @@ Shipped
      * Bay Rum                               0
      * Lemon Lavender                        0
  * Cologne
-     * Heritage                              0
-     * Tobacoo Rum                           0
+     * Heritage                              1
+     * Tobacoo Rum                           2
  * Solid Cologne
-     * Heritage                              0
-     * Tobacoo Rum                           0
- * Winter stockist pomade                    0
+     * Heritage                              10
+     * Tobacoo Rum                           10
+ * Winter stockist pomade                    20
 
 -------------------------------------------------------------------------------
 
@@ -234,12 +234,12 @@ Ordered but not shipping
      * Bay Rum                               0
      * Lemon Lavender                        0
  * Cologne
-     * Heritage                              10
-     * Tobacoo Rum                           10
+     * Heritage                              0
+     * Tobacoo Rum                           0
  * Solid Cologne
-     * Heritage                              1
-     * Tobacoo Rum                           2
- * Winter stockist pomade                    20
+     * Heritage                              0
+     * Tobacoo Rum                           0
+ * Winter stockist pomade                    0
 
 -------------------------------------------------------------------------------
 
@@ -250,6 +250,7 @@ Ordered but not shipping
 
 **USPS**
 
+1. CJ500874991US
 
 **Australia Post**
 
