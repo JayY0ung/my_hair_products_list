@@ -214,7 +214,7 @@ Ordered but not shipping
 
 ### Baxter of California ###
 
- * Clay Pomade                               0
+ * Clay Pomade                               5
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
