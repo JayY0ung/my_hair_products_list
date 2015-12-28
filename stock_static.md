@@ -14,7 +14,7 @@ Received
   * Sponge Wax                               14
   * Quicksand                                19
   * Quicksand(Aus)                           5
-  * Claymation                               12
+  * Claymation                               11
   * Claymation(Aus)                          5
   * Hybridized Wax                           2
   * Gel Triq                                 1
@@ -32,7 +32,7 @@ Received
 ### BlackLabel ###
 
   * Shapepaste                               8
-  * CraftClay                                3
+  * CraftClay                                2
 
 ### Morris Motley ###
 
@@ -52,7 +52,7 @@ Received
  * Classic Wax                               1
  * Texture Powder                            1
  * Peppermint Shampoo                        1
- * Peppermint Conditioner                    1
+ * Peppermint Conditioner                    0
 
 ### Baxter of California ###
 
@@ -96,10 +96,10 @@ Shipped
   * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
-  * Natural Shampoo                          0
+  * Natural Shampoo                          10
   * Natural Conditioner                      0
   * Sample Pack                              0
-  * Steel Comb with Leather                  0
+  * Steel Comb with Leather                  5
 
 **Bonus**
 
@@ -115,7 +115,7 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
+  * Treatment Styling Balm                   20
   * Treatment Cleansing Oil                  0
 
 
@@ -177,10 +177,10 @@ Ordered but not shipping
   * Claymation                               10
   * Hybridized Wax                           0
   * Gel Triq                                 0
-  * Natural Shampoo                          10
+  * Natural Shampoo                          0
   * Natural Conditioner                      0
   * Sample Pack                              0
-  * Steel Comb with Leather Sheath           5
+  * Steel Comb with Leather Sheath           0
 
 **Bonus**
 
@@ -193,7 +193,7 @@ Ordered but not shipping
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   20
+  * Treatment Styling Balm                   0
   * Treatment Cleansing Oil                  0
 
 
@@ -256,6 +256,10 @@ Ordered but not shipping
 
 **Everfast Aus**
 
+1. S158220141S
+2. S158220135S
+3. S158220124S
+4. S158220139S
 
 **SingPost**
 
