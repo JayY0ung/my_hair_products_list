@@ -10,7 +10,7 @@ Received
 
   * Gravity Paste                            1
   * Scheme Cream                             0
-  * Modify Pomade                            12
+  * Modify Pomade                            11
   * Sponge Wax                               14
   * Quicksand                                19
   * Quicksand(Aus)                           5
