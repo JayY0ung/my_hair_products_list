@@ -71,17 +71,17 @@ Received
      * Light                                 5
      * Original                              10
      * Heavy                                 5
- * Shampoo                                   9
+ * Shampoo                                   8
  * Soap
      * Bay Rum                               5
-     * Lemon Lavender                        5
+     * Lemon Lavender                        4
  * Cologne
      * Heritage                              2
      * Tobacoo Rum                           2
  * Solid Cologne
-     * Heritage                              11
-     * Tobacoo Rum                           10
- * Winter stockist pomade                    20
+     * Heritage                              10
+     * Tobacoo Rum                           9
+ * Winter stockist pomade                    18
 
 -------------------------------------------------------------------------------
 
