@@ -12,9 +12,9 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            11
   * Sponge Wax                               14
-  * Quicksand                                18
+  * Quicksand                                17
   * Quicksand(Aus)                           5
-  * Claymation                               9
+  * Claymation                               6
   * Claymation(Aus)                          5
   * Hybridized Wax                           2
   * Gel Triq                                 1
@@ -22,7 +22,7 @@ Received
   * Natural Conditioner                      2
   * Sample Pack                              0
   * Sample Pack(Aus)                         0
-  * Steel Comb with Leather                  1
+  * Steel Comb with Leather                  0
 
 **Bonus**
 
@@ -68,10 +68,10 @@ Received
 
  * Water Based Pomade                        28
  * Traditional Pomade
-     * Light                                 5
+     * Light                                 4
      * Original                              10
      * Heavy                                 5
- * Shampoo                                   8
+ * Shampoo                                   6
  * Soap
      * Bay Rum                               5
      * Lemon Lavender                        4
