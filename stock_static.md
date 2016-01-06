@@ -93,8 +93,8 @@ Shipped
   * Gravity Paste                            0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                0
-  * Claymation                               0
+  * Quicksand                                10
+  * Claymation                               20
   * Hybridized Wax                           0
   * Natural Shampoo                          10
   * Natural Conditioner                      0
@@ -265,6 +265,7 @@ Ordered but not shipping
 
 **SingPost**
 
+1. CR923717479SG
 
 -------------------------------------------------------------------------------
 
