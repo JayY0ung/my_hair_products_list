@@ -61,7 +61,7 @@ Received
  * Hard Cream Pomade                         1
  * Soft Water Pomade                         1
  * Cream Pomade                              1
- * Pocket Comb                               1
+ * Pocket Comb                               0
  * Large Comb                                1
 
 ### O'Douds ###
@@ -73,15 +73,15 @@ Received
      * Heavy                                 5
  * Shampoo                                   6
  * Soap
-     * Bay Rum                               5
+     * Bay Rum                               4
      * Lemon Lavender                        4
  * Cologne
      * Heritage                              2
      * Tobacoo Rum                           2
  * Solid Cologne
      * Heritage                              10
-     * Tobacoo Rum                           9
- * Winter stockist pomade                    18
+     * Tobacoo Rum                           8
+ * Winter stockist pomade                    17
 
 -------------------------------------------------------------------------------
 
