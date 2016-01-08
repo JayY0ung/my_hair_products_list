@@ -36,7 +36,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
+  * Treatment Styling Balm                   15
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
@@ -115,7 +115,7 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   30
+  * Treatment Styling Balm                   15
   * Treatment Cleansing Oil                  0
   * Comb                                     5
 
@@ -260,7 +260,6 @@ Ordered but not shipping
 
 1. S158220141S
 2. S158220135S 530460547493[中通]
-3. S158220124S 530460556745[中通]
 4. S158220139S 9700790561599[EMS]
 
 **SingPost**
