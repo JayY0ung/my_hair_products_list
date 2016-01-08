@@ -46,7 +46,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         7
- * Natural Beeswax Paste                     1
+ * Natural Beeswax Paste                     0
  * Sculpting Clay                            4
  * Moroccan Texture Paste                    3
  * Classic Wax                               1
@@ -66,7 +66,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        28
+ * Water Based Pomade                        27
  * Traditional Pomade
      * Light                                 4
      * Original                              10
