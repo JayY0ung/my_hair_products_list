@@ -10,7 +10,7 @@ Received
 
   * Gravity Paste                            1
   * Scheme Cream                             0
-  * Modify Pomade                            11
+  * Modify Pomade                            10
   * Sponge Wax                               12
   * Quicksand                                16
   * Quicksand(Aus)                           5
@@ -36,7 +36,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   11
+  * Treatment Styling Balm                   8
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
