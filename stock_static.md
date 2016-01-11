@@ -18,11 +18,11 @@ Received
   * Claymation(Aus)                          5
   * Hybridized Wax                           2
   * Gel Triq                                 1
-  * Natural Shampoo                          0
+  * Natural Shampoo                          10
   * Natural Conditioner                      2
   * Sample Pack                              0
   * Sample Pack(Aus)                         0
-  * Steel Comb with Leather                  0
+  * Steel Comb with Leather                  5
 
 **Bonus**
 
@@ -96,10 +96,10 @@ Shipped
   * Quicksand                                10
   * Claymation                               20
   * Hybridized Wax                           0
-  * Natural Shampoo                          10
+  * Natural Shampoo                          0
   * Natural Conditioner                      0
   * Sample Pack                              0
-  * Steel Comb with Leather                  5
+  * Steel Comb with Leather                  0
 
 **Bonus**
 
@@ -259,7 +259,6 @@ Ordered but not shipping
 **Everfast Aus**
 
 1. S158220141S
-4. S158220139S 9700790561599[EMS]
 
 **SingPost**
 
