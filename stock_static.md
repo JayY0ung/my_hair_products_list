@@ -12,9 +12,9 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            10
   * Sponge Wax                               12
-  * Quicksand                                16
+  * Quicksand                                26
   * Quicksand(Aus)                           5
-  * Claymation                               0
+  * Claymation                               20
   * Claymation(Aus)                          5
   * Hybridized Wax                           2
   * Gel Triq                                 1
@@ -93,8 +93,8 @@ Shipped
   * Gravity Paste                            0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                10
-  * Claymation                               20
+  * Quicksand                                0
+  * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
@@ -262,7 +262,6 @@ Ordered but not shipping
 
 **SingPost**
 
-1. CR923717479SG
 
 -------------------------------------------------------------------------------
 
