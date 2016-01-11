@@ -10,15 +10,15 @@ Received
 
   * Gravity Paste                            1
   * Scheme Cream                             0
-  * Modify Pomade                            10
-  * Sponge Wax                               12
-  * Quicksand                                26
+  * Modify Pomade                            9
+  * Sponge Wax                               11
+  * Quicksand                                24
   * Quicksand(Aus)                           5
-  * Claymation                               20
+  * Claymation                               12
   * Claymation(Aus)                          5
   * Hybridized Wax                           2
   * Gel Triq                                 1
-  * Natural Shampoo                          10
+  * Natural Shampoo                          9
   * Natural Conditioner                      2
   * Sample Pack                              0
   * Sample Pack(Aus)                         0
@@ -31,12 +31,12 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               7
+  * Shapepaste                               6
   * CraftClay                                1
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   8
+  * Treatment Styling Balm                   7
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
