@@ -12,8 +12,8 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            9
   * Sponge Wax                               11
-  * Quicksand                                24
-  * Claymation                               11
+  * Quicksand                                23
+  * Claymation                               10
   * Hybridized Wax                           2
   * Gel Triq                                 1
   * Natural Shampoo                          9
@@ -33,7 +33,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   12
+  * Treatment Styling Balm                   10
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
@@ -77,7 +77,7 @@ Received
      * Tobacoo Rum                           2
  * Solid Cologne
      * Heritage                              10
-     * Tobacoo Rum                           8
+     * Tobacoo Rum                           7
  * Winter stockist pomade                    17
 
 -------------------------------------------------------------------------------
