@@ -33,7 +33,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   10
+  * Treatment Styling Balm                   8
   * Treatment Cleansing Oil                  3
 
 ### Original by Blumaan ###
@@ -44,7 +44,7 @@ Received
 
  * Peppermint Pomade                         7
  * Natural Beeswax Paste                     0
- * Sculpting Clay                            4
+ * Sculpting Clay                            3
  * Moroccan Texture Paste                    3
  * Classic Wax                               1
  * Texture Powder                            1
@@ -76,7 +76,7 @@ Received
      * Heritage                              2
      * Tobacoo Rum                           2
  * Solid Cologne
-     * Heritage                              10
+     * Heritage                              9
      * Tobacoo Rum                           7
  * Winter stockist pomade                    17
 
