@@ -10,14 +10,14 @@ Received
 
   * Gravity Paste                            1
   * Scheme Cream                             0
-  * Modify Pomade                            9
-  * Sponge Wax                               11
-  * Quicksand                                23
+  * Modify Pomade                            8
+  * Sponge Wax                               10
+  * Quicksand                                22
   * Claymation                               10
   * Hybridized Wax                           2
   * Gel Triq                                 1
   * Natural Shampoo                          9
-  * Natural Conditioner                      2
+  * Natural Conditioner                      1
   * Sample Pack                              0
   * Steel Comb with Leather                  5
 
@@ -78,7 +78,7 @@ Received
  * Solid Cologne
      * Heritage                              9
      * Tobacoo Rum                           7
- * Winter stockist pomade                    17
+ * Winter stockist pomade                    16
 
 -------------------------------------------------------------------------------
 
