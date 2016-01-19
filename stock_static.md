@@ -11,12 +11,12 @@ Received
   * Gravity Paste                            1
   * Scheme Cream                             0
   * Modify Pomade                            6
-  * Sponge Wax                               10
+  * Sponge Wax                               9
   * Quicksand                                20
   * Claymation                               0
   * Hybridized Wax                           1
   * Gel Triq                                 1
-  * Natural Shampoo                          9
+  * Natural Shampoo                          8
   * Natural Conditioner                      1
   * Sample Pack                              0
   * Steel Comb with Leather                  4
@@ -42,7 +42,7 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         7
+ * Peppermint Pomade                         6
  * Natural Beeswax Paste                     0
  * Sculpting Clay                            3
  * Moroccan Texture Paste                    3
@@ -78,7 +78,7 @@ Received
  * Solid Cologne
      * Heritage                              9
      * Tobacoo Rum                           7
- * Winter stockist pomade                    15
+ * Winter stockist pomade                    14
 
 -------------------------------------------------------------------------------
 
