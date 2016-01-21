@@ -10,8 +10,8 @@ Received
 
   * Gravity Paste                            1
   * Scheme Cream                             0
-  * Modify Pomade                            5
-  * Sponge Wax                               8
+  * Modify Pomade                            4
+  * Sponge Wax                               7
   * Quicksand                                20
   * Claymation                               0
   * Hybridized Wax                           1
@@ -42,7 +42,7 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         6
+ * Peppermint Pomade                         5
  * Natural Beeswax Paste                     0
  * Sculpting Clay                            3
  * Moroccan Texture Paste                    3
@@ -70,7 +70,7 @@ Received
      * Heavy                                 5
  * Shampoo                                   6
  * Soap
-     * Bay Rum                               4
+     * Bay Rum                               3
      * Lemon Lavender                        4
  * Cologne
      * Heritage                              2
@@ -78,7 +78,7 @@ Received
  * Solid Cologne
      * Heritage                              9
      * Tobacoo Rum                           7
- * Winter stockist pomade                    14
+ * Winter stockist pomade                    13
 
 -------------------------------------------------------------------------------
 
