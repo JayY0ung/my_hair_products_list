@@ -95,7 +95,7 @@ Shipped
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
-  * Sample Pack                              0
+  * Sample Pack                              6
   * Steel Comb with Leather                  0
 
 **Bonus**
@@ -124,7 +124,7 @@ Shipped
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         0
- * Natural Beeswax Paste                     0
+ * Natural Beeswax Paste                     10
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
  * Classic Wax                               0
@@ -134,7 +134,7 @@ Shipped
 
 ### Baxter of California ###
 
- * Clay Pomade                               0
+ * Clay Pomade                               5
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -203,9 +203,9 @@ Ordered but not shipping
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         0
- * Natural Beeswax Paste                     12
+ * Natural Beeswax Paste                     0
  * Sculpting Clay                            0
- * Moroccan Texture Paste                    3
+ * Moroccan Texture Paste                    0
  * Classic Wax                               0
  * Texture Powder                            0
  * Peppermint Shampoo                        0
@@ -213,7 +213,7 @@ Ordered but not shipping
 
 ### Baxter of California ###
 
- * Clay Pomade                               5
+ * Clay Pomade                               0
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -259,6 +259,7 @@ Ordered but not shipping
 
 **SingPost**
 
+1. CR923906282SG
 
 -------------------------------------------------------------------------------
 
