@@ -11,12 +11,12 @@ Received
   * Gravity Paste                            1
   * Scheme Cream                             0
   * Modify Pomade                            4
-  * Sponge Wax                               7
-  * Quicksand                                17
+  * Sponge Wax                               6
+  * Quicksand                                8
   * Claymation                               0
-  * Hybridized Wax                           1
+  * Hybridized Wax                           2
   * Gel Triq                                 1
-  * Natural Shampoo                          8
+  * Natural Shampoo                          7
   * Natural Conditioner                      1
   * Sample Pack                              0
   * Steel Comb with Leather                  4
@@ -63,21 +63,21 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        27
+ * Water Based Pomade                        26
  * Traditional Pomade
      * Light                                 4
      * Original                              10
      * Heavy                                 5
  * Shampoo                                   6
  * Soap
-     * Bay Rum                               3
+     * Bay Rum                               2
      * Lemon Lavender                        4
  * Cologne
      * Heritage                              2
      * Tobacoo Rum                           2
  * Solid Cologne
-     * Heritage                              9
-     * Tobacoo Rum                           7
+     * Heritage                              8
+     * Tobacoo Rum                           6
  * Winter stockist pomade                    13
 
 -------------------------------------------------------------------------------
