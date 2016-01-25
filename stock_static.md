@@ -71,7 +71,7 @@ Received
  * Shampoo                                   6
  * Soap
      * Bay Rum                               2
-     * Lemon Lavender                        4
+     * Lemon Lavender                        3
  * Cologne
      * Heritage                              2
      * Tobacoo Rum                           2
