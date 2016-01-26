@@ -33,7 +33,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   30
+  * Treatment Styling Balm                   25
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          15
 
@@ -46,7 +46,7 @@ Received
  * Peppermint Pomade                         5
  * Natural Beeswax Paste                     0
  * Sculpting Clay                            3
- * Moroccan Texture Paste                    3
+ * Moroccan Texture Paste                    2
  * Classic Wax                               1
  * Texture Powder                            1
  * Peppermint Shampoo                        1
