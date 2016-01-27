@@ -12,7 +12,7 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            3
   * Sponge Wax                               3
-  * Quicksand                                5
+  * Quicksand                                4
   * Claymation                               0
   * Hybridized Wax                           2
   * Gel Triq                                 1
@@ -43,7 +43,7 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         5
+ * Peppermint Pomade                         4
  * Natural Beeswax Paste                     0
  * Sculpting Clay                            3
  * Moroccan Texture Paste                    2
