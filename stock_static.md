@@ -29,7 +29,7 @@ Received
 ### BlackLabel ###
 
   * Shapepaste                               6
-  * CraftClay                                2
+  * CraftClay                                1
 
 ### Morris Motley ###
 
@@ -79,7 +79,7 @@ Received
  * Solid Cologne
      * Heritage                              8
      * Tobacoo Rum                           6
- * Winter stockist pomade                    12
+ * Winter stockist pomade                    10
 
 -------------------------------------------------------------------------------
 
