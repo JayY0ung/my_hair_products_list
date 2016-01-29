@@ -33,7 +33,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   31
+  * Treatment Styling Balm                   30
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          20
 
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        25
+ * Water Based Pomade                        24
  * Traditional Pomade
      * Light                                 4
      * Original                              10
@@ -79,7 +79,7 @@ Received
  * Solid Cologne
      * Heritage                              8
      * Tobacoo Rum                           6
- * Winter stockist pomade                    10
+ * Winter stockist pomade                    9
 
 -------------------------------------------------------------------------------
 
