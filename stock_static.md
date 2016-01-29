@@ -11,8 +11,8 @@ Received
   * Gravity Paste                            1
   * Scheme Cream                             0
   * Modify Pomade                            2
-  * Sponge Wax                               3
-  * Quicksand                                3
+  * Sponge Wax                               2
+  * Quicksand                                1
   * Claymation                               0
   * Hybridized Wax                           2
   * Gel Triq                                 1
@@ -33,9 +33,9 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   21
+  * Treatment Styling Balm                   31
   * Treatment Cleansing Oil                  2
-  * Wide Tooth Comb                          15
+  * Wide Tooth Comb                          20
 
 ### Original by Blumaan ###
 
@@ -113,9 +113,9 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   10
+  * Treatment Styling Balm                   0
   * Treatment Cleansing Oil                  0
-  * Comb                                     5
+  * Comb                                     0
 
 
 ### Original by Blumaan ###
@@ -247,7 +247,6 @@ Ordered but not shipping
 
 **DHL**
 
-1. AUDMM000283124 (RX537670311DE)
 
 **USPS**
 
