@@ -33,7 +33,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   30
+  * Treatment Styling Balm                   28
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          20
 
