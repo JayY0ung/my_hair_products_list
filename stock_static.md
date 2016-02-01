@@ -18,7 +18,7 @@ Received
   * Gel Triq                                 1
   * Natural Shampoo                          7
   * Natural Conditioner                      1
-  * Sample Pack                              4
+  * Sample Pack                              3
   * Steel Comb with Leather                  4
 
 **Bonus**
@@ -33,7 +33,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   27
+  * Treatment Styling Balm                   25
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          20
 
@@ -79,7 +79,7 @@ Received
  * Solid Cologne
      * Heritage                              8
      * Tobacoo Rum                           6
- * Winter stockist pomade                    9
+ * Winter stockist pomade                    8
 
 -------------------------------------------------------------------------------
 
