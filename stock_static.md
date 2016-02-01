@@ -90,12 +90,12 @@ Shipped
 
   * Gravity Paste                            0
   * Modify Pomade                            0
-  * Sponge Wax                               0
-  * Quicksand                                0
-  * Claymation                               0
+  * Sponge Wax                               48
+  * Quicksand                                48
+  * Claymation                               96
   * Hybridized Wax                           0
-  * Natural Shampoo                          0
-  * Natural Conditioner                      0
+  * Natural Shampoo                          10
+  * Natural Conditioner                      20
   * Sample Pack                              0
   * Steel Comb with Leather                  0
 
@@ -247,6 +247,7 @@ Ordered but not shipping
 
 **DHL**
 
+1. 1504380323
 
 **USPS**
 
