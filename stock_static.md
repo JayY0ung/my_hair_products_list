@@ -33,7 +33,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   25
+  * Treatment Styling Balm                   24
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          19
 
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         1
- * Natural Beeswax Paste                     9
+ * Natural Beeswax Paste                     8
  * Sculpting Clay                            3
  * Moroccan Texture Paste                    2
  * Classic Wax                               1
