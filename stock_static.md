@@ -16,8 +16,8 @@ Received
   * Claymation                               0
   * Hybridized Wax                           2
   * Gel Triq                                 1
-  * Natural Shampoo                          7
-  * Natural Conditioner                      1
+  * Natural Shampoo                          6
+  * Natural Conditioner                      0
   * Sample Pack                              3
   * Steel Comb with Leather                  4
 
@@ -29,13 +29,13 @@ Received
 ### BlackLabel ###
 
   * Shapepaste                               6
-  * CraftClay                                1
+  * CraftClay                                0
 
 ### Morris Motley ###
 
   * Treatment Styling Balm                   25
   * Treatment Cleansing Oil                  2
-  * Wide Tooth Comb                          20
+  * Wide Tooth Comb                          19
 
 ### Original by Blumaan ###
 
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         1
- * Natural Beeswax Paste                     10
+ * Natural Beeswax Paste                     9
  * Sculpting Clay                            3
  * Moroccan Texture Paste                    2
  * Classic Wax                               1
