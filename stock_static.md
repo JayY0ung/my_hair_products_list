@@ -39,7 +39,7 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          12
+ * Styling Meraki (Special Edition)          8
 
 ### Mister Pompadour ###
 
