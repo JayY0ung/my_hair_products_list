@@ -39,7 +39,7 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          0
+ * Styling Meraki (Special Edition)          12
 
 ### Mister Pompadour ###
 
@@ -199,7 +199,7 @@ Ordered but not shipping
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         12(5)
+  * Styling Meraki (Special Edition)         0
 
 ### Mister Pompadour ###
 
