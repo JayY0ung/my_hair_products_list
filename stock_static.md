@@ -177,15 +177,15 @@ Shipped
 
 ### TheSalonGuy ###
 
- * Shampoo                                   0
- * Conditioner                               0
- * Power Cream                               0
- * Talc                                      0
- * Tidal Wave                                0
- * Mousse                                    0
- * Plush                                     0
- * Red Carpet                                0
- * Money                                     0
+ * Shampoo                                   10
+ * Conditioner                               10
+ * Power Cream                               10
+ * Talc                                      10
+ * Tidal Wave                                10
+ * Mousse                                    10
+ * Plush                                     10
+ * Red Carpet                                10
+ * Money                                     10
  * Stinger Paste                             0
 
 -------------------------------------------------------------------------------
