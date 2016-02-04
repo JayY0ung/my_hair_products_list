@@ -12,8 +12,8 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            2
   * Sponge Wax                               48
-  * Quicksand                                48
-  * Claymation                               96
+  * Quicksand                                47
+  * Claymation                               88
   * Hybridized Wax                           2
   * Gel Triq                                 1
   * Natural Shampoo                          16
@@ -24,7 +24,7 @@ Received
 **Bonus**
 
   * Quicksand pocket jar                     1
-  * Shampoo & Conditioner Deluxe Kit         2
+  * Shampoo & Conditioner Deluxe Kit         1
 
 ### BlackLabel ###
 
@@ -39,7 +39,7 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          8
+ * Styling Meraki (Special Edition)          7
 
 ### Mister Pompadour ###
 
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        24
+ * Water Based Pomade                        23
  * Traditional Pomade
      * Light                                 4
      * Original                              10
@@ -79,7 +79,7 @@ Received
  * Solid Cologne
      * Heritage                              8
      * Tobacoo Rum                           6
- * Winter stockist pomade                    8
+ * Winter stockist pomade                    7
 
 -------------------------------------------------------------------------------
 
