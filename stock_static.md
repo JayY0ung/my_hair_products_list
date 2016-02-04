@@ -81,6 +81,19 @@ Received
      * Tobacoo Rum                           6
  * Winter stockist pomade                    7
 
+### TheSalonGuy ###
+
+ * Shampoo                                   0
+ * Conditioner                               0
+ * Power Cream                               0
+ * Talc                                      0
+ * Tidal Wave                                0
+ * Mousse                                    0
+ * Plush                                     0
+ * Red Carpet                                0
+ * Money                                     0
+ * Stinger Paste                             0
+
 -------------------------------------------------------------------------------
 
 Shipped
@@ -162,6 +175,19 @@ Shipped
      * Tobacoo Rum                           0
  * Winter stockist pomade                    0
 
+### TheSalonGuy ###
+
+ * Shampoo                                   0
+ * Conditioner                               0
+ * Power Cream                               0
+ * Talc                                      0
+ * Tidal Wave                                0
+ * Mousse                                    0
+ * Plush                                     0
+ * Red Carpet                                0
+ * Money                                     0
+ * Stinger Paste                             0
+
 -------------------------------------------------------------------------------
 
 Ordered but not shipping
@@ -240,6 +266,19 @@ Ordered but not shipping
      * Heritage                              0
      * Tobacoo Rum                           0
  * Winter stockist pomade                    0
+
+### TheSalonGuy ###
+
+ * Shampoo                                   0
+ * Conditioner                               0
+ * Power Cream                               0
+ * Talc                                      0
+ * Tidal Wave                                0
+ * Mousse                                    0
+ * Plush                                     0
+ * Red Carpet                                0
+ * Money                                     0
+ * Stinger Paste                             0
 
 -------------------------------------------------------------------------------
 
