@@ -11,13 +11,13 @@ Received
   * Gravity Paste                            1
   * Scheme Cream                             0
   * Modify Pomade                            2
-  * Sponge Wax                               0
-  * Quicksand                                0
-  * Claymation                               0
+  * Sponge Wax                               48
+  * Quicksand                                48
+  * Claymation                               96
   * Hybridized Wax                           2
   * Gel Triq                                 1
-  * Natural Shampoo                          6
-  * Natural Conditioner                      0
+  * Natural Shampoo                          16
+  * Natural Conditioner                      20
   * Sample Pack                              3
   * Steel Comb with Leather                  4
 
@@ -90,12 +90,12 @@ Shipped
 
   * Gravity Paste                            0
   * Modify Pomade                            0
-  * Sponge Wax                               48
-  * Quicksand                                48
-  * Claymation                               96
+  * Sponge Wax                               0
+  * Quicksand                                0
+  * Claymation                               0
   * Hybridized Wax                           0
-  * Natural Shampoo                          10
-  * Natural Conditioner                      20
+  * Natural Shampoo                          0
+  * Natural Conditioner                      0
   * Sample Pack                              0
   * Steel Comb with Leather                  0
 
@@ -247,7 +247,6 @@ Ordered but not shipping
 
 **DHL**
 
-1. 1504380323
 
 **USPS**
 
