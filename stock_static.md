@@ -33,13 +33,13 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   21
+  * Treatment Styling Balm                   20
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          19
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          6
+ * Styling Meraki (Special Edition)          4
 
 ### Mister Pompadour ###
 
@@ -71,7 +71,7 @@ Received
      * Heavy                                 5
  * Shampoo                                   6
  * Soap
-     * Bay Rum                               2
+     * Bay Rum                               1
      * Lemon Lavender                        3
  * Cologne
      * Heritage                              2
