@@ -13,7 +13,7 @@ Received
   * Modify Pomade                            2
   * Sponge Wax                               48
   * Quicksand                                47
-  * Claymation                               87
+  * Claymation                               86
   * Hybridized Wax                           2
   * Gel Triq                                 1
   * Natural Shampoo                          16
@@ -39,7 +39,7 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          6
+ * Styling Meraki (Special Edition)          4
 
 ### Mister Pompadour ###
 
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        23
+ * Water Based Pomade                        22
  * Traditional Pomade
      * Light                                 4
      * Original                              10
