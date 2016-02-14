@@ -7,12 +7,12 @@ Received
 -------
 ### Hanz de Fuko ###
   * Gravity Paste                            1
-  * Scheme Cream                             
-  * Modify Pomade                            
+  * Scheme Cream                             0
+  * Modify Pomade                            2
   * Sponge Wax                               8
   * Quicksand                                4
   * Claymation                               3
-  * Hybridized Wax                           
+  * Hybridized Wax                           2
   * Gel Triq                                 1
   * Natural Shampoo                          16
   * Natural Conditioner                      20
@@ -124,9 +124,9 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
+  * Treatment Styling Balm                   30
   * Treatment Cleansing Oil                  0
-  * Comb                                     0
+  * Comb                                     15
 
 
 ### Original by Blumaan ###
@@ -216,9 +216,9 @@ Ordered but not shipping
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   30
+  * Treatment Styling Balm                   0
   * Treatment Cleansing Oil                  0
-  * Wide Tooth Comb                          15
+  * Wide Tooth Comb                          0
 
 
 ### Original by Blumaan ###
