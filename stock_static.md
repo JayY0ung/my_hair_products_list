@@ -4,17 +4,15 @@ Stock Statics
 -------------------------------------------------------------------------------
 
 Received
---------
-
+-------
 ### Hanz de Fuko ###
-
   * Gravity Paste                            1
-  * Scheme Cream                             0
-  * Modify Pomade                            2
-  * Sponge Wax                               48
-  * Quicksand                                44
-  * Claymation                               83
-  * Hybridized Wax                           2
+  * Scheme Cream                             
+  * Modify Pomade                            
+  * Sponge Wax                               8
+  * Quicksand                                4
+  * Claymation                               3
+  * Hybridized Wax                           
   * Gel Triq                                 1
   * Natural Shampoo                          16
   * Natural Conditioner                      20
@@ -83,15 +81,15 @@ Received
 
 ### TheSalonGuy ###
 
- * Shampoo                                   0
- * Conditioner                               0
- * Power Cream                               0
- * Talc                                      0
- * Tidal Wave                                0
- * Mousse                                    0
- * Plush                                     0
- * Red Carpet                                0
- * Money                                     0
+ * Shampoo                                   10
+ * Conditioner                               10
+ * Power Cream                               10
+ * Talc                                      10
+ * Tidal Wave                                10
+ * Mousse                                    10
+ * Plush                                     10
+ * Red Carpet                                10
+ * Money                                     10
  * Stinger Paste                             0
 
 -------------------------------------------------------------------------------
@@ -177,15 +175,15 @@ Shipped
 
 ### TheSalonGuy ###
 
- * Shampoo                                   10
- * Conditioner                               10
- * Power Cream                               10
- * Talc                                      10
- * Tidal Wave                                10
- * Mousse                                    10
- * Plush                                     10
- * Red Carpet                                10
- * Money                                     10
+ * Shampoo                                   0
+ * Conditioner                               0
+ * Power Cream                               0
+ * Talc                                      0
+ * Tidal Wave                                0
+ * Mousse                                    0
+ * Plush                                     0
+ * Red Carpet                                0
+ * Money                                     0
  * Stinger Paste                             0
 
 -------------------------------------------------------------------------------
@@ -289,7 +287,6 @@ Ordered but not shipping
 
 **USPS**
 
-1. EC904304007US
 
 **Australia Post**
 
