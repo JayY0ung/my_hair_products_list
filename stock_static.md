@@ -8,13 +8,13 @@ Received
 ### Hanz de Fuko ###
   * Gravity Paste                            1
   * Scheme Cream                             0
-  * Modify Pomade                            2
-  * Sponge Wax                               8
-  * Quicksand                                4
-  * Claymation                               3
+  * Modify Pomade                            0
+  * Sponge Wax                               47
+  * Quicksand                                44
+  * Claymation                               71
   * Hybridized Wax                           2
   * Gel Triq                                 1
-  * Natural Shampoo                          16
+  * Natural Shampoo                          20
   * Natural Conditioner                      20
   * Sample Pack                              3
   * Steel Comb with Leather                  4
@@ -22,7 +22,7 @@ Received
 **Bonus**
 
   * Quicksand pocket jar                     1
-  * Shampoo & Conditioner Deluxe Kit         1
+  * Shampoo & Conditioner Deluxe Kit         0
 
 ### BlackLabel ###
 
