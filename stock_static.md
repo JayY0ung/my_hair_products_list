@@ -223,12 +223,12 @@ Ordered but not shipping
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         0
+  * Styling Meraki (Special Edition)         75
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         0
- * Natural Beeswax Paste                     0
+ * Peppermint Pomade                         15
+ * Natural Beeswax Paste                     15
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
  * Classic Wax                               0
@@ -290,27 +290,12 @@ Ordered but not shipping
 
 **Australia Post**
 
+
 **Everfast Aus**
 
 
 **SingPost**
 
-
--------------------------------------------------------------------------------
-
-### Retail store infomation collect ###
-
-1. Bussiness infomation
-   + Name of business
-   + Type of business
-   + Business address
-2. Salon/Shop name
-3. Website
-4. Contact information
-   + Name
-   + Relationship to business
-   + Business phone (alternate phone)
-   + Paypal
 
 -------------------------------------------------------------------------------
 
