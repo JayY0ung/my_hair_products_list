@@ -10,8 +10,8 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            0
   * Sponge Wax                               47
-  * Quicksand                                44
-  * Claymation                               71
+  * Quicksand                                43
+  * Claymation                               70
   * Hybridized Wax                           2
   * Gel Triq                                 1
   * Natural Shampoo                          20
@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   43
+  * Treatment Styling Balm                   41
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          34
 
@@ -77,7 +77,7 @@ Received
  * Solid Cologne
      * Heritage                              8
      * Tobacoo Rum                           6
- * Winter stockist pomade                    8
+ * Winter stockist pomade                    5
 
 ### TheSalonGuy ###
 
@@ -87,7 +87,7 @@ Received
  * Talc                                      10
  * Tidal Wave                                10
  * Mousse                                    10
- * Plush                                     10
+ * Plush                                     9
  * Red Carpet                                10
  * Money                                     10
  * Stinger Paste                             0
