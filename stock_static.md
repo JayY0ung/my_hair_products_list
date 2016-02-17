@@ -11,12 +11,12 @@ Received
   * Modify Pomade                            0
   * Sponge Wax                               47
   * Quicksand                                43
-  * Claymation                               70
+  * Claymation                               68
   * Hybridized Wax                           2
   * Gel Triq                                 1
   * Natural Shampoo                          20
   * Natural Conditioner                      20
-  * Sample Pack                              3
+  * Sample Pack                              2
   * Steel Comb with Leather                  4
 
 **Bonus**
@@ -85,7 +85,7 @@ Received
  * Conditioner                               10
  * Power Cream                               10
  * Talc                                      10
- * Tidal Wave                                10
+ * Tidal Wave                                9
  * Mousse                                    10
  * Plush                                     9
  * Red Carpet                                10
