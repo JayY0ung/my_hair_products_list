@@ -31,18 +31,18 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   15
+  * Treatment Styling Balm                   43
   * Treatment Cleansing Oil                  2
-  * Wide Tooth Comb                          19
+  * Wide Tooth Comb                          34
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          1
+ * Styling Meraki (Special Edition)          0
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         1
- * Natural Beeswax Paste                     8
+ * Peppermint Pomade                         0
+ * Natural Beeswax Paste                     6
  * Sculpting Clay                            3
  * Moroccan Texture Paste                    2
  * Classic Wax                               1
@@ -77,7 +77,7 @@ Received
  * Solid Cologne
      * Heritage                              8
      * Tobacoo Rum                           6
- * Winter stockist pomade                    7
+ * Winter stockist pomade                    8
 
 ### TheSalonGuy ###
 
@@ -124,9 +124,9 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   30
+  * Treatment Styling Balm                   0
   * Treatment Cleansing Oil                  0
-  * Comb                                     15
+  * Comb                                     0
 
 
 ### Original by Blumaan ###
