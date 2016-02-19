@@ -184,7 +184,7 @@ Shipped
  * Plush                                     0
  * Red Carpet                                0
  * Money                                     0
- * Stinger Paste                             0
+ * Stinger Paste                             10
 
 -------------------------------------------------------------------------------
 
@@ -287,6 +287,7 @@ Ordered but not shipping
 
 **USPS**
 
+1. CV039215387US
 
 **Australia Post**
 
