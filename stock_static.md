@@ -10,7 +10,7 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            0
   * Sponge Wax                               47
-  * Quicksand                                40
+  * Quicksand                                39
   * Claymation                               67
   * Hybridized Wax                           2
   * Gel Triq                                 1
@@ -62,7 +62,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        20
+ * Water Based Pomade                        19
  * Traditional Pomade
      * Light                                 4
      * Original                              10
