@@ -10,8 +10,8 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            0
   * Sponge Wax                               47
-  * Quicksand                                39
-  * Claymation                               66
+  * Quicksand                                38
+  * Claymation                               64
   * Hybridized Wax                           2
   * Gel Triq                                 1
   * Natural Shampoo                          19
@@ -26,12 +26,12 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               6
+  * Shapepaste                               5
   * CraftClay                                0
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   35
+  * Treatment Styling Balm                   33
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          34
 
@@ -42,7 +42,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         0
- * Natural Beeswax Paste                     6
+ * Natural Beeswax Paste                     5
  * Sculpting Clay                            3
  * Moroccan Texture Paste                    2
  * Classic Wax                               1
@@ -62,7 +62,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        19
+ * Water Based Pomade                        18
  * Traditional Pomade
      * Light                                 4
      * Original                              10
@@ -75,7 +75,7 @@ Received
      * Heritage                              2
      * Tobacoo Rum                           2
  * Solid Cologne
-     * Heritage                              8
+     * Heritage                              7
      * Tobacoo Rum                           6
  * Winter stockist pomade                    5
 
