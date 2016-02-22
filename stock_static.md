@@ -131,12 +131,12 @@ Shipped
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         0
+  * Styling Meraki (Special Edition)         20
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         0
- * Natural Beeswax Paste                     0
+ * Peppermint Pomade                         15
+ * Natural Beeswax Paste                     15
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
  * Classic Wax                               0
@@ -223,12 +223,12 @@ Ordered but not shipping
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         75
+  * Styling Meraki (Special Edition)         55
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         63
- * Natural Beeswax Paste                     63
+ * Peppermint Pomade                         48
+ * Natural Beeswax Paste                     48
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
  * Classic Wax                               0
@@ -297,6 +297,7 @@ Ordered but not shipping
 
 **SingPost**
 
+1. CR923888592SG
 
 -------------------------------------------------------------------------------
 
