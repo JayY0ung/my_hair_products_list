@@ -11,7 +11,7 @@ Received
   * Modify Pomade                            0
   * Sponge Wax                               47
   * Quicksand                                37
-  * Claymation                               60
+  * Claymation                               59
   * Hybridized Wax                           2
   * Gel Triq                                 1
   * Natural Shampoo                          18
@@ -26,7 +26,7 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               5
+  * Shapepaste                               4
   * CraftClay                                0
 
 ### Morris Motley ###
