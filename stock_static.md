@@ -10,9 +10,9 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            0
   * Sponge Wax                               46
-  * Quicksand                                35
-  * Claymation                               58
-  * Hybridized Wax                           2
+  * Quicksand                                34
+  * Claymation                               57
+  * Hybridized Wax                           0
   * Gel Triq                                 1
   * Natural Shampoo                          18
   * Natural Conditioner                      18
@@ -44,7 +44,7 @@ Received
  * Peppermint Pomade                         0
  * Natural Beeswax Paste                     3
  * Sculpting Clay                            3
- * Moroccan Texture Paste                    2
+ * Moroccan Texture Paste                    1
  * Classic Wax                               1
  * Texture Powder                            1
  * Peppermint Shampoo                        1
@@ -62,7 +62,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        13
+ * Water Based Pomade                        12
  * Traditional Pomade
      * Light                                 4
      * Original                              10
