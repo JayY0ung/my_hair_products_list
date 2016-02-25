@@ -132,7 +132,7 @@ Shipped
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         20
+  * Styling Meraki (Special Edition)         75
 
 ### Mister Pompadour ###
 
@@ -224,7 +224,7 @@ Ordered but not shipping
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         55
+  * Styling Meraki (Special Edition)         0
 
 ### Mister Pompadour ###
 
@@ -300,6 +300,7 @@ Ordered but not shipping
 
 1. CR923888592SG
 2. 300123971782
+3. EA213329572HK
 
 -------------------------------------------------------------------------------
 
