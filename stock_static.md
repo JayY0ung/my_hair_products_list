@@ -249,15 +249,15 @@ Ordered but not shipping
 
 ### O'Douds ###
 
- * Water Based Pomade                        0
+ * Water Based Pomade                        48
  * Traditional Pomade
      * Light                                 0
      * Original                              0
      * Heavy                                 0
  * Shampoo                                   0
  * Soap
-     * Bay Rum                               0
-     * Lemon Lavender                        0
+     * Bay Rum                               25
+     * Lemon Lavender                        15
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -265,6 +265,11 @@ Ordered but not shipping
      * Heritage                              0
      * Tobacoo Rum                           0
  * Winter stockist pomade                    0
+ * Shave Cream                               24
+ * Candle
+     * Forest                                8
+     * Bay Rum                               8
+     * Lavender                              8
 
 ### TheSalonGuy ###
 
