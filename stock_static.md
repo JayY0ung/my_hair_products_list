@@ -99,12 +99,13 @@ Shipped
 
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            0
-  * Modify Pomade                            0
+  * Gravity Paste                            12
+  * Scheme Cream                             22
+  * Modify Pomade                            48
   * Sponge Wax                               0
-  * Quicksand                                0
-  * Claymation                               0
-  * Hybridized Wax                           0
+  * Quicksand                                48
+  * Claymation                               48
+  * Hybridized Wax                           14
   * Natural Shampoo                          0
   * Natural Conditioner                      0
   * Sample Pack                              0
@@ -298,6 +299,7 @@ Ordered but not shipping
 **SingPost**
 
 1. CR923888592SG
+2. 300123971782
 
 -------------------------------------------------------------------------------
 
