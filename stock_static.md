@@ -6,6 +6,7 @@ Stock Statics
 Received
 -------
 ### Hanz de Fuko ###
+
   * Gravity Paste                            1
   * Scheme Cream                             0
   * Modify Pomade                            0
