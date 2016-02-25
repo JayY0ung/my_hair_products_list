@@ -11,7 +11,7 @@ Received
   * Modify Pomade                            0
   * Sponge Wax                               46
   * Quicksand                                34
-  * Claymation                               57
+  * Claymation                               55
   * Hybridized Wax                           0
   * Gel Triq                                 1
   * Natural Shampoo                          18
@@ -62,7 +62,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        12
+ * Water Based Pomade                        11
  * Traditional Pomade
      * Light                                 4
      * Original                              10
