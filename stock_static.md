@@ -8,11 +8,11 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            13
-  * Scheme Cream                             22
-  * Modify Pomade                            38
-  * Sponge Wax                               44
+  * Scheme Cream                             20
+  * Modify Pomade                            37
+  * Sponge Wax                               43
   * Quicksand                                77
-  * Claymation                               101
+  * Claymation                               100
   * Hybridized Wax                           14
   * Gel Triq                                 1
   * Natural Shampoo                          17
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   20
+  * Treatment Styling Balm                   18
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          34
 
