@@ -9,7 +9,7 @@ Received
 
   * Gravity Paste                            13
   * Scheme Cream                             20
-  * Modify Pomade                            35
+  * Modify Pomade                            34
   * Sponge Wax                               40
   * Quicksand                                74
   * Claymation                               96
