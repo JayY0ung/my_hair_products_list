@@ -7,15 +7,15 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            13
+  * Gravity Paste                            12
   * Scheme Cream                             20
   * Modify Pomade                            34
   * Sponge Wax                               40
-  * Quicksand                                72
-  * Claymation                               95
+  * Quicksand                                71
+  * Claymation                               93
   * Hybridized Wax                           14
   * Gel Triq                                 1
-  * Natural Shampoo                          15
+  * Natural Shampoo                          14
   * Natural Conditioner                      16
   * Sample Pack                              1
   * Steel Comb with Leather                  4
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   11
+  * Treatment Styling Balm                   7
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          34
 
@@ -63,11 +63,11 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        10
+ * Water Based Pomade                        9
  * Traditional Pomade
      * Light                                 4
      * Original                              10
-     * Heavy                                 4
+     * Heavy                                 3
  * Shampoo                                   6
  * Soap
      * Bay Rum                               1
