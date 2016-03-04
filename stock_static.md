@@ -12,7 +12,7 @@ Received
   * Modify Pomade                            33
   * Sponge Wax                               39
   * Quicksand                                70
-  * Claymation                               91
+  * Claymation                               90
   * Hybridized Wax                           14
   * Gel Triq                                 1
   * Natural Shampoo                          14
@@ -70,7 +70,7 @@ Received
      * Heavy                                 3
  * Shampoo                                   6
  * Soap
-     * Bay Rum                               1
+     * Bay Rum                               0
      * Lemon Lavender                        3
  * Cologne
      * Heritage                              2
