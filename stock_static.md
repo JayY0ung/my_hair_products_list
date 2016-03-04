@@ -126,9 +126,9 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
+  * Treatment Styling Balm                   36
   * Treatment Cleansing Oil                  0
-  * Comb                                     0
+  * Comb                                     18
 
 
 ### Original by Blumaan ###
@@ -291,6 +291,7 @@ Ordered but not shipping
 
 **DHL**
 
+1. 3529042672
 
 **USPS**
 
