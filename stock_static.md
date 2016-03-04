@@ -9,10 +9,10 @@ Received
 
   * Gravity Paste                            12
   * Scheme Cream                             20
-  * Modify Pomade                            34
+  * Modify Pomade                            33
   * Sponge Wax                               39
-  * Quicksand                                71
-  * Claymation                               93
+  * Quicksand                                70
+  * Claymation                               91
   * Hybridized Wax                           14
   * Gel Triq                                 1
   * Natural Shampoo                          14
@@ -27,12 +27,12 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               2
+  * Shapepaste                               0
   * CraftClay                                0
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   5
+  * Treatment Styling Balm                   1
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          34
 
