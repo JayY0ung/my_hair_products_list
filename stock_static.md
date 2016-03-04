@@ -9,8 +9,8 @@ Received
 
   * Gravity Paste                            12
   * Scheme Cream                             20
-  * Modify Pomade                            33
-  * Sponge Wax                               39
+  * Modify Pomade                            31
+  * Sponge Wax                               37
   * Quicksand                                70
   * Claymation                               90
   * Hybridized Wax                           14
@@ -88,7 +88,7 @@ Received
  * Talc                                      9
  * Tidal Wave                                9
  * Mousse                                    10
- * Plush                                     7
+ * Plush                                     6
  * Red Carpet                                10
  * Money                                     10
  * Stinger Paste                             0
