@@ -88,7 +88,7 @@ Received
  * Talc                                      9
  * Tidal Wave                                9
  * Mousse                                    10
- * Plush                                     6
+ * Plush                                     5
  * Red Carpet                                10
  * Money                                     10
  * Stinger Paste                             0
