@@ -300,7 +300,7 @@ Ordered but not shipping
 
 **USPS**
 
-1. CV039215387US
+1. CV039215387US (Processed)
 2. CJ505991986US
 3. CJ505985813US
 
@@ -312,8 +312,8 @@ Ordered but not shipping
 
 **SingPost**
 
-1. CR923888592SG
-2. EA213329572HK
+1. CR923888592SG (Returned)
+2. EA213329572HK (Returned)
 
 -------------------------------------------------------------------------------
 
