@@ -63,7 +63,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        3
+ * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 4
      * Original                              10
