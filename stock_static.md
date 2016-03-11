@@ -70,8 +70,8 @@ Received
      * Heavy                                 3
  * Shampoo                                   6
  * Soap
-     * Bay Rum                               0
-     * Lemon Lavender                        3
+     * Bay Rum                               25
+     * Lemon Lavender                        18
  * Cologne
      * Heritage                              2
      * Tobacoo Rum                           2
@@ -79,6 +79,7 @@ Received
      * Heritage                              6
      * Tobacoo Rum                           5
  * Winter stockist pomade                    5
+ * Shave Cream                               24
 
 ### TheSalonGuy ###
 
@@ -165,8 +166,8 @@ Shipped
      * Heavy                                 0
  * Shampoo                                   0
  * Soap
-     * Bay Rum                               25
-     * Lemon Lavender                        15
+     * Bay Rum                               0
+     * Lemon Lavender                        0
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -174,7 +175,7 @@ Shipped
      * Heritage                              0
      * Tobacoo Rum                           0
  * Winter stockist pomade                    0
- * Shave Cream                               24
+ * Shave Cream                               0
  * Candle
      * Forest                                8
      * Bay Rum                               8
@@ -302,7 +303,6 @@ Ordered but not shipping
 
 1. CV039215387US (Processed)
 2. CJ505991986US
-3. CJ505985813US
 
 **Australia Post**
 
