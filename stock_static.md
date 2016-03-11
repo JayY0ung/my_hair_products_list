@@ -76,8 +76,8 @@ Received
      * Heritage                              2
      * Tobacoo Rum                           2
  * Solid Cologne
-     * Heritage                              7
-     * Tobacoo Rum                           6
+     * Heritage                              6
+     * Tobacoo Rum                           5
  * Winter stockist pomade                    5
 
 ### TheSalonGuy ###
