@@ -11,8 +11,8 @@ Received
   * Scheme Cream                             20
   * Modify Pomade                            29
   * Sponge Wax                               34
-  * Quicksand                                69
-  * Claymation                               72
+  * Quicksand                                65
+  * Claymation                               70
   * Hybridized Wax                           13
   * Gel Triq                                 1
   * Natural Shampoo                          13
@@ -66,18 +66,18 @@ Received
  * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 4
-     * Original                              9
+     * Original                              8
      * Heavy                                 3
- * Shampoo                                   6
+ * Shampoo                                   5
  * Soap
-     * Bay Rum                               25
+     * Bay Rum                               24
      * Lemon Lavender                        18
  * Cologne
      * Heritage                              2
      * Tobacoo Rum                           2
  * Solid Cologne
      * Heritage                              6
-     * Tobacoo Rum                           5
+     * Tobacoo Rum                           4
  * Winter stockist pomade                    5
  * Shave Cream                               24
 
