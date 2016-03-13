@@ -138,8 +138,8 @@ Shipped
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         15
- * Natural Beeswax Paste                     15
+ * Peppermint Pomade                         63
+ * Natural Beeswax Paste                     63
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
  * Classic Wax                               0
@@ -235,8 +235,8 @@ Ordered but not shipping
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         48
- * Natural Beeswax Paste                     48
+ * Peppermint Pomade                         0
+ * Natural Beeswax Paste                     0
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
  * Classic Wax                               0
@@ -298,6 +298,7 @@ Ordered but not shipping
 **DHL**
 
 1. 3529042672
+2. 7700660063
 
 **USPS**
 
