@@ -63,7 +63,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        0
+ * Water Based Pomade                        48
  * Traditional Pomade
      * Light                                 4
      * Original                              8
@@ -80,6 +80,10 @@ Received
      * Tobacoo Rum                           4
  * Winter stockist pomade                    5
  * Shave Cream                               24
+ * Candle
+     * Forest                                8
+     * Bay Rum                               8
+     * Lavender                              8
 
 ### TheSalonGuy ###
 
@@ -159,7 +163,7 @@ Shipped
 
 ### O'Douds ###
 
- * Water Based Pomade                        48
+ * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 0
      * Original                              0
@@ -177,9 +181,9 @@ Shipped
  * Winter stockist pomade                    0
  * Shave Cream                               0
  * Candle
-     * Forest                                8
-     * Bay Rum                               8
-     * Lavender                              8
+     * Forest                                0
+     * Bay Rum                               0
+     * Lavender                              0
 
 ### TheSalonGuy ###
 
@@ -303,7 +307,6 @@ Ordered but not shipping
 **USPS**
 
 1. CV039215387US (Processed)
-2. CJ505991986US
 
 **Australia Post**
 
