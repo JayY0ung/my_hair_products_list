@@ -32,9 +32,9 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
+  * Treatment Styling Balm                   36
   * Treatment Cleansing Oil                  2
-  * Wide Tooth Comb                          34
+  * Wide Tooth Comb                          52
 
 ### Original by Blumaan ###
 
@@ -131,9 +131,9 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   36
+  * Treatment Styling Balm                   0
   * Treatment Cleansing Oil                  0
-  * Comb                                     18
+  * Comb                                     0
 
 
 ### Original by Blumaan ###
@@ -301,8 +301,7 @@ Ordered but not shipping
 
 **DHL**
 
-1. 3529042672
-2. 7700660063
+1. 7700660063
 
 **USPS**
 
