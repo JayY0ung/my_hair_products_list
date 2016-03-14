@@ -63,7 +63,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        48
+ * Water Based Pomade                        43
  * Traditional Pomade
      * Light                                 4
      * Original                              8
@@ -81,9 +81,9 @@ Received
  * Winter stockist pomade                    5
  * Shave Cream                               24
  * Candle
-     * Forest                                8
-     * Bay Rum                               8
-     * Lavender                              8
+     * Forest                                5
+     * Bay Rum                               5
+     * Lavender                              6
 
 ### TheSalonGuy ###
 
