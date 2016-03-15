@@ -15,7 +15,7 @@ Received
   * Claymation                               69
   * Hybridized Wax                           13
   * Gel Triq                                 1
-  * Natural Shampoo                          12
+  * Natural Shampoo                          11
   * Natural Conditioner                      15
   * Sample Pack                              0
   * Steel Comb with Leather                  4
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   22
+  * Treatment Styling Balm                   21
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          51
 
@@ -63,7 +63,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        41
+ * Water Based Pomade                        40
  * Traditional Pomade
      * Light                                 4
      * Original                              8
