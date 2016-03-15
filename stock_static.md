@@ -27,7 +27,7 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               0
+  * Shapepaste                               3
   * CraftClay                                0
 
 ### Morris Motley ###
@@ -125,7 +125,7 @@ Shipped
 
 ### BlackLabel ###
 
-  * ShapePaste                               0
+  * ShapePaste                               9
   * CraftClay                                6
 
 
@@ -222,7 +222,7 @@ Ordered but not shipping
 
 ### BlackLabel ###
 
-  * ShapePaste                               12
+  * ShapePaste                               0
   * CraftClay                                0
 
 
