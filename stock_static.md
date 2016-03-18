@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             18
   * Modify Pomade                            28
   * Sponge Wax                               34
-  * Quicksand                                63
+  * Quicksand                                62
   * Claymation                               64
   * Hybridized Wax                           13
   * Gel Triq                                 1
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   18
+  * Treatment Styling Balm                   15
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          51
 
@@ -63,7 +63,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        40
+ * Water Based Pomade                        39
  * Traditional Pomade
      * Light                                 4
      * Original                              8
