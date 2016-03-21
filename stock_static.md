@@ -8,11 +8,11 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            12
-  * Scheme Cream                             17
-  * Modify Pomade                            28
+  * Scheme Cream                             16
+  * Modify Pomade                            27
   * Sponge Wax                               33
-  * Quicksand                                61
-  * Claymation                               63
+  * Quicksand                                60
+  * Claymation                               60
   * Hybridized Wax                           13
   * Gel Triq                                 1
   * Natural Shampoo                          6
@@ -63,7 +63,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        38
+ * Water Based Pomade                        35
  * Traditional Pomade
      * Light                                 4
      * Original                              8
