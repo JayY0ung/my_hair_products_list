@@ -10,7 +10,7 @@ Received
   * Gravity Paste                            12
   * Scheme Cream                             15
   * Modify Pomade                            26
-  * Sponge Wax                               33
+  * Sponge Wax                               32
   * Quicksand                                58
   * Claymation                               56
   * Hybridized Wax                           13
@@ -43,12 +43,12 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         44
- * Natural Beeswax Paste                     46
+ * Natural Beeswax Paste                     45
  * Sculpting Clay                            2
  * Moroccan Texture Paste                    1
  * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        1
+ * Peppermint Shampoo                        0
  * Peppermint Conditioner                    0
 
 ### Baxter of California ###
