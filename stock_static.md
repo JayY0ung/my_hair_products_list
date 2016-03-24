@@ -228,9 +228,9 @@ Ordered but not shipping
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
+  * Treatment Styling Balm                   36
   * Treatment Cleansing Oil                  0
-  * Wide Tooth Comb                          0
+  * Wide Tooth Comb                          18
 
 
 ### Original by Blumaan ###
@@ -240,13 +240,13 @@ Ordered but not shipping
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         0
- * Natural Beeswax Paste                     0
- * Sculpting Clay                            0
- * Moroccan Texture Paste                    0
+ * Natural Beeswax Paste                     24
+ * Sculpting Clay                            24
+ * Moroccan Texture Paste                    24
  * Classic Wax                               0
  * Texture Powder                            0
- * Peppermint Shampoo                        0
- * Peppermint Conditioner                    0
+ * Peppermint Shampoo                        24
+ * Peppermint Conditioner                    24
 
 ### Baxter of California ###
 
