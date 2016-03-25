@@ -9,10 +9,10 @@ Received
 
   * Gravity Paste                            12
   * Scheme Cream                             15
-  * Modify Pomade                            26
-  * Sponge Wax                               32
-  * Quicksand                                58
-  * Claymation                               56
+  * Modify Pomade                            20
+  * Sponge Wax                               29
+  * Quicksand                                54
+  * Claymation                               50
   * Hybridized Wax                           13
   * Gel Triq                                 1
   * Natural Shampoo                          6
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   8
+  * Treatment Styling Balm                   1
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          51
 
@@ -43,7 +43,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         44
- * Natural Beeswax Paste                     45
+ * Natural Beeswax Paste                     43
  * Sculpting Clay                            2
  * Moroccan Texture Paste                    1
  * Classic Wax                               1
@@ -53,7 +53,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               1
+ * Clay Pomade                               0
  * Hard Water Pomade                         2
  * Hard Cream Pomade                         1
  * Soft Water Pomade                         1
@@ -63,14 +63,14 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        33
+ * Water Based Pomade                        32
  * Traditional Pomade
      * Light                                 4
      * Original                              8
      * Heavy                                 3
  * Shampoo                                   5
  * Soap
-     * Bay Rum                               24
+     * Bay Rum                               23
      * Lemon Lavender                        18
  * Cologne
      * Heritage                              2
