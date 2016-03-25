@@ -11,10 +11,10 @@ Received
   * Scheme Cream                             15
   * Modify Pomade                            11
   * Sponge Wax                               26
-  * Quicksand                                47
-  * Claymation                               41
+  * Quicksand                                46
+  * Claymation                               40
   * Hybridized Wax                           13
-  * Gel Triq                                 1
+  * Gel Triq                                 0
   * Natural Shampoo                          5
   * Natural Conditioner                      14
   * Sample Pack                              0
@@ -54,7 +54,7 @@ Received
 ### Baxter of California ###
 
  * Clay Pomade                               0
- * Hard Water Pomade                         2
+ * Hard Water Pomade                         1
  * Hard Cream Pomade                         1
  * Soft Water Pomade                         0
  * Cream Pomade                              1
@@ -63,7 +63,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        32
+ * Water Based Pomade                        31
  * Traditional Pomade
      * Light                                 4
      * Original                              8
@@ -73,7 +73,7 @@ Received
      * Bay Rum                               23
      * Lemon Lavender                        18
  * Cologne
-     * Heritage                              2
+     * Heritage                              1
      * Tobacoo Rum                           2
  * Solid Cologne
      * Heritage                              5
