@@ -9,13 +9,13 @@ Received
 
   * Gravity Paste                            12
   * Scheme Cream                             15
-  * Modify Pomade                            20
+  * Modify Pomade                            11
   * Sponge Wax                               29
-  * Quicksand                                54
-  * Claymation                               50
+  * Quicksand                                47
+  * Claymation                               41
   * Hybridized Wax                           13
   * Gel Triq                                 1
-  * Natural Shampoo                          6
+  * Natural Shampoo                          5
   * Natural Conditioner                      14
   * Sample Pack                              0
   * Steel Comb with Leather                  4
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   1
+  * Treatment Styling Balm                   0
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          51
 
@@ -43,7 +43,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         44
- * Natural Beeswax Paste                     43
+ * Natural Beeswax Paste                     41
  * Sculpting Clay                            2
  * Moroccan Texture Paste                    1
  * Classic Wax                               1
@@ -56,7 +56,7 @@ Received
  * Clay Pomade                               0
  * Hard Water Pomade                         2
  * Hard Cream Pomade                         1
- * Soft Water Pomade                         1
+ * Soft Water Pomade                         0
  * Cream Pomade                              1
  * Pocket Comb                               0
  * Large Comb                                1
@@ -77,7 +77,7 @@ Received
      * Tobacoo Rum                           2
  * Solid Cologne
      * Heritage                              5
-     * Tobacoo Rum                           4
+     * Tobacoo Rum                           3
  * Winter stockist pomade                    5
  * Shave Cream                               24
  * Candle
