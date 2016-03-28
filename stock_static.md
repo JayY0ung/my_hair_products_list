@@ -38,7 +38,7 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          0
+ * Styling Meraki (Special Edition)          55
 
 ### Mister Pompadour ###
 
@@ -138,7 +138,7 @@ Shipped
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         75
+  * Styling Meraki (Special Edition)         20
 
 ### Mister Pompadour ###
 
@@ -301,7 +301,6 @@ Ordered but not shipping
 
 **DHL**
 
-1. 100111695621
 
 **USPS**
 
