@@ -9,7 +9,7 @@ Received
 
   * Gravity Paste                            12
   * Scheme Cream                             14
-  * Modify Pomade                            5
+  * Modify Pomade                            3
   * Sponge Wax                               24
   * Quicksand                                41
   * Claymation                               29
@@ -55,7 +55,7 @@ Received
 
  * Clay Pomade                               0
  * Hard Water Pomade                         1
- * Hard Cream Pomade                         1
+ * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
  * Cream Pomade                              0
  * Pocket Comb                               0
@@ -63,7 +63,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        29
+ * Water Based Pomade                        28
  * Traditional Pomade
      * Light                                 4
      * Original                              8
