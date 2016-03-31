@@ -143,13 +143,13 @@ Shipped
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         15
- * Natural Beeswax Paste                     15
- * Sculpting Clay                            0
- * Moroccan Texture Paste                    0
+ * Natural Beeswax Paste                     39
+ * Sculpting Clay                            24
+ * Moroccan Texture Paste                    24
  * Classic Wax                               0
  * Texture Powder                            0
- * Peppermint Shampoo                        0
- * Peppermint Conditioner                    0
+ * Peppermint Shampoo                        24
+ * Peppermint Conditioner                    24
 
 ### Baxter of California ###
 
@@ -301,6 +301,7 @@ Ordered but not shipping
 
 **DHL**
 
+1. 5622233945
 
 **USPS**
 
