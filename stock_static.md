@@ -205,15 +205,15 @@ Ordered but not shipping
 
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            3
-  * Modify Pomade                            0
+  * Gravity Paste                            0
+  * Modify Pomade                            96
   * Sponge Wax                               0
-  * Quicksand                                20
-  * Claymation                               10
+  * Quicksand                                48
+  * Claymation                               48
   * Hybridized Wax                           0
   * Gel Triq                                 0
-  * Natural Shampoo                          0
-  * Natural Conditioner                      0
+  * Natural Shampoo                          38
+  * Natural Conditioner                      10
   * Sample Pack                              0
   * Steel Comb with Leather Sheath           0
 
@@ -240,13 +240,13 @@ Ordered but not shipping
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         0
- * Natural Beeswax Paste                     24
- * Sculpting Clay                            24
- * Moroccan Texture Paste                    24
+ * Natural Beeswax Paste                     0
+ * Sculpting Clay                            0
+ * Moroccan Texture Paste                    0
  * Classic Wax                               0
  * Texture Powder                            0
- * Peppermint Shampoo                        24
- * Peppermint Conditioner                    24
+ * Peppermint Shampoo                        0
+ * Peppermint Conditioner                    0
 
 ### Baxter of California ###
 
