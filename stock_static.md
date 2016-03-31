@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             14
   * Modify Pomade                            0
   * Sponge Wax                               23
-  * Quicksand                                38
+  * Quicksand                                37
   * Claymation                               37
   * Hybridized Wax                           12
   * Gel Triq                                 0
@@ -38,7 +38,7 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          57
+ * Styling Meraki (Special Edition)          56
 
 ### Mister Pompadour ###
 
