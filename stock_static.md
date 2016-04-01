@@ -53,7 +53,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               0
+ * Clay Pomade                               12
  * Hard Water Pomade                         1
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -153,7 +153,7 @@ Shipped
 
 ### Baxter of California ###
 
- * Clay Pomade                               12
+ * Clay Pomade                               0
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -317,7 +317,6 @@ Ordered but not shipping
 **SingPost**
 
 1. CR923888592SG (Returned)
-2. CR923712485SG
 
 -------------------------------------------------------------------------------
 
