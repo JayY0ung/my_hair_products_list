@@ -107,13 +107,13 @@ Shipped
 
   * Gravity Paste                            0
   * Scheme Cream                             0
-  * Modify Pomade                            0
+  * Modify Pomade                            96
   * Sponge Wax                               0
-  * Quicksand                                0
-  * Claymation                               0
+  * Quicksand                                48
+  * Claymation                               48
   * Hybridized Wax                           0
-  * Natural Shampoo                          0
-  * Natural Conditioner                      0
+  * Natural Shampoo                          38
+  * Natural Conditioner                      10
   * Sample Pack                              0
   * Steel Comb with Leather                  0
 
@@ -206,14 +206,14 @@ Ordered but not shipping
 ### Hanz de Fuko ###
 
   * Gravity Paste                            0
-  * Modify Pomade                            96
+  * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                48
-  * Claymation                               48
+  * Quicksand                                0
+  * Claymation                               0
   * Hybridized Wax                           0
   * Gel Triq                                 0
-  * Natural Shampoo                          38
-  * Natural Conditioner                      10
+  * Natural Shampoo                          0
+  * Natural Conditioner                      0
   * Sample Pack                              0
   * Steel Comb with Leather Sheath           0
 
@@ -303,6 +303,7 @@ Ordered but not shipping
 
 1. 5622233945
 2. 2261939260
+3. 8426793911
 
 **USPS**
 
