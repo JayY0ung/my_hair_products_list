@@ -7,12 +7,12 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            12
+  * Gravity Paste                            11
   * Scheme Cream                             14
   * Modify Pomade                            0
-  * Sponge Wax                               23
-  * Quicksand                                36
-  * Claymation                               35
+  * Sponge Wax                               21
+  * Quicksand                                29
+  * Claymation                               25
   * Hybridized Wax                           12
   * Gel Triq                                 0
   * Natural Shampoo                          0
@@ -42,8 +42,8 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         41
- * Natural Beeswax Paste                     28
+ * Peppermint Pomade                         40
+ * Natural Beeswax Paste                     22
  * Sculpting Clay                            2
  * Moroccan Texture Paste                    1
  * Classic Wax                               1
@@ -59,11 +59,11 @@ Received
  * Soft Water Pomade                         0
  * Cream Pomade                              0
  * Pocket Comb                               0
- * Large Comb                                1
+ * Large Comb                                0
 
 ### O'Douds ###
 
- * Water Based Pomade                        26
+ * Water Based Pomade                        22
  * Traditional Pomade
      * Light                                 4
      * Original                              8
