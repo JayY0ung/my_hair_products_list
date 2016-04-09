@@ -13,7 +13,7 @@ Received
   * Sponge Wax                               18
   * Quicksand                                20
   * Claymation                               11
-  * Hybridized Wax                           12
+  * Hybridized Wax                           11
   * Gel Triq                                 0
   * Natural Shampoo                          0
   * Natural Conditioner                      12
