@@ -9,14 +9,14 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             13
-  * Modify Pomade                            0
+  * Modify Pomade                            96
   * Sponge Wax                               18
-  * Quicksand                                20
-  * Claymation                               11
+  * Quicksand                                68
+  * Claymation                               59
   * Hybridized Wax                           11
   * Gel Triq                                 0
-  * Natural Shampoo                          0
-  * Natural Conditioner                      12
+  * Natural Shampoo                          38
+  * Natural Conditioner                      22
   * Sample Pack                              0
   * Steel Comb with Leather                  4
 
@@ -44,13 +44,13 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         39
- * Natural Beeswax Paste                     17
- * Sculpting Clay                            2
- * Moroccan Texture Paste                    1
+ * Natural Beeswax Paste                     41
+ * Sculpting Clay                            26
+ * Moroccan Texture Paste                    25
  * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        0
- * Peppermint Conditioner                    0
+ * Peppermint Shampoo                        24
+ * Peppermint Conditioner                    24
 
 ### Baxter of California ###
 
@@ -108,13 +108,13 @@ Shipped
 
   * Gravity Paste                            0
   * Scheme Cream                             0
-  * Modify Pomade                            96
+  * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                48
-  * Claymation                               48
+  * Quicksand                                0
+  * Claymation                               0
   * Hybridized Wax                           0
-  * Natural Shampoo                          38
-  * Natural Conditioner                      10
+  * Natural Shampoo                          0
+  * Natural Conditioner                      0
   * Sample Pack                              0
   * Steel Comb with Leather                  0
 
@@ -145,13 +145,13 @@ Shipped
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         0
- * Natural Beeswax Paste                     24
- * Sculpting Clay                            24
- * Moroccan Texture Paste                    24
+ * Natural Beeswax Paste                     0
+ * Sculpting Clay                            0
+ * Moroccan Texture Paste                    0
  * Classic Wax                               0
  * Texture Powder                            0
- * Peppermint Shampoo                        24
- * Peppermint Conditioner                    24
+ * Peppermint Shampoo                        0
+ * Peppermint Conditioner                    0
 
 ### Baxter of California ###
 
@@ -304,7 +304,6 @@ Ordered but not shipping
 
 **DHL**
 
-1. 100114346199
 
 **USPS**
 
