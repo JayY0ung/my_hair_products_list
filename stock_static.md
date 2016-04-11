@@ -9,14 +9,14 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             13
-  * Modify Pomade                            96
+  * Modify Pomade                            86
   * Sponge Wax                               18
   * Quicksand                                68
-  * Claymation                               59
+  * Claymation                               54
   * Hybridized Wax                           11
   * Gel Triq                                 0
-  * Natural Shampoo                          38
-  * Natural Conditioner                      22
+  * Natural Shampoo                          37
+  * Natural Conditioner                      21
   * Sample Pack                              0
   * Steel Comb with Leather                  4
 
@@ -32,25 +32,25 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   24
+  * Treatment Styling Balm                   22
   * Chrome                                   15
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          67
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          56
+ * Styling Meraki (Special Edition)          55
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         39
+ * Peppermint Pomade                         38
  * Natural Beeswax Paste                     41
  * Sculpting Clay                            26
  * Moroccan Texture Paste                    25
  * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        24
- * Peppermint Conditioner                    24
+ * Peppermint Shampoo                        23
+ * Peppermint Conditioner                    23
 
 ### Baxter of California ###
 
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        19
+ * Water Based Pomade                        18
  * Traditional Pomade
      * Light                                 4
      * Original                              8
