@@ -9,10 +9,10 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             13
-  * Modify Pomade                            86
+  * Modify Pomade                            85
   * Sponge Wax                               18
   * Quicksand                                68
-  * Claymation                               54
+  * Claymation                               52
   * Hybridized Wax                           11
   * Gel Triq                                 0
   * Natural Shampoo                          37
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         38
- * Natural Beeswax Paste                     41
+ * Natural Beeswax Paste                     40
  * Sculpting Clay                            26
  * Moroccan Texture Paste                    25
  * Classic Wax                               1
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        18
+ * Water Based Pomade                        17
  * Traditional Pomade
      * Light                                 4
      * Original                              8
@@ -77,10 +77,10 @@ Received
      * Heritage                              1
      * Tobacoo Rum                           2
  * Solid Cologne
-     * Heritage                              5
+     * Heritage                              4
      * Tobacoo Rum                           3
  * Winter stockist pomade                    5
- * Shave Cream                               24
+ * Shave Cream                               23
  * Candle
      * Forest                                5
      * Bay Rum                               5
