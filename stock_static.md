@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             13
   * Modify Pomade                            83
   * Sponge Wax                               16
-  * Quicksand                                58
+  * Quicksand                                57
   * Claymation                               39
   * Hybridized Wax                           11
   * Gel Triq                                 0
