@@ -9,13 +9,13 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             13
-  * Modify Pomade                            83
-  * Sponge Wax                               16
-  * Quicksand                                57
-  * Claymation                               39
+  * Modify Pomade                            79
+  * Sponge Wax                               14
+  * Quicksand                                55
+  * Claymation                               27
   * Hybridized Wax                           11
   * Gel Triq                                 0
-  * Natural Shampoo                          33
+  * Natural Shampoo                          32
   * Natural Conditioner                      20
   * Sample Pack                              0
   * Steel Comb with Leather                  4
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   16
+  * Treatment Styling Balm                   14
   * Chrome                                   13
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          65
@@ -43,8 +43,8 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         38
- * Natural Beeswax Paste                     32
+ * Peppermint Pomade                         37
+ * Natural Beeswax Paste                     28
  * Sculpting Clay                            26
  * Moroccan Texture Paste                    25
  * Classic Wax                               1
@@ -64,12 +64,12 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        8
+ * Water Based Pomade                        3
  * Traditional Pomade
      * Light                                 4
      * Original                              8
      * Heavy                                 3
- * Shampoo                                   3
+ * Shampoo                                   2
  * Soap
      * Bay Rum                               21
      * Lemon Lavender                        16
@@ -80,7 +80,7 @@ Received
      * Heritage                              3
      * Tobacoo Rum                           3
  * Winter stockist pomade                    5
- * Shave Cream                               23
+ * Shave Cream                               21
  * Candle
      * Forest                                5
      * Bay Rum                               5
