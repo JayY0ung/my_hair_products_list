@@ -263,7 +263,7 @@ Ordered but not shipping
 
 ### O'Douds ###
 
- * Water Based Pomade                        0
+ * Water Based Pomade                        80
  * Traditional Pomade
      * Light                                 0
      * Original                              0
