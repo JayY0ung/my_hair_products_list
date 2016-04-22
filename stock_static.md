@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             13
   * Modify Pomade                            79
   * Sponge Wax                               13
-  * Quicksand                                55
+  * Quicksand                                54
   * Claymation                               26
   * Hybridized Wax                           11
   * Gel Triq                                 0
@@ -27,12 +27,12 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               2
+  * Shapepaste                               1
   * CraftClay                                0
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   13
+  * Treatment Styling Balm                   11
   * Chrome                                   13
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          65
