@@ -319,7 +319,7 @@ Ordered but not shipping
 
 **SingPost**
 
-1. CR923888592SG (Returned)
+1. CR923888592SG (Already returned to sender)
 
 **SF-Express**
 
