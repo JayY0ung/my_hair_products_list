@@ -9,14 +9,14 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             13
-  * Modify Pomade                            78
-  * Sponge Wax                               13
-  * Quicksand                                54
-  * Claymation                               22
+  * Modify Pomade                            72
+  * Sponge Wax                               12
+  * Quicksand                                51
+  * Claymation                               3
   * Hybridized Wax                           11
   * Gel Triq                                 0
-  * Natural Shampoo                          32
-  * Natural Conditioner                      20
+  * Natural Shampoo                          31
+  * Natural Conditioner                      19
   * Sample Pack                              0
   * Steel Comb with Leather                  4
 
@@ -32,25 +32,25 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   11
+  * Treatment Styling Balm                   9
   * Chrome                                   13
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          65
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          53
+ * Styling Meraki (Special Edition)          51
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         37
- * Natural Beeswax Paste                     28
- * Sculpting Clay                            26
- * Moroccan Texture Paste                    25
+ * Peppermint Pomade                         36
+ * Natural Beeswax Paste                     20
+ * Sculpting Clay                            25
+ * Moroccan Texture Paste                    24
  * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        23
- * Peppermint Conditioner                    23
+ * Peppermint Shampoo                        22
+ * Peppermint Conditioner                    21
 
 ### Baxter of California ###
 
@@ -64,15 +64,15 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        2
+ * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 4
-     * Original                              8
+     * Original                              6
      * Heavy                                 3
- * Shampoo                                   2
+ * Shampoo                                   1
  * Soap
-     * Bay Rum                               21
-     * Lemon Lavender                        16
+     * Bay Rum                               20
+     * Lemon Lavender                        14
  * Cologne
      * Heritage                              1
      * Tobacoo Rum                           2
