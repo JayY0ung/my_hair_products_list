@@ -33,7 +33,7 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   57
-  * Chrome                                   11
+  * Chrome                                   7
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          89
 
@@ -67,14 +67,14 @@ Received
  * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 4
-     * Original                              6
+     * Original                              5
      * Heavy                                 3
  * Shampoo                                   1
  * Soap
-     * Bay Rum                               20
+     * Bay Rum                               19
      * Lemon Lavender                        14
  * Cologne
-     * Heritage                              1
+     * Heritage                              0
      * Tobacoo Rum                           2
  * Solid Cologne
      * Heritage                              3
