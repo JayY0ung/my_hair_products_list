@@ -9,9 +9,9 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             13
-  * Modify Pomade                            72
-  * Sponge Wax                               12
-  * Quicksand                                51
+  * Modify Pomade                            71
+  * Sponge Wax                               10
+  * Quicksand                                48
   * Claymation                               0
   * Hybridized Wax                           11
   * Gel Triq                                 0
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   57
+  * Treatment Styling Balm                   53
   * Chrome                                   7
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          89
@@ -165,7 +165,7 @@ Shipped
 
 ### O'Douds ###
 
- * Water Based Pomade                        0
+ * Water Based Pomade                        80
  * Traditional Pomade
      * Light                                 0
      * Original                              0
@@ -263,7 +263,7 @@ Ordered but not shipping
 
 ### O'Douds ###
 
- * Water Based Pomade                        80
+ * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 0
      * Original                              0
@@ -305,6 +305,11 @@ Ordered but not shipping
 **DHL**
 
 1. 2174947375
+
+** FedEx
+
+1. 782891392428
+2. 782891435170
 
 **USPS**
 
