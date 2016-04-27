@@ -306,7 +306,7 @@ Ordered but not shipping
 
 1. 2174947375
 
-** FedEx
+**FedEx**
 
 1. 782891392428
 2. 782891435170
