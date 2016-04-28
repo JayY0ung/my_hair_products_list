@@ -33,7 +33,7 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   53
-  * Chrome                                   7
+  * Chrome                                   6
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          89
 
@@ -55,7 +55,7 @@ Received
 ### Baxter of California ###
 
  * Clay Pomade                               0
- * Hard Water Pomade                         1
+ * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
  * Cream Pomade                              0
