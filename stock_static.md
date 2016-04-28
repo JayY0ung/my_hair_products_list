@@ -27,13 +27,13 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               1
+  * Shapepaste                               0
   * CraftClay                                0
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   53
-  * Chrome                                   6
+  * Treatment Styling Balm                   51
+  * Chrome                                   5
   * Treatment Cleansing Oil                  2
   * Wide Tooth Comb                          89
 
