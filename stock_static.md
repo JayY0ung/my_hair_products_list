@@ -224,7 +224,7 @@ Ordered but not shipping
 
 ### BlackLabel ###
 
-  * ShapePaste                               0
+  * ShapePaste                               3
   * CraftClay                                0
 
 
