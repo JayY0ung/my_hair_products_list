@@ -145,7 +145,7 @@ Shipped
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         15
- * Natural Beeswax Paste                     135
+ * Natural Beeswax Paste                     15
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
  * Classic Wax                               0
@@ -165,7 +165,7 @@ Shipped
 
 ### O'Douds ###
 
- * Water Based Pomade                        80
+ * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 0
      * Original                              0
@@ -328,7 +328,7 @@ Ordered but not shipping
 
 **安能物流**
 
-1. 100114346862
+
 
 -------------------------------------------------------------------------------
 
