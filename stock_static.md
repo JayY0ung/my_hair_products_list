@@ -8,14 +8,14 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            11
-  * Scheme Cream                             13
+  * Scheme Cream                             12
   * Modify Pomade                            71
-  * Sponge Wax                               10
-  * Quicksand                                44
+  * Sponge Wax                               9
+  * Quicksand                                40
   * Claymation                               0
   * Hybridized Wax                           11
   * Gel Triq                                 0
-  * Natural Shampoo                          31
+  * Natural Shampoo                          30
   * Natural Conditioner                      19
   * Sample Pack                              0
   * Steel Comb with Leather                  4
@@ -32,19 +32,19 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   48
-  * Chrome                                   5
-  * Treatment Cleansing Oil                  2
-  * Wide Tooth Comb                          89
+  * Treatment Styling Balm                   38
+  * Chrome                                   4
+  * Treatment Cleansing Oil                  1
+  * Wide Tooth Comb                          88
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          50
+ * Styling Meraki (Special Edition)          47
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         36
- * Natural Beeswax Paste                     19
+ * Natural Beeswax Paste                     15
  * Sculpting Clay                            25
  * Moroccan Texture Paste                    24
  * Classic Wax                               1
@@ -64,18 +64,18 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        80
+ * Water Based Pomade                        70
  * Traditional Pomade
      * Light                                 4
      * Original                              5
      * Heavy                                 3
  * Shampoo                                   1
  * Soap
-     * Bay Rum                               19
+     * Bay Rum                               18
      * Lemon Lavender                        14
  * Cologne
      * Heritage                              0
-     * Tobacoo Rum                           2
+     * Tobacoo Rum                           1
  * Solid Cologne
      * Heritage                              3
      * Tobacoo Rum                           3
@@ -92,9 +92,9 @@ Received
  * Conditioner                               10
  * Power Cream                               10
  * Talc                                      9
- * Tidal Wave                                9
+ * Tidal Wave                                7
  * Mousse                                    10
- * Plush                                     5
+ * Plush                                     4
  * Red Carpet                                10
  * Money                                     9
  * Stinger Paste                             0
