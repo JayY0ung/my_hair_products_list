@@ -231,14 +231,14 @@ Ordered but not shipping
 ### Morris Motley ###
 
   * Treatment Styling Balm                   0
-  * Chrome                                   0
+  * Chrome                                   36
   * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          0
 
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         0
+  * Styling Meraki (Special Edition)         650
 
 ### Mister Pompadour ###
 
