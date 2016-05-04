@@ -9,7 +9,7 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             12
-  * Modify Pomade                            71
+  * Modify Pomade                            69
   * Sponge Wax                               9
   * Quicksand                                38
   * Claymation                               0
@@ -88,7 +88,7 @@ Received
 
 ### TheSalonGuy ###
 
- * Shampoo                                   10
+ * Shampoo                                   9
  * Conditioner                               10
  * Power Cream                               10
  * Talc                                      9
