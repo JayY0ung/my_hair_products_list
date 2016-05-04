@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             12
   * Modify Pomade                            71
   * Sponge Wax                               9
-  * Quicksand                                40
+  * Quicksand                                38
   * Claymation                               0
   * Hybridized Wax                           11
   * Gel Triq                                 0
@@ -32,14 +32,14 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   38
-  * Chrome                                   4
+  * Treatment Styling Balm                   36
+  * Chrome                                   3
   * Treatment Cleansing Oil                  1
   * Wide Tooth Comb                          88
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          47
+ * Styling Meraki (Special Edition)          46
 
 ### Mister Pompadour ###
 
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        70
+ * Water Based Pomade                        69
  * Traditional Pomade
      * Light                                 4
      * Original                              5
@@ -77,7 +77,7 @@ Received
      * Heritage                              0
      * Tobacoo Rum                           1
  * Solid Cologne
-     * Heritage                              3
+     * Heritage                              2
      * Tobacoo Rum                           3
  * Winter stockist pomade                    5
  * Shave Cream                               21
