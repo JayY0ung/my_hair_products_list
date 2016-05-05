@@ -8,7 +8,7 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            11
-  * Scheme Cream                             12
+  * Scheme Cream                             11
   * Modify Pomade                            69
   * Sponge Wax                               9
   * Quicksand                                37
@@ -39,12 +39,12 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          46
+ * Styling Meraki (Special Edition)          45
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         36
- * Natural Beeswax Paste                     135
+ * Natural Beeswax Paste                     134
  * Sculpting Clay                            25
  * Moroccan Texture Paste                    24
  * Classic Wax                               1
