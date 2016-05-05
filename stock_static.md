@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   36
+  * Treatment Styling Balm                   35
   * Chrome                                   3
   * Treatment Cleansing Oil                  1
   * Wide Tooth Comb                          88
@@ -49,8 +49,8 @@ Received
  * Moroccan Texture Paste                    24
  * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        22
- * Peppermint Conditioner                    21
+ * Peppermint Shampoo                        21
+ * Peppermint Conditioner                    20
 
 ### Baxter of California ###
 
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        67
+ * Water Based Pomade                        66
  * Traditional Pomade
      * Light                                 4
      * Original                              5
