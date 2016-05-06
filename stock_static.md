@@ -9,7 +9,7 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             11
-  * Modify Pomade                            69
+  * Modify Pomade                            68
   * Sponge Wax                               9
   * Quicksand                                37
   * Claymation                               0
@@ -32,14 +32,14 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   35
-  * Chrome                                   3
-  * Treatment Cleansing Oil                  1
+  * Treatment Styling Balm                   34
+  * Chrome                                   2
+  * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          88
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          45
+ * Styling Meraki (Special Edition)          43
 
 ### Mister Pompadour ###
 
