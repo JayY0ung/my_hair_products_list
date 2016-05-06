@@ -9,7 +9,7 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             11
-  * Modify Pomade                            68
+  * Modify Pomade                            67
   * Sponge Wax                               9
   * Quicksand                                37
   * Claymation                               0
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   34
+  * Treatment Styling Balm                   33
   * Chrome                                   2
   * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          88
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        65
+ * Water Based Pomade                        64
  * Traditional Pomade
      * Light                                 4
      * Original                              5
@@ -79,7 +79,7 @@ Received
  * Solid Cologne
      * Heritage                              2
      * Tobacoo Rum                           3
- * Winter stockist pomade                    5
+ * Winter stockist pomade                    4
  * Shave Cream                               21
  * Candle
      * Forest                                5
@@ -232,7 +232,7 @@ Ordered but not shipping
 
   * Treatment Styling Balm                   36
   * Chrome                                   20
-  * Treatment Cleansing Oil                  5
+  * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          0
 
 
