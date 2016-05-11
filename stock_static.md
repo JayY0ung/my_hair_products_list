@@ -18,7 +18,7 @@ Received
   * Natural Shampoo                          30
   * Natural Conditioner                      19
   * Sample Pack                              0
-  * Steel Comb with Leather                  4
+  * Steel Comb with Leather                  3
 
 **Bonus**
 
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   26
+  * Treatment Styling Balm                   25
   * Chrome                                   0
   * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          88
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         36
- * Natural Beeswax Paste                     128
+ * Natural Beeswax Paste                     127
  * Sculpting Clay                            25
  * Moroccan Texture Paste                    24
  * Classic Wax                               1
