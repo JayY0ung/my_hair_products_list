@@ -8,15 +8,15 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            11
-  * Scheme Cream                             10
+  * Scheme Cream                             9
   * Modify Pomade                            64
-  * Sponge Wax                               8
-  * Quicksand                                34
+  * Sponge Wax                               7
+  * Quicksand                                32
   * Claymation                               0
   * Hybridized Wax                           11
   * Gel Triq                                 0
-  * Natural Shampoo                          30
-  * Natural Conditioner                      19
+  * Natural Shampoo                          29
+  * Natural Conditioner                      18
   * Sample Pack                              0
   * Steel Comb with Leather                  3
 
@@ -45,7 +45,7 @@ Received
 
  * Peppermint Pomade                         36
  * Natural Beeswax Paste                     127
- * Sculpting Clay                            25
+ * Sculpting Clay                            24
  * Moroccan Texture Paste                    24
  * Classic Wax                               1
  * Texture Powder                            0
