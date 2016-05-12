@@ -9,9 +9,9 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             9
-  * Modify Pomade                            64
+  * Modify Pomade                            63
   * Sponge Wax                               7
-  * Quicksand                                32
+  * Quicksand                                31
   * Claymation                               0
   * Hybridized Wax                           11
   * Gel Triq                                 0
@@ -32,7 +32,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   24
+  * Treatment Styling Balm                   19
   * Chrome                                   0
   * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          88
@@ -71,11 +71,11 @@ Received
      * Heavy                                 3
  * Shampoo                                   1
  * Soap
-     * Bay Rum                               17
+     * Bay Rum                               16
      * Lemon Lavender                        13
  * Cologne
      * Heritage                              0
-     * Tobacoo Rum                           1
+     * Tobacoo Rum                           0
  * Solid Cologne
      * Heritage                              2
      * Tobacoo Rum                           3
