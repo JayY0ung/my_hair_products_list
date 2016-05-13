@@ -10,12 +10,12 @@ Received
   * Gravity Paste                            11
   * Scheme Cream                             9
   * Modify Pomade                            61
-  * Sponge Wax                               7
-  * Quicksand                                31
+  * Sponge Wax                               6
+  * Quicksand                                29
   * Claymation                               0
   * Hybridized Wax                           11
   * Gel Triq                                 0
-  * Natural Shampoo                          29
+  * Natural Shampoo                          28
   * Natural Conditioner                      18
   * Sample Pack                              0
   * Steel Comb with Leather                  3
@@ -39,12 +39,12 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          40
+ * Styling Meraki (Special Edition)          39
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         36
- * Natural Beeswax Paste                     125
+ * Natural Beeswax Paste                     124
  * Sculpting Clay                            24
  * Moroccan Texture Paste                    24
  * Classic Wax                               1
@@ -64,15 +64,15 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        61
+ * Water Based Pomade                        60
  * Traditional Pomade
      * Light                                 4
-     * Original                              5
+     * Original                              4
      * Heavy                                 3
  * Shampoo                                   1
  * Soap
      * Bay Rum                               16
-     * Lemon Lavender                        13
+     * Lemon Lavender                        12
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -84,7 +84,7 @@ Received
  * Candle
      * Forest                                5
      * Bay Rum                               5
-     * Lavender                              6
+     * Lavender                              5
 
 ### TheSalonGuy ###
 
@@ -92,7 +92,7 @@ Received
  * Conditioner                               10
  * Power Cream                               10
  * Talc                                      9
- * Tidal Wave                                7
+ * Tidal Wave                                6
  * Mousse                                    10
  * Plush                                     4
  * Red Carpet                                10
