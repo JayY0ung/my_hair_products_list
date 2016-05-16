@@ -9,9 +9,9 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             9
-  * Modify Pomade                            61
-  * Sponge Wax                               6
-  * Quicksand                                30
+  * Modify Pomade                            58
+  * Sponge Wax                               5
+  * Quicksand                                27
   * Claymation                               0
   * Hybridized Wax                           11
   * Gel Triq                                 0
@@ -27,12 +27,12 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               0
+  * Shapepaste                               2
   * CraftClay                                0
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   17
+  * Treatment Styling Balm                   10
   * Chrome                                   34
   * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          88
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        60
+ * Water Based Pomade                        57
  * Traditional Pomade
      * Light                                 4
      * Original                              4
@@ -78,7 +78,7 @@ Received
      * Tobacoo Rum                           0
  * Solid Cologne
      * Heritage                              2
-     * Tobacoo Rum                           3
+     * Tobacoo Rum                           2
  * Winter stockist pomade                    4
  * Shave Cream                               21
  * Candle
