@@ -32,14 +32,14 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   9
+  * Treatment Styling Balm                   8
   * Chrome                                   34
   * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          88
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          39
+ * Styling Meraki (Special Edition)          38
 
 ### Mister Pompadour ###
 
@@ -64,11 +64,11 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        57
+ * Water Based Pomade                        56
  * Traditional Pomade
      * Light                                 4
      * Original                              4
-     * Heavy                                 3
+     * Heavy                                 2
  * Shampoo                                   1
  * Soap
      * Bay Rum                               16
