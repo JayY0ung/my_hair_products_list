@@ -98,6 +98,11 @@ Received
  * Red Carpet                                10
  * Money                                     9
  * Stinger Paste                             0
+ 
+### Truly Moroccan ###
+ 
+ * Pure truly argan oil                      0
+
 
 -------------------------------------------------------------------------------
 
@@ -199,8 +204,14 @@ Shipped
  * Red Carpet                                0
  * Money                                     0
  * Stinger Paste                             10 (Lost)
+ 
+### Truly Moroccan ###
+ 
+ * Pure truly argan oil                      0
+
 
 -------------------------------------------------------------------------------
+
 
 Ordered but not shipping
 ------------------------
@@ -297,6 +308,10 @@ Ordered but not shipping
  * Red Carpet                                0
  * Money                                     0
  * Stinger Paste                             0
+ 
+### Truly Moroccan ###
+ 
+ * Pure truly argan oil                      50
 
 -------------------------------------------------------------------------------
 
