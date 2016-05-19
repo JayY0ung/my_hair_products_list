@@ -64,14 +64,14 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        56
+ * Water Based Pomade                        55
  * Traditional Pomade
      * Light                                 4
      * Original                              4
      * Heavy                                 2
  * Shampoo                                   1
  * Soap
-     * Bay Rum                               16
+     * Bay Rum                               15
      * Lemon Lavender                        12
  * Cologne
      * Heritage                              0
