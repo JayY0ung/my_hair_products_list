@@ -33,13 +33,13 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   4
-  * Chrome                                   34
+  * Chrome                                   33
   * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          88
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          38
+ * Styling Meraki (Special Edition)          37
 
 ### Mister Pompadour ###
 
