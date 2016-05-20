@@ -32,19 +32,19 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   4
+  * Treatment Styling Balm                   3
   * Chrome                                   31
   * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          88
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          37
+ * Styling Meraki (Special Edition)          36
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         36
- * Natural Beeswax Paste                     121
+ * Natural Beeswax Paste                     120
  * Sculpting Clay                            24
  * Moroccan Texture Paste                    24
  * Classic Wax                               1
@@ -92,15 +92,15 @@ Received
  * Conditioner                               10
  * Power Cream                               10
  * Talc                                      9
- * Tidal Wave                                5
+ * Tidal Wave                                4
  * Mousse                                    10
  * Plush                                     4
  * Red Carpet                                10
  * Money                                     9
  * Stinger Paste                             0
- 
+
 ### Truly Moroccan ###
- 
+
  * Pure truly argan oil                      0
 
 
@@ -204,9 +204,9 @@ Shipped
  * Red Carpet                                0
  * Money                                     0
  * Stinger Paste                             10 (Lost)
- 
+
 ### Truly Moroccan ###
- 
+
  * Pure truly argan oil                      50
 
 
@@ -308,9 +308,9 @@ Ordered but not shipping
  * Red Carpet                                0
  * Money                                     0
  * Stinger Paste                             0
- 
+
 ### Truly Moroccan ###
- 
+
  * Pure truly argan oil                      0
 
 -------------------------------------------------------------------------------
