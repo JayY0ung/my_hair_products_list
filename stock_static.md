@@ -341,7 +341,6 @@ Ordered but not shipping
 **SF-Express**
 
 1. 065006412171
-2. 856469379895
 
 **安能物流**
 
