@@ -39,12 +39,12 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          678
+ * Styling Meraki (Special Edition)          677
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         36
- * Natural Beeswax Paste                     116
+ * Peppermint Pomade                         35
+ * Natural Beeswax Paste                     115
  * Sculpting Clay                            24
  * Moroccan Texture Paste                    24
  * Classic Wax                               1
@@ -64,11 +64,11 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        53
+ * Water Based Pomade                        52
  * Traditional Pomade
      * Light                                 4
      * Original                              4
-     * Heavy                                 2
+     * Heavy                                 1
  * Shampoo                                   1
  * Soap
      * Bay Rum                               15
