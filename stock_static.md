@@ -137,10 +137,10 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   36
-  * Chrome                                   20
+  * Treatment Styling Balm                   108
+  * Chrome                                   56
   * Treatment Cleansing Oil                  5
-  * Comb                                     0
+  * Comb                                     54
 
 
 ### Original by Blumaan ###
