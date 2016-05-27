@@ -131,8 +131,8 @@ Shipped
 
 ### BlackLabel ###
 
-  * ShapePaste                               9
-  * CraftClay                                6
+  * ShapePaste                               6
+  * CraftClay                                0
 
 
 ### Morris Motley ###
