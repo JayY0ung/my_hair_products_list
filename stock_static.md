@@ -13,7 +13,7 @@ Received
   * Sponge Wax                               0
   * Quicksand                                15
   * Claymation                               0
-  * Hybridized Wax                           10
+  * Hybridized Wax                           9
   * Gel Triq                                 0
   * Natural Shampoo                          24
   * Natural Conditioner                      17
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         35
- * Natural Beeswax Paste                     115
+ * Natural Beeswax Paste                     114
  * Sculpting Clay                            24
  * Moroccan Texture Paste                    24
  * Classic Wax                               1
