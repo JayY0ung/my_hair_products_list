@@ -319,7 +319,6 @@ Ordered but not shipping
 
 **DHL**
 
-1. 6037419813
 
 **FedEx**
 
