@@ -39,7 +39,7 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          677
+ * Styling Meraki (Special Edition)          676
 
 ### Mister Pompadour ###
 
@@ -67,7 +67,7 @@ Received
  * Water Based Pomade                        49
  * Traditional Pomade
      * Light                                 4
-     * Original                              4
+     * Original                              3
      * Heavy                                 1
  * Shampoo                                   1
  * Soap
@@ -315,7 +315,7 @@ Ordered but not shipping
 
 -------------------------------------------------------------------------------
 
-### Package Tracking Numbers:
+## Package Tracking ##
 
 **DHL**
 
