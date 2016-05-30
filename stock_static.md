@@ -114,8 +114,8 @@ Shipped
   * Gravity Paste                            0
   * Scheme Cream                             0
   * Modify Pomade                            0
-  * Sponge Wax                               0
-  * Quicksand                                0
+  * Sponge Wax                               48
+  * Quicksand                                192
   * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
@@ -319,6 +319,7 @@ Ordered but not shipping
 
 **DHL**
 
+1. 5179579285
 
 **FedEx**
 
