@@ -9,9 +9,9 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             9
-  * Modify Pomade                            52
+  * Modify Pomade                            48
   * Sponge Wax                               0
-  * Quicksand                                15
+  * Quicksand                                8
   * Claymation                               0
   * Hybridized Wax                           9
   * Gel Triq                                 0
@@ -28,12 +28,12 @@ Received
 ### BlackLabel ###
 
   * Shapepaste                               1
-  * CraftClay                                0
+  * CraftClay                                2
 
 ### Morris Motley ###
 
   * Treatment Styling Balm                   0
-  * Chrome                                   25
+  * Chrome                                   23
   * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          87
 
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        52
+ * Water Based Pomade                        49
  * Traditional Pomade
      * Light                                 4
      * Original                              4
@@ -92,7 +92,7 @@ Received
  * Conditioner                               10
  * Power Cream                               10
  * Talc                                      9
- * Tidal Wave                                4
+ * Tidal Wave                                3
  * Mousse                                    10
  * Plush                                     4
  * Red Carpet                                10
@@ -101,7 +101,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      48
+ * Pure truly argan oil                      47
 
 
 -------------------------------------------------------------------------------
