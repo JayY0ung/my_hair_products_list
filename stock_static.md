@@ -320,6 +320,8 @@ Ordered but not shipping
 **DHL**
 
 1. 5179579285
+2. 8726353694
+3. 9153460713
 
 **FedEx**
 
