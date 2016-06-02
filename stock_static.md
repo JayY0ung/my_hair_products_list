@@ -9,7 +9,7 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             9
-  * Modify Pomade                            48
+  * Modify Pomade                            47
   * Sponge Wax                               0
   * Quicksand                                0
   * Claymation                               0
@@ -72,7 +72,7 @@ Received
  * Shampoo                                   1
  * Soap
      * Bay Rum                               14
-     * Lemon Lavender                        11
+     * Lemon Lavender                        10
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
