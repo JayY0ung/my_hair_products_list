@@ -27,15 +27,15 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               1
+  * Shapepaste                               3
   * CraftClay                                2
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
-  * Chrome                                   20
-  * Treatment Cleansing Oil                  0
-  * Wide Tooth Comb                          87
+  * Treatment Styling Balm                   9
+  * Chrome                                   38
+  * Treatment Cleansing Oil                  3
+  * Wide Tooth Comb                          104
 
 ### Original by Blumaan ###
 
@@ -46,7 +46,7 @@ Received
  * Peppermint Pomade                         35
  * Natural Beeswax Paste                     113
  * Sculpting Clay                            24
- * Moroccan Texture Paste                    24
+ * Moroccan Texture Paste                    23
  * Classic Wax                               1
  * Texture Powder                            0
  * Peppermint Shampoo                        21
@@ -64,15 +64,15 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        45
+ * Water Based Pomade                        44
  * Traditional Pomade
      * Light                                 4
      * Original                              2
      * Heavy                                 0
  * Shampoo                                   1
  * Soap
-     * Bay Rum                               14
-     * Lemon Lavender                        10
+     * Bay Rum                               13
+     * Lemon Lavender                        9
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -101,7 +101,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      45
+ * Pure truly argan oil                      44
 
 
 -------------------------------------------------------------------------------
@@ -137,10 +137,10 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   108
-  * Chrome                                   56
-  * Treatment Cleansing Oil                  5
-  * Comb                                     54
+  * Treatment Styling Balm                   72
+  * Chrome                                   36
+  * Treatment Cleansing Oil                  0
+  * Comb                                     36
 
 
 ### Original by Blumaan ###
@@ -320,7 +320,6 @@ Ordered but not shipping
 **DHL**
 
 1. 5179579285
-2. 8726353694
 3. 9153460713
 
 **FedEx**
