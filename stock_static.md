@@ -9,9 +9,9 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             9
-  * Modify Pomade                            47
-  * Sponge Wax                               48
-  * Quicksand                                192
+  * Modify Pomade                            38
+  * Sponge Wax                               8
+  * Quicksand                                182
   * Claymation                               0
   * Hybridized Wax                           9
   * Gel Triq                                 0
@@ -32,19 +32,19 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   80
-  * Chrome                                   74
+  * Treatment Styling Balm                   74
+  * Chrome                                   67
   * Treatment Cleansing Oil                  3
-  * Wide Tooth Comb                          140
+  * Wide Tooth Comb                          137
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          675
+ * Styling Meraki (Special Edition)          672
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         35
- * Natural Beeswax Paste                     113
+ * Peppermint Pomade                         34
+ * Natural Beeswax Paste                     110
  * Sculpting Clay                            24
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -64,15 +64,15 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        44
+ * Water Based Pomade                        30
  * Traditional Pomade
      * Light                                 4
-     * Original                              2
+     * Original                              1
      * Heavy                                 0
  * Shampoo                                   1
  * Soap
-     * Bay Rum                               13
-     * Lemon Lavender                        9
+     * Bay Rum                               10
+     * Lemon Lavender                        8
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -80,7 +80,7 @@ Received
      * Heritage                              2
      * Tobacoo Rum                           2
  * Winter stockist pomade                    4
- * Shave Cream                               21
+ * Shave Cream                               20
  * Candle
      * Forest                                5
      * Bay Rum                               5
@@ -93,7 +93,7 @@ Received
  * Power Cream                               10
  * Talc                                      9
  * Tidal Wave                                3
- * Mousse                                    10
+ * Mousse                                    9
  * Plush                                     4
  * Red Carpet                                10
  * Money                                     9
@@ -101,7 +101,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      44
+ * Pure truly argan oil                      42
 
 
 -------------------------------------------------------------------------------
