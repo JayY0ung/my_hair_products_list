@@ -32,19 +32,19 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   73
-  * Chrome                                   67
+  * Treatment Styling Balm                   72
+  * Chrome                                   65
   * Treatment Cleansing Oil                  3
   * Wide Tooth Comb                          137
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          672
+ * Styling Meraki (Special Edition)          671
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         34
- * Natural Beeswax Paste                     110
+ * Natural Beeswax Paste                     109
  * Sculpting Clay                            24
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
