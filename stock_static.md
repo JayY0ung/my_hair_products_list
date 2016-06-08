@@ -14,7 +14,6 @@ Received
   * Quicksand                                180
   * Claymation                               0
   * Hybridized Wax                           9
-  * Gel Triq                                 0
   * Natural Shampoo                          24
   * Natural Conditioner                      17
   * Sample Pack                              0
@@ -73,6 +72,7 @@ Received
  * Soap
      * Bay Rum                               10
      * Lemon Lavender                        8
+     * Forest                                0
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -85,6 +85,9 @@ Received
      * Forest                                5
      * Bay Rum                               5
      * Lavender                              5
+ * Deodorant                                 0
+ * Clean up you act kit                      0
+ * Traveller kit                             0
 
 ### TheSalonGuy ###
 
@@ -127,7 +130,6 @@ Shipped
 
   * Shampoo & Conditioner Deluxe Kit         0
   * Quicksand Pocket Jar                     0
-
 
 ### BlackLabel ###
 
@@ -179,6 +181,7 @@ Shipped
  * Soap
      * Bay Rum                               0
      * Lemon Lavender                        0
+     * Forest                                0
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -191,6 +194,9 @@ Shipped
      * Forest                                0
      * Bay Rum                               0
      * Lavender                              0
+ * Deodorant                                 0
+ * Clean up you act kit                      0
+ * Traveller kit                             0
 
 ### TheSalonGuy ###
 
@@ -224,7 +230,6 @@ Ordered but not shipping
   * Quicksand                                0
   * Claymation                               142
   * Hybridized Wax                           0
-  * Deluxe sample kit                        30
   * Natural Shampoo                          0
   * Natural Conditioner                      0
   * Sample Pack                              0
