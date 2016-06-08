@@ -114,8 +114,8 @@ Shipped
   * Gravity Paste                            0
   * Scheme Cream                             0
   * Modify Pomade                            0
-  * Sponge Wax                               48
-  * Quicksand                                192
+  * Sponge Wax                               0
+  * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
@@ -131,7 +131,7 @@ Shipped
 
 ### BlackLabel ###
 
-  * ShapePaste                               6
+  * ShapePaste                               3
   * CraftClay                                0
 
 
@@ -220,9 +220,9 @@ Ordered but not shipping
 
   * Gravity Paste                            0
   * Modify Pomade                            0
-  * Sponge Wax                               0
+  * Sponge Wax                               98
   * Quicksand                                0
-  * Claymation                               0
+  * Claymation                               142
   * Hybridized Wax                           0
   * Gel Triq                                 0
   * Natural Shampoo                          0
@@ -274,18 +274,19 @@ Ordered but not shipping
 
 ### O'Douds ###
 
- * Water Based Pomade                        0
+ * Water Based Pomade                        80
  * Traditional Pomade
-     * Light                                 0
-     * Original                              0
-     * Heavy                                 0
- * Shampoo                                   0
+     * Light                                 6
+     * Original                              24
+     * Heavy                                 54
+ * Shampoo                                   24
  * Soap
-     * Bay Rum                               0
-     * Lemon Lavender                        0
+     * Bay Rum                               24
+     * Lemon Lavender                        24
+     * Forest                                24
  * Cologne
-     * Heritage                              0
-     * Tobacoo Rum                           0
+     * Heritage                              2
+     * Tobacoo Rum                           2
  * Solid Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -295,7 +296,9 @@ Ordered but not shipping
      * Forest                                0
      * Bay Rum                               0
      * Lavender                              0
-
+ * Deodorant                                 24
+ * Clean up you act kit                      10
+ * Traveller kit                             20
 ### TheSalonGuy ###
 
  * Shampoo                                   0
