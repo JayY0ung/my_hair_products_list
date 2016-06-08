@@ -224,7 +224,7 @@ Ordered but not shipping
   * Quicksand                                0
   * Claymation                               142
   * Hybridized Wax                           0
-  * Gel Triq                                 0
+  * Deluxe sample kit                        30
   * Natural Shampoo                          0
   * Natural Conditioner                      0
   * Sample Pack                              0
