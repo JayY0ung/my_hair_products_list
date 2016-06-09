@@ -117,13 +117,13 @@ Shipped
   * Gravity Paste                            0
   * Scheme Cream                             0
   * Modify Pomade                            0
-  * Sponge Wax                               0
+  * Sponge Wax                               98
   * Quicksand                                0
-  * Claymation                               0
+  * Claymation                               142
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
-  * Sample Pack                              0
+  * Sample Pack                              30
   * Steel Comb with Leather                  0
 
 **Bonus**
@@ -226,9 +226,9 @@ Ordered but not shipping
 
   * Gravity Paste                            0
   * Modify Pomade                            0
-  * Sponge Wax                               98
+  * Sponge Wax                               0
   * Quicksand                                0
-  * Claymation                               142
+  * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
@@ -327,6 +327,9 @@ Ordered but not shipping
 
 **DHL**
 
+1. 5818119370
+2. 5818124933
+3. 5818129660
 
 **FedEx**
 
