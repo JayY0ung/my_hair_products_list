@@ -9,9 +9,9 @@ Received
 
   * Gravity Paste                            11
   * Scheme Cream                             9
-  * Modify Pomade                            37
+  * Modify Pomade                            34
   * Sponge Wax                               0
-  * Quicksand                                177
+  * Quicksand                                175
   * Claymation                               0
   * Hybridized Wax                           9
   * Natural Shampoo                          24
@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   69
-  * Chrome                                   63
+  * Treatment Styling Balm                   68
+  * Chrome                                   60
   * Treatment Cleansing Oil                  3
   * Wide Tooth Comb                          136
 
@@ -43,7 +43,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         34
- * Natural Beeswax Paste                     109
+ * Natural Beeswax Paste                     107
  * Sculpting Clay                            24
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -63,10 +63,10 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        26
+ * Water Based Pomade                        22
  * Traditional Pomade
      * Light                                 4
-     * Original                              1
+     * Original                              0
      * Heavy                                 0
  * Shampoo                                   1
  * Soap
@@ -95,8 +95,8 @@ Received
  * Conditioner                               10
  * Power Cream                               10
  * Talc                                      9
- * Tidal Wave                                3
- * Mousse                                    9
+ * Tidal Wave                                2
+ * Mousse                                    8
  * Plush                                     4
  * Red Carpet                                10
  * Money                                     9
@@ -104,7 +104,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      41
+ * Pure truly argan oil                      39
 
 
 -------------------------------------------------------------------------------
