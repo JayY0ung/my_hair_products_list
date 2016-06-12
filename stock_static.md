@@ -162,7 +162,7 @@ Shipped
 
 ### Baxter of California ###
 
- * Clay Pomade                               12
+ * Clay Pomade                               92
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -351,6 +351,7 @@ Ordered but not shipping
 **SF-Express**
 
 1. 065006412171
+2. 065007019586
 
 **安能物流**
 
