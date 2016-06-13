@@ -14,8 +14,8 @@ Received
   * Quicksand                                175
   * Claymation                               0
   * Hybridized Wax                           9
-  * Natural Shampoo                          24
-  * Natural Conditioner                      17
+  * Natural Shampoo                          23
+  * Natural Conditioner                      16
   * Sample Pack                              0
   * Steel Comb with Leather                  3
 
@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   68
+  * Treatment Styling Balm                   66
   * Chrome                                   60
   * Treatment Cleansing Oil                  3
   * Wide Tooth Comb                          136
@@ -43,7 +43,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         34
- * Natural Beeswax Paste                     107
+ * Natural Beeswax Paste                     104
  * Sculpting Clay                            24
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -63,15 +63,15 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        22
+ * Water Based Pomade                        20
  * Traditional Pomade
      * Light                                 4
      * Original                              0
      * Heavy                                 0
  * Shampoo                                   1
  * Soap
-     * Bay Rum                               10
-     * Lemon Lavender                        8
+     * Bay Rum                               8
+     * Lemon Lavender                        7
      * Forest                                0
  * Cologne
      * Heritage                              0
