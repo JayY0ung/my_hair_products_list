@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   66
-  * Chrome                                   60
+  * Treatment Styling Balm                   65
+  * Chrome                                   59
   * Treatment Cleansing Oil                  3
   * Wide Tooth Comb                          136
 
@@ -43,7 +43,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         34
- * Natural Beeswax Paste                     104
+ * Natural Beeswax Paste                     103
  * Sculpting Clay                            24
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -63,7 +63,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        20
+ * Water Based Pomade                        18
  * Traditional Pomade
      * Light                                 4
      * Original                              0
