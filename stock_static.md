@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             9
   * Modify Pomade                            33
   * Sponge Wax                               0
-  * Quicksand                                173
+  * Quicksand                                171
   * Claymation                               0
   * Hybridized Wax                           9
   * Natural Shampoo                          23
@@ -63,7 +63,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        17
+ * Water Based Pomade                        15
  * Traditional Pomade
      * Light                                 4
      * Original                              0
@@ -96,7 +96,7 @@ Received
  * Power Cream                               10
  * Talc                                      9
  * Tidal Wave                                2
- * Mousse                                    8
+ * Mousse                                    7
  * Plush                                     4
  * Red Carpet                                10
  * Money                                     9
