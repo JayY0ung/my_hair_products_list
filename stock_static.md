@@ -7,16 +7,16 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            11
+  * Gravity Paste                            10
   * Scheme Cream                             9
-  * Modify Pomade                            27
+  * Modify Pomade                            23
   * Sponge Wax                               0
-  * Quicksand                                166
-  * Claymation                               0
+  * Quicksand                                161
+  * Claymation                               98
   * Hybridized Wax                           9
   * Natural Shampoo                          22
   * Natural Conditioner                      16
-  * Sample Pack                              0
+  * Sample Pack                              28
   * Steel Comb with Leather                  3
 
 **Bonus**
@@ -26,25 +26,25 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               2
+  * Shapepaste                               6
   * CraftClay                                2
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   54
-  * Chrome                                   58
+  * Treatment Styling Balm                   47
+  * Chrome                                   57
   * Treatment Cleansing Oil                  3
   * Wide Tooth Comb                          134
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          669
+ * Styling Meraki (Special Edition)          645
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         32
- * Natural Beeswax Paste                     95
- * Sculpting Clay                            24
+ * Peppermint Pomade                         31
+ * Natural Beeswax Paste                     91
+ * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
  * Texture Powder                            0
@@ -53,7 +53,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               0
+ * Clay Pomade                               76
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -63,15 +63,15 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        5
+ * Water Based Pomade                        2 (2 units of test)
  * Traditional Pomade
      * Light                                 4
      * Original                              0
      * Heavy                                 0
  * Shampoo                                   0
  * Soap
-     * Bay Rum                               8
-     * Lemon Lavender                        7
+     * Bay Rum                               7
+     * Lemon Lavender                        5
      * Forest                                0
  * Cologne
      * Heritage                              0
@@ -104,7 +104,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      38
+ * Pure truly argan oil                      37
 
 
 -------------------------------------------------------------------------------
@@ -117,13 +117,13 @@ Shipped
   * Gravity Paste                            0
   * Scheme Cream                             0
   * Modify Pomade                            0
-  * Sponge Wax                               98
+  * Sponge Wax                               0
   * Quicksand                                0
-  * Claymation                               142
+  * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
-  * Sample Pack                              30
+  * Sample Pack                              0
   * Steel Comb with Leather                  0
 
 **Bonus**
@@ -143,6 +143,7 @@ Shipped
   * Chrome                                   0
   * Treatment Cleansing Oil                  0
   * Comb                                     0
+  * Chrome sample                            0
 
 
 ### Original by Blumaan ###
@@ -226,7 +227,7 @@ Ordered but not shipping
 
   * Gravity Paste                            0
   * Modify Pomade                            0
-  * Sponge Wax                               0
+  * Sponge Wax                               98 (Not Shipped out! Get confirmed from HDF)
   * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
@@ -246,10 +247,11 @@ Ordered but not shipping
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
+  * Treatment Styling Balm                   72
   * Chrome                                   0
   * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          0
+  * Chrome sample                            72
 
 
 ### Original by Blumaan ###
@@ -304,6 +306,8 @@ Ordered but not shipping
  * Deodorant                                 24
  * Clean up you act kit                      10
  * Traveller kit                             20
+
+
 ### TheSalonGuy ###
 
  * Shampoo                                   0
@@ -327,7 +331,6 @@ Ordered but not shipping
 
 **DHL**
 
-1. 5818119370
 
 **FedEx**
 
