@@ -9,9 +9,9 @@ Received
 
   * Gravity Paste                            10
   * Scheme Cream                             9
-  * Modify Pomade                            23
+  * Modify Pomade                            1
   * Sponge Wax                               0
-  * Quicksand                                161
+  * Quicksand                                159
   * Claymation                               98
   * Hybridized Wax                           9
   * Natural Shampoo                          22
@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   47
-  * Chrome                                   57
+  * Treatment Styling Balm                   44
+  * Chrome                                   56
   * Treatment Cleansing Oil                  3
   * Wide Tooth Comb                          134
 
@@ -42,8 +42,8 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         31
- * Natural Beeswax Paste                     91
+ * Peppermint Pomade                         30
+ * Natural Beeswax Paste                     90
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -63,7 +63,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        2 (2 units of test)
+ * Water Based Pomade                        0 (2 units of test)
  * Traditional Pomade
      * Light                                 4
      * Original                              0
