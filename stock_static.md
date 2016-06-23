@@ -12,7 +12,7 @@ Received
   * Modify Pomade                            1
   * Sponge Wax                               0
   * Quicksand                                159
-  * Claymation                               98
+  * Claymation                               97
   * Hybridized Wax                           9
   * Natural Shampoo                          22
   * Natural Conditioner                      16
@@ -31,14 +31,14 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   44
-  * Chrome                                   56
+  * Treatment Styling Balm                   43
+  * Chrome                                   55
   * Treatment Cleansing Oil                  3
   * Wide Tooth Comb                          134
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          644
+ * Styling Meraki (Special Edition)          643
 
 ### Mister Pompadour ###
 
@@ -99,7 +99,7 @@ Received
  * Mousse                                    7
  * Plush                                     4
  * Red Carpet                                10
- * Money                                     9
+ * Money                                     8
  * Stinger Paste                             0
 
 ### Truly Moroccan ###
