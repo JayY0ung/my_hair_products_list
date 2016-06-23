@@ -7,12 +7,12 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            10
+  * Gravity Paste                            9
   * Scheme Cream                             9
   * Modify Pomade                            1
   * Sponge Wax                               0
   * Quicksand                                159
-  * Claymation                               97
+  * Claymation                               96
   * Hybridized Wax                           9
   * Natural Shampoo                          22
   * Natural Conditioner                      16
@@ -31,14 +31,14 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   43
+  * Treatment Styling Balm                   41
   * Chrome                                   55
   * Treatment Cleansing Oil                  3
   * Wide Tooth Comb                          134
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          643
+ * Styling Meraki (Special Edition)          642
 
 ### Mister Pompadour ###
 
