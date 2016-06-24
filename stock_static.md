@@ -11,8 +11,8 @@ Received
   * Scheme Cream                             9
   * Modify Pomade                            1
   * Sponge Wax                               0
-  * Quicksand                                159
-  * Claymation                               96
+  * Quicksand                                158
+  * Claymation                               92
   * Hybridized Wax                           9
   * Natural Shampoo                          22
   * Natural Conditioner                      16
@@ -31,10 +31,10 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   41
+  * Treatment Styling Balm                   36
   * Chrome                                   55
   * Treatment Cleansing Oil                  3
-  * Wide Tooth Comb                          134
+  * Wide Tooth Comb                          133
 
 ### Original by Blumaan ###
 
