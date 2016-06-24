@@ -173,19 +173,19 @@ Shipped
 
 ### O'Douds ###
 
- * Water Based Pomade                        0
+ * Water Based Pomade                        80
  * Traditional Pomade
-     * Light                                 0
-     * Original                              0
-     * Heavy                                 0
- * Shampoo                                   0
+     * Light                                 6
+     * Original                              24
+     * Heavy                                 54
+ * Shampoo                                   24
  * Soap
-     * Bay Rum                               0
-     * Lemon Lavender                        0
-     * Forest                                0
+     * Bay Rum                               24
+     * Lemon Lavender                        24
+     * Forest                                24
  * Cologne
-     * Heritage                              0
-     * Tobacoo Rum                           0
+     * Heritage                              2
+     * Tobacoo Rum                           2
  * Solid Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -195,9 +195,9 @@ Shipped
      * Forest                                0
      * Bay Rum                               0
      * Lavender                              0
- * Deodorant                                 0
- * Clean up you act kit                      0
- * Traveller kit                             0
+ * Deodorant                                 24
+ * Clean up you act kit                      10
+ * Traveller kit                             20
 
 ### TheSalonGuy ###
 
@@ -281,19 +281,19 @@ Ordered but not shipping
 
 ### O'Douds ###
 
- * Water Based Pomade                        80
+ * Water Based Pomade                        0
  * Traditional Pomade
-     * Light                                 6
-     * Original                              24
-     * Heavy                                 54
- * Shampoo                                   24
+     * Light                                 0
+     * Original                              0
+     * Heavy                                 0
+ * Shampoo                                   0
  * Soap
-     * Bay Rum                               24
-     * Lemon Lavender                        24
-     * Forest                                24
+     * Bay Rum                               0
+     * Lemon Lavender                        0
+     * Forest                                0
  * Cologne
-     * Heritage                              2
-     * Tobacoo Rum                           2
+     * Heritage                              0
+     * Tobacoo Rum                           0
  * Solid Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -303,10 +303,9 @@ Ordered but not shipping
      * Forest                                0
      * Bay Rum                               0
      * Lavender                              0
- * Deodorant                                 24
- * Clean up you act kit                      10
- * Traveller kit                             20
-
+ * Deodorant                                 0
+ * Clean up you act kit                      0
+ * Traveller kit                             0
 
 ### TheSalonGuy ###
 
@@ -334,6 +333,7 @@ Ordered but not shipping
 
 **FedEx**
 
+1. 675314077261
 
 **USPS**
 
