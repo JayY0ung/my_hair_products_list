@@ -210,7 +210,7 @@ Shipped
  * Plush                                     0
  * Red Carpet                                0
  * Money                                     0
- * Stinger Paste                             10 (Lost)
+ * Stinger Paste                             0
 
 ### Truly Moroccan ###
 
@@ -338,7 +338,6 @@ Ordered but not shipping
 
 **USPS**
 
-1. CV039215387US (Lost)
 
 **Australia Post**
 
