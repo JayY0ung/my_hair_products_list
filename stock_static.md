@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             9
   * Modify Pomade                            1
   * Sponge Wax                               0
-  * Quicksand                                158
+  * Quicksand                                155
   * Claymation                               92
   * Hybridized Wax                           9
   * Natural Shampoo                          22
@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   36
+  * Treatment Styling Balm                   35
   * Chrome                                   55
   * Treatment Cleansing Oil                  3
   * Wide Tooth Comb                          133
@@ -70,7 +70,7 @@ Received
      * Heavy                                 0
  * Shampoo                                   0
  * Soap
-     * Bay Rum                               7
+     * Bay Rum                               6
      * Lemon Lavender                        5
      * Forest                                0
  * Cologne
@@ -104,7 +104,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      37
+ * Pure truly argan oil                      36
 
 
 -------------------------------------------------------------------------------
