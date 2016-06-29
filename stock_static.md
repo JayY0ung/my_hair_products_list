@@ -11,8 +11,8 @@ Received
   * Scheme Cream                             9
   * Modify Pomade                            1
   * Sponge Wax                               0
-  * Quicksand                                154
-  * Claymation                               91
+  * Quicksand                                153
+  * Claymation                               90
   * Hybridized Wax                           9
   * Natural Shampoo                          22
   * Natural Conditioner                      15
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               75
+ * Clay Pomade                               73
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
