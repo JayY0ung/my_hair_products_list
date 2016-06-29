@@ -32,19 +32,19 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   105
-  * Chrome                                   55
+  * Chrome                                   54
   * Treatment Cleansing Oil                  2
-  * Chrome Sample                            72
-  * Wide Tooth Comb                          131
+  * Chrome Sample                            71
+  * Wide Tooth Comb                          130
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          638
+ * Styling Meraki (Special Edition)          637
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         30
- * Natural Beeswax Paste                     89
+ * Natural Beeswax Paste                     88
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -71,8 +71,8 @@ Received
      * Heavy                                 0
  * Shampoo                                   0
  * Soap
-     * Bay Rum                               6
-     * Lemon Lavender                        5
+     * Bay Rum                               5
+     * Lemon Lavender                        4
      * Forest                                0
  * Cologne
      * Heritage                              0
@@ -83,7 +83,7 @@ Received
  * Winter stockist pomade                    4
  * Shave Cream                               20
  * Candle
-     * Forest                                5
+     * Forest                                4
      * Bay Rum                               5
      * Lavender                              5
  * Deodorant                                 0
@@ -96,7 +96,7 @@ Received
  * Conditioner                               10
  * Power Cream                               10
  * Talc                                      9
- * Tidal Wave                                2
+ * Tidal Wave                                1
  * Mousse                                    7
  * Plush                                     4
  * Red Carpet                                10
@@ -105,7 +105,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      36
+ * Pure truly argan oil                      34
 
 
 -------------------------------------------------------------------------------
