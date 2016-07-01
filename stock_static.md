@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             9
   * Modify Pomade                            1
   * Sponge Wax                               0
-  * Quicksand                                150
+  * Quicksand                                149
   * Claymation                               90
   * Hybridized Wax                           9
   * Natural Shampoo                          22
@@ -26,15 +26,15 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               9
+  * Shapepaste                               8
   * CraftClay                                2
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   104
+  * Treatment Styling Balm                   103
   * Chrome                                   53
   * Treatment Cleansing Oil                  2
-  * Chrome Sample                            71
+  * Chrome Sample                            70
   * Wide Tooth Comb                          130
 
 ### Original by Blumaan ###
