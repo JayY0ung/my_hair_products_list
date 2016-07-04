@@ -11,9 +11,9 @@ Received
   * Scheme Cream                             9
   * Modify Pomade                            1
   * Sponge Wax                               0
-  * Quicksand                                145
+  * Quicksand                                143
   * Claymation                               85
-  * Hybridized Wax                           9
+  * Hybridized Wax                           8
   * Natural Shampoo                          22
   * Natural Conditioner                      15
   * Sample Pack                              26
@@ -31,10 +31,10 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   100
-  * Chrome                                   51
+  * Treatment Styling Balm                   99
+  * Chrome                                   50
   * Treatment Cleansing Oil                  2
-  * Chrome Sample                            70
+  * Chrome Sample                            69
   * Wide Tooth Comb                          130
 
 ### Original by Blumaan ###
@@ -105,7 +105,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      33
+ * Pure truly argan oil                      32
 
 
 -------------------------------------------------------------------------------
