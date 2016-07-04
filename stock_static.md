@@ -11,13 +11,13 @@ Received
   * Scheme Cream                             9
   * Modify Pomade                            1
   * Sponge Wax                               0
-  * Quicksand                                149
-  * Claymation                               90
+  * Quicksand                                145
+  * Claymation                               85
   * Hybridized Wax                           9
   * Natural Shampoo                          22
   * Natural Conditioner                      15
-  * Sample Pack                              27
-  * Steel Comb with Leather                  3
+  * Sample Pack                              26
+  * Steel Comb with Leather                  2
 
 **Bonus**
 
@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   103
-  * Chrome                                   53
+  * Treatment Styling Balm                   100
+  * Chrome                                   51
   * Treatment Cleansing Oil                  2
   * Chrome Sample                            70
   * Wide Tooth Comb                          130
@@ -44,13 +44,13 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         30
- * Natural Beeswax Paste                     86
+ * Natural Beeswax Paste                     85
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        21
- * Peppermint Conditioner                    19
+ * Peppermint Shampoo                        20
+ * Peppermint Conditioner                    18
 
 ### Baxter of California ###
 
@@ -71,8 +71,8 @@ Received
      * Heavy                                 0
  * Shampoo                                   0
  * Soap
-     * Bay Rum                               5
-     * Lemon Lavender                        4
+     * Bay Rum                               4
+     * Lemon Lavender                        3
      * Forest                                0
  * Cologne
      * Heritage                              0
@@ -105,7 +105,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      34
+ * Pure truly argan oil                      33
 
 
 -------------------------------------------------------------------------------
