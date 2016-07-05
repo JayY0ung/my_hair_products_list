@@ -11,8 +11,8 @@ Received
   * Scheme Cream                             9
   * Modify Pomade                            1
   * Sponge Wax                               0
-  * Quicksand                                143
-  * Claymation                               85
+  * Quicksand                                142
+  * Claymation                               84
   * Hybridized Wax                           8
   * Natural Shampoo                          22
   * Natural Conditioner                      15
@@ -95,8 +95,8 @@ Received
  * Shampoo                                   9
  * Conditioner                               10
  * Power Cream                               10
- * Talc                                      9
- * Tidal Wave                                1
+ * Talc                                      7
+ * Tidal Wave                                0
  * Mousse                                    7
  * Plush                                     4
  * Red Carpet                                10
