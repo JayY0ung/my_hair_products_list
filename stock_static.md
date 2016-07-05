@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             9
   * Modify Pomade                            1
   * Sponge Wax                               0
-  * Quicksand                                142
+  * Quicksand                                141
   * Claymation                               84
   * Hybridized Wax                           8
   * Natural Shampoo                          22
@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   99
+  * Treatment Styling Balm                   98
   * Chrome                                   50
   * Treatment Cleansing Oil                  2
   * Chrome Sample                            69
