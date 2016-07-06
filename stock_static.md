@@ -12,7 +12,7 @@ Received
   * Modify Pomade                            1
   * Sponge Wax                               0
   * Quicksand                                140
-  * Claymation                               84
+  * Claymation                               83
   * Hybridized Wax                           8
   * Natural Shampoo                          22
   * Natural Conditioner                      15
