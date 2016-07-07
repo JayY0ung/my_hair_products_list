@@ -11,7 +11,7 @@ Received
   * Scheme Cream                             9
   * Modify Pomade                            1
   * Sponge Wax                               0
-  * Quicksand                                140
+  * Quicksand                                138
   * Claymation                               83
   * Hybridized Wax                           8
   * Natural Shampoo                          22
@@ -31,15 +31,15 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   97
+  * Treatment Styling Balm                   95
   * Chrome                                   50
   * Treatment Cleansing Oil                  2
-  * Chrome Sample                            68
+  * Chrome Sample                            67
   * Wide Tooth Comb                          130
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          636
+ * Styling Meraki (Special Edition)          635
 
 ### Mister Pompadour ###
 
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               73
+ * Clay Pomade                               72
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
