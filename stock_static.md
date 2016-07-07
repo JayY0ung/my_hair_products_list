@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   95
+  * Treatment Styling Balm                   94
   * Chrome                                   50
   * Treatment Cleansing Oil                  2
   * Chrome Sample                            67
