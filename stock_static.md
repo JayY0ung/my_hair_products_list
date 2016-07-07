@@ -16,7 +16,7 @@ Received
   * Hybridized Wax                           8
   * Natural Shampoo                          22
   * Natural Conditioner                      15
-  * Sample Pack                              26
+  * Sample Pack                              25
   * Steel Comb with Leather                  2
 
 **Bonus**
@@ -71,8 +71,8 @@ Received
      * Heavy                                 0
  * Shampoo                                   0
  * Soap
-     * Bay Rum                               4
-     * Lemon Lavender                        3
+     * Bay Rum                               3
+     * Lemon Lavender                        2
      * Forest                                0
  * Cologne
      * Heritage                              0
