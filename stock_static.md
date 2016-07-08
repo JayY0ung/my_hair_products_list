@@ -15,8 +15,8 @@ Received
   * Claymation                               83
   * Hybridized Wax                           8
   * Natural Shampoo                          22
-  * Natural Conditioner                      15
-  * Sample Pack                              25
+  * Natural Conditioner                      14
+  * Sample Pack                              24
   * Steel Comb with Leather                  2
 
 **Bonus**
@@ -32,14 +32,14 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   94
-  * Chrome                                   50
+  * Chrome                                   48
   * Treatment Cleansing Oil                  2
   * Chrome Sample                            67
   * Wide Tooth Comb                          130
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          635
+ * Styling Meraki (Special Edition)          634
 
 ### Mister Pompadour ###
 
@@ -64,18 +64,18 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        15 (2 units of test)
+ * Water Based Pomade                        11 (2 units of test)
  * Traditional Pomade
      * Light                                 10
-     * Original                              9
-     * Heavy                                 54
+     * Original                              8
+     * Heavy                                 38
  * Shampoo                                   23
  * Soap
-     * Bay Rum                               3
-     * Lemon Lavender                        2
+     * Bay Rum                               2
+     * Lemon Lavender                        1
      * Forest                                0
  * Cologne
-     * Heritage                              2
+     * Heritage                              1
      * Tobacoo Rum                           0
  * Solid Cologne
      * Heritage                              2
@@ -87,8 +87,8 @@ Received
      * Bay Rum                               5
      * Lavender                              5
  * Deodorant                                 23
- * Clean up you act kit                      10
- * Traveller kit                             20
+ * Clean up you act kit                      9
+ * Traveller kit                             19
 
 ### TheSalonGuy ###
 
