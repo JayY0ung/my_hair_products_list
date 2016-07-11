@@ -7,12 +7,12 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            9
+  * Gravity Paste                            8
   * Scheme Cream                             9
-  * Modify Pomade                            1
+  * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                138
-  * Claymation                               83
+  * Quicksand                                136
+  * Claymation                               70
   * Hybridized Wax                           8
   * Natural Shampoo                          22
   * Natural Conditioner                      14
@@ -31,11 +31,11 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   94
-  * Chrome                                   48
-  * Treatment Cleansing Oil                  2
-  * Chrome Sample                            67
-  * Wide Tooth Comb                          130
+  * Treatment Styling Balm                   93
+  * Chrome                                   46
+  * Treatment Cleansing Oil                  1
+  * Chrome Sample                            66
+  * Wide Tooth Comb                          129
 
 ### Original by Blumaan ###
 
@@ -43,8 +43,8 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         29
- * Natural Beeswax Paste                     83
+ * Peppermint Pomade                         27
+ * Natural Beeswax Paste                     82
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               72
+ * Clay Pomade                               69
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -64,15 +64,15 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        11 (2 units of test)
+ * Water Based Pomade                        10 (2 units of test)
  * Traditional Pomade
      * Light                                 10
-     * Original                              8
+     * Original                              7
      * Heavy                                 38
  * Shampoo                                   23
  * Soap
-     * Bay Rum                               2
-     * Lemon Lavender                        1
+     * Bay Rum                               0
+     * Lemon Lavender                        0
      * Forest                                0
  * Cologne
      * Heritage                              1
@@ -98,7 +98,7 @@ Received
  * Talc                                      7
  * Tidal Wave                                0
  * Mousse                                    7
- * Plush                                     4
+ * Plush                                     3
  * Red Carpet                                10
  * Money                                     8
  * Stinger Paste                             0
