@@ -32,8 +32,8 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   93
-  * Chrome                                   46
-  * Treatment Cleansing Oil                  1
+  * Chrome                                   82
+  * Treatment Cleansing Oil                  25
   * Chrome Sample                            66
   * Wide Tooth Comb                          129
 
