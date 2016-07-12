@@ -11,8 +11,8 @@ Received
   * Scheme Cream                             9
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                136
-  * Claymation                               70
+  * Quicksand                                132
+  * Claymation                               67
   * Hybridized Wax                           8
   * Natural Shampoo                          22
   * Natural Conditioner                      14
@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   93
-  * Chrome                                   82
+  * Treatment Styling Balm                   92
+  * Chrome                                   80
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            66
   * Wide Tooth Comb                          129
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         27
- * Natural Beeswax Paste                     82
+ * Natural Beeswax Paste                     80
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               69
+ * Clay Pomade                               67
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -64,12 +64,12 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        10 (2 units of test)
+ * Water Based Pomade                        8 (2 units of test)
  * Traditional Pomade
-     * Light                                 10
+     * Light                                 9
      * Original                              7
      * Heavy                                 38
- * Shampoo                                   23
+ * Shampoo                                   21
  * Soap
      * Bay Rum                               0
      * Lemon Lavender                        0
