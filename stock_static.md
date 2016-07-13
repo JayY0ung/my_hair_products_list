@@ -8,10 +8,10 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            8
-  * Scheme Cream                             9
+  * Scheme Cream                             8
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                132
+  * Quicksand                                131
   * Claymation                               67
   * Hybridized Wax                           8
   * Natural Shampoo                          22
@@ -32,7 +32,7 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   91
-  * Chrome                                   80
+  * Chrome                                   79
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            65
   * Wide Tooth Comb                          129
@@ -43,8 +43,8 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         27
- * Natural Beeswax Paste                     80
+ * Peppermint Pomade                         26
+ * Natural Beeswax Paste                     79
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               67
+ * Clay Pomade                               66
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
