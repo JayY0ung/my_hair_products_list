@@ -12,7 +12,7 @@ Received
   * Modify Pomade                            0
   * Sponge Wax                               0
   * Quicksand                                131
-  * Claymation                               67
+  * Claymation                               62
   * Hybridized Wax                           8
   * Natural Shampoo                          22
   * Natural Conditioner                      14
@@ -35,16 +35,16 @@ Received
   * Chrome                                   79
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            65
-  * Wide Tooth Comb                          129
+  * Wide Tooth Comb                          128
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          634
+ * Styling Meraki (Special Edition)          633
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         26
- * Natural Beeswax Paste                     79
+ * Natural Beeswax Paste                     77
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               66
+ * Clay Pomade                               65
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        8 (2 units of test)
+ * Water Based Pomade                        7 (2 units of test)
  * Traditional Pomade
      * Light                                 9
      * Original                              7
