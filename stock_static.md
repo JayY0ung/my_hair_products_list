@@ -32,7 +32,7 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   91
-  * Chrome                                   79
+  * Chrome                                   78
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            65
   * Wide Tooth Comb                          128
@@ -67,8 +67,8 @@ Received
  * Water Based Pomade                        7 (2 units of test)
  * Traditional Pomade
      * Light                                 9
-     * Original                              7
-     * Heavy                                 38
+     * Original                              6
+     * Heavy                                 37
  * Shampoo                                   21
  * Soap
      * Bay Rum                               0
