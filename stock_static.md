@@ -11,8 +11,8 @@ Received
   * Scheme Cream                             8
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                130
-  * Claymation                               46
+  * Quicksand                                129
+  * Claymation                               43
   * Hybridized Wax                           8
   * Natural Shampoo                          22
   * Natural Conditioner                      14
@@ -26,20 +26,20 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               8
+  * Shapepaste                               7
   * CraftClay                                2
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   85
-  * Chrome                                   74
+  * Treatment Styling Balm                   82
+  * Chrome                                   70
   * Treatment Cleansing Oil                  24
   * Chrome Sample                            64
   * Wide Tooth Comb                          128
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          631
+ * Styling Meraki (Special Edition)          630
 
 ### Mister Pompadour ###
 
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               65
+ * Clay Pomade                               63
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -64,10 +64,10 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        6 (2 units of test)
+ * Water Based Pomade                        2 (2 units of test)
  * Traditional Pomade
      * Light                                 9
-     * Original                              6
+     * Original                              5
      * Heavy                                 37
  * Shampoo                                   21
  * Soap
@@ -93,7 +93,7 @@ Received
 ### TheSalonGuy ###
 
  * Shampoo                                   9
- * Conditioner                               10
+ * Conditioner                               9
  * Power Cream                               10
  * Talc                                      7
  * Tidal Wave                                0
