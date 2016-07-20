@@ -64,16 +64,16 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        2 (2 units of test)
+ * Water Based Pomade                        67 (2 units of test)
  * Traditional Pomade
      * Light                                 9
-     * Original                              5
+     * Original                              20
      * Heavy                                 37
  * Shampoo                                   21
  * Soap
-     * Bay Rum                               0
-     * Lemon Lavender                        0
-     * Forest                                0
+     * Bay Rum                               24
+     * Lemon Lavender                        24
+     * Forest                                24
  * Cologne
      * Heritage                              1
      * Tobacoo Rum                           0
@@ -174,16 +174,16 @@ Shipped
 
 ### O'Douds ###
 
- * Water Based Pomade                        65
+ * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 0
-     * Original                              15
+     * Original                              0
      * Heavy                                 0
- * Shampoo                                   1
+ * Shampoo                                   0
  * Soap
-     * Bay Rum                               24
-     * Lemon Lavender                        24
-     * Forest                                24
+     * Bay Rum                               0
+     * Lemon Lavender                        0
+     * Forest                                0
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -196,7 +196,7 @@ Shipped
      * Forest                                0
      * Bay Rum                               0
      * Lavender                              0
- * Deodorant                                 1
+ * Deodorant                                 0
  * Clean up you act kit                      0
  * Traveller kit                             0
 
