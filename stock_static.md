@@ -118,7 +118,7 @@ Shipped
   * Gravity Paste                            0
   * Scheme Cream                             0
   * Modify Pomade                            0
-  * Sponge Wax                               0
+  * Sponge Wax                               98
   * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
@@ -228,7 +228,7 @@ Ordered but not shipping
 
   * Gravity Paste                            0
   * Modify Pomade                            0
-  * Sponge Wax                               98 (Not Shipped out! Get confirmed from HDF)
+  * Sponge Wax                               0
   * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
@@ -331,6 +331,7 @@ Ordered but not shipping
 
 **DHL**
 
+1. 4483090603
 
 **FedEx**
 
