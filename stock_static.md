@@ -8,11 +8,11 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            8
-  * Scheme Cream                             8
+  * Scheme Cream                             7
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                127
-  * Claymation                               41
+  * Quicksand                                125
+  * Claymation                               37
   * Hybridized Wax                           8
   * Natural Shampoo                          21
   * Natural Conditioner                      13
@@ -31,15 +31,15 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   80
+  * Treatment Styling Balm                   79
   * Chrome                                   70
-  * Treatment Cleansing Oil                  24
+  * Treatment Cleansing Oil                  22
   * Chrome Sample                            64
-  * Wide Tooth Comb                          128
+  * Wide Tooth Comb                          127
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          628
+ * Styling Meraki (Special Edition)          627
 
 ### Mister Pompadour ###
 
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        66 (2 units of test)
+ * Water Based Pomade                        65 (2 units of test)
  * Traditional Pomade
      * Light                                 9
      * Original                              20
@@ -95,7 +95,7 @@ Received
  * Shampoo                                   9
  * Conditioner                               9
  * Power Cream                               10
- * Talc                                      7
+ * Talc                                      6
  * Tidal Wave                                0
  * Mousse                                    7
  * Plush                                     3
