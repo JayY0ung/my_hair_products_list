@@ -12,11 +12,11 @@ Received
   * Modify Pomade                            92
   * Sponge Wax                               48
   * Quicksand                                122
-  * Claymation                               174
+  * Claymation                               173
   * Hybridized Wax                           8
   * Natural Shampoo                          20
   * Natural Conditioner                      13
-  * Sample Pack                              23
+  * Sample Pack                              22
   * Steel Comb with Leather                  2
 
 **Bonus**
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         24
- * Natural Beeswax Paste                     71
+ * Natural Beeswax Paste                     70
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               62
+ * Clay Pomade                               61
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
