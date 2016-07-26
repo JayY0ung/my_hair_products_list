@@ -9,10 +9,10 @@ Received
 
   * Gravity Paste                            8
   * Scheme Cream                             6
-  * Modify Pomade                            0
-  * Sponge Wax                               0
+  * Modify Pomade                            92
+  * Sponge Wax                               48
   * Quicksand                                122
-  * Claymation                               30
+  * Claymation                               174
   * Hybridized Wax                           8
   * Natural Shampoo                          20
   * Natural Conditioner                      13
@@ -118,9 +118,9 @@ Shipped
   * Gravity Paste                            0
   * Scheme Cream                             0
   * Modify Pomade                            0
-  * Sponge Wax                               98
+  * Sponge Wax                               116
   * Quicksand                                0
-  * Claymation                               0
+  * Claymation                               48
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
@@ -353,6 +353,8 @@ Ordered but not shipping
 1. 065006412171
 
 **安能物流**
+
+1. 300130395467
 
 
 -------------------------------------------------------------------------------
