@@ -10,12 +10,12 @@ Received
   * Gravity Paste                            8
   * Scheme Cream                             6
   * Modify Pomade                            92
-  * Sponge Wax                               48
-  * Quicksand                                121
-  * Claymation                               168
+  * Sponge Wax                               47
+  * Quicksand                                120
+  * Claymation                               167
   * Hybridized Wax                           8
   * Natural Shampoo                          20
-  * Natural Conditioner                      13
+  * Natural Conditioner                      12
   * Sample Pack                              21
   * Steel Comb with Leather                  2
 
@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   71
-  * Chrome                                   69
+  * Treatment Styling Balm                   70
+  * Chrome                                   68
   * Treatment Cleansing Oil                  20
   * Chrome Sample                            62
   * Wide Tooth Comb                          126
@@ -44,13 +44,13 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         24
- * Natural Beeswax Paste                     69
+ * Natural Beeswax Paste                     68
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
  * Texture Powder                            0
  * Peppermint Shampoo                        19
- * Peppermint Conditioner                    18
+ * Peppermint Conditioner                    17
 
 ### Baxter of California ###
 
@@ -81,7 +81,7 @@ Received
      * Heritage                              2
      * Tobacoo Rum                           2
  * Winter stockist pomade                    4
- * Shave Cream                               20
+ * Shave Cream                               18
  * Candle
      * Forest                                4
      * Bay Rum                               4
@@ -98,14 +98,14 @@ Received
  * Talc                                      6
  * Tidal Wave                                0
  * Mousse                                    7
- * Plush                                     2
+ * Plush                                     1
  * Red Carpet                                9
  * Money                                     8
  * Stinger Paste                             0
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      31
+ * Pure truly argan oil                      30
 
 
 -------------------------------------------------------------------------------
