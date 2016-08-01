@@ -11,8 +11,8 @@ Received
   * Scheme Cream                             4
   * Modify Pomade                            92
   * Sponge Wax                               162
-  * Quicksand                                117
-  * Claymation                               202
+  * Quicksand                                114
+  * Claymation                               201
   * Hybridized Wax                           8
   * Natural Shampoo                          19
   * Natural Conditioner                      11
@@ -34,7 +34,7 @@ Received
   * Treatment Styling Balm                   63
   * Chrome                                   66
   * Treatment Cleansing Oil                  20
-  * Chrome Sample                            60
+  * Chrome Sample                            59
   * Wide Tooth Comb                          124
 
 ### Original by Blumaan ###
