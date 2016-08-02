@@ -10,9 +10,9 @@ Received
   * Gravity Paste                            8
   * Scheme Cream                             4
   * Modify Pomade                            92
-  * Sponge Wax                               162
+  * Sponge Wax                               161
   * Quicksand                                114
-  * Claymation                               201
+  * Claymation                               200
   * Hybridized Wax                           8
   * Natural Shampoo                          19
   * Natural Conditioner                      11
@@ -31,10 +31,10 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   63
-  * Chrome                                   66
+  * Treatment Styling Balm                   62
+  * Chrome                                   65
   * Treatment Cleansing Oil                  20
-  * Chrome Sample                            59
+  * Chrome Sample                            58
   * Wide Tooth Comb                          124
 
 ### Original by Blumaan ###
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         22
- * Natural Beeswax Paste                     67
+ * Natural Beeswax Paste                     66
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -69,9 +69,9 @@ Received
      * Light                                 9
      * Original                              19
      * Heavy                                 36
- * Shampoo                                   20
+ * Shampoo                                   19
  * Soap
-     * Bay Rum                               22
+     * Bay Rum                               21
      * Lemon Lavender                        21
      * Forest                                21
  * Cologne
@@ -92,7 +92,7 @@ Received
 
 ### TheSalonGuy ###
 
- * Shampoo                                   9
+ * Shampoo                                   8
  * Conditioner                               9
  * Power Cream                               9
  * Talc                                      6
