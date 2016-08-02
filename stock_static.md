@@ -140,7 +140,7 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
+  * Treatment Styling Balm                   36
   * Chrome                                   0
   * Treatment Cleansing Oil                  0
   * Comb                                     0
@@ -331,6 +331,7 @@ Ordered but not shipping
 
 **DHL**
 
+1. 5646364091
 
 **FedEx**
 
