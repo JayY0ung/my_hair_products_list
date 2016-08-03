@@ -11,8 +11,8 @@ Received
   * Scheme Cream                             3
   * Modify Pomade                            92
   * Sponge Wax                               161
-  * Quicksand                                114
-  * Claymation                               200
+  * Quicksand                                113
+  * Claymation                               198
   * Hybridized Wax                           8
   * Natural Shampoo                          19
   * Natural Conditioner                      11
@@ -26,7 +26,7 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               7
+  * Shapepaste                               6
   * CraftClay                                2
 
 ### Morris Motley ###
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         22
- * Natural Beeswax Paste                     66
+ * Natural Beeswax Paste                     65
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        62 (2 units of test)
+ * Water Based Pomade                        59 (2 units of test)
  * Traditional Pomade
      * Light                                 9
      * Original                              19
