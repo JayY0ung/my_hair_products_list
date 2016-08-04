@@ -8,11 +8,11 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            8
-  * Scheme Cream                             3
+  * Scheme Cream                             2
   * Modify Pomade                            92
   * Sponge Wax                               161
-  * Quicksand                                113
-  * Claymation                               195
+  * Quicksand                                64
+  * Claymation                               189
   * Hybridized Wax                           8
   * Natural Shampoo                          19
   * Natural Conditioner                      11
@@ -31,20 +31,20 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   62
-  * Chrome                                   65
-  * Treatment Cleansing Oil                  20
+  * Treatment Styling Balm                   59
+  * Chrome                                   64
+  * Treatment Cleansing Oil                  19
   * Chrome Sample                            58
   * Wide Tooth Comb                          124
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          573
+ * Styling Meraki (Special Edition)          572
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         22
- * Natural Beeswax Paste                     65
+ * Natural Beeswax Paste                     64
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -81,7 +81,7 @@ Received
      * Heritage                              2
      * Tobacoo Rum                           2
  * Winter stockist pomade                    4
- * Shave Cream                               18
+ * Shave Cream                               17
  * Candle
      * Forest                                4
      * Bay Rum                               4
