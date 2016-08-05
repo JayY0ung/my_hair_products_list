@@ -39,7 +39,7 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          572
+ * Styling Meraki (Special Edition)          571
 
 ### Mister Pompadour ###
 
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               56
+ * Clay Pomade                               55
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -68,7 +68,7 @@ Received
  * Traditional Pomade
      * Light                                 9
      * Original                              19
-     * Heavy                                 36
+     * Heavy                                 35
  * Shampoo                                   19
  * Soap
      * Bay Rum                               21
