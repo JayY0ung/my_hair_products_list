@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   59
+  * Treatment Styling Balm                   95
   * Chrome                                   64
   * Treatment Cleansing Oil                  19
   * Chrome Sample                            58
@@ -140,7 +140,7 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   36
+  * Treatment Styling Balm                   0
   * Chrome                                   0
   * Treatment Cleansing Oil                  0
   * Comb                                     0
@@ -331,7 +331,6 @@ Ordered but not shipping
 
 **DHL**
 
-1. 5646364091
 
 **FedEx**
 
