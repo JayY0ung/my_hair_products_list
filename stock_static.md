@@ -10,13 +10,13 @@ Received
   * Gravity Paste                            8
   * Scheme Cream                             2
   * Modify Pomade                            92
-  * Sponge Wax                               161
-  * Quicksand                                64
-  * Claymation                               189
+  * Sponge Wax                               159
+  * Quicksand                                62
+  * Claymation                               187
   * Hybridized Wax                           8
   * Natural Shampoo                          19
   * Natural Conditioner                      11
-  * Sample Pack                              20
+  * Sample Pack                              19
   * Steel Comb with Leather                  2
 
 **Bonus**
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        59 (2 units of test)
+ * Water Based Pomade                        58 (2 units of test)
  * Traditional Pomade
      * Light                                 9
      * Original                              19
