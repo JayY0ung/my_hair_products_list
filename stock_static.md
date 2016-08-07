@@ -12,7 +12,7 @@ Received
   * Modify Pomade                            92
   * Sponge Wax                               159
   * Quicksand                                62
-  * Claymation                               187
+  * Claymation                               184
   * Hybridized Wax                           8
   * Natural Shampoo                          19
   * Natural Conditioner                      11
@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   95
+  * Treatment Styling Balm                   88
   * Chrome                                   64
   * Treatment Cleansing Oil                  19
   * Chrome Sample                            58
@@ -43,7 +43,7 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         22
+ * Peppermint Pomade                         21
  * Natural Beeswax Paste                     64
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
