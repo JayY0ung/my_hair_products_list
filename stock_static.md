@@ -8,11 +8,11 @@ Received
 ### Hanz de Fuko ###
 
   * Gravity Paste                            8
-  * Scheme Cream                             2
+  * Scheme Cream                             1
   * Modify Pomade                            92
   * Sponge Wax                               159
   * Quicksand                                62
-  * Claymation                               184
+  * Claymation                               179
   * Hybridized Wax                           8
   * Natural Shampoo                          19
   * Natural Conditioner                      11
@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   88
+  * Treatment Styling Balm                   86
   * Chrome                                   64
   * Treatment Cleansing Oil                  19
   * Chrome Sample                            58
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               55
+ * Clay Pomade                               54
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
