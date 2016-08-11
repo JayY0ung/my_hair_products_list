@@ -12,11 +12,11 @@ Received
   * Modify Pomade                            92
   * Sponge Wax                               159
   * Quicksand                                61
-  * Claymation                               171
+  * Claymation                               167
   * Hybridized Wax                           8
   * Natural Shampoo                          17
   * Natural Conditioner                      10
-  * Sample Pack                              19
+  * Sample Pack                              18
   * Steel Comb with Leather                  2
 
 **Bonus**
@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   76
+  * Treatment Styling Balm                   75
   * Chrome                                   60
   * Treatment Cleansing Oil                  18
   * Chrome Sample                            58
@@ -64,16 +64,16 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        55 (2 units of test)
+ * Water Based Pomade                        53 (2 units of test)
  * Traditional Pomade
      * Light                                 9
      * Original                              19
      * Heavy                                 35
  * Shampoo                                   19
  * Soap
-     * Bay Rum                               20
-     * Lemon Lavender                        21
-     * Forest                                21
+     * Bay Rum                               19
+     * Lemon Lavender                        20
+     * Forest                                20
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
