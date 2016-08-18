@@ -9,14 +9,14 @@ Received
 
   * Gravity Paste                            8
   * Scheme Cream                             1
-  * Modify Pomade                            92
-  * Sponge Wax                               159
-  * Quicksand                                61
-  * Claymation                               163
+  * Modify Pomade                            91
+  * Sponge Wax                               156
+  * Quicksand                                58
+  * Claymation                               145
   * Hybridized Wax                           8
-  * Natural Shampoo                          17
-  * Natural Conditioner                      10
-  * Sample Pack                              17
+  * Natural Shampoo                          15
+  * Natural Conditioner                      8
+  * Sample Pack                              15
   * Steel Comb with Leather                  2
 
 **Bonus**
@@ -26,25 +26,25 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               6
-  * CraftClay                                2
+  * Shapepaste                               5
+  * CraftClay                                1
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   73
-  * Chrome                                   60
-  * Treatment Cleansing Oil                  18
+  * Treatment Styling Balm                   64
+  * Chrome                                   58
+  * Treatment Cleansing Oil                  16
   * Chrome Sample                            58
-  * Wide Tooth Comb                          123
+  * Wide Tooth Comb                          122
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          570
+ * Styling Meraki (Special Edition)          566
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         21
- * Natural Beeswax Paste                     61
+ * Peppermint Pomade                         20
+ * Natural Beeswax Paste                     60
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               53
+ * Clay Pomade                               51
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -64,15 +64,15 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        53 (2 units of test)
+ * Water Based Pomade                        50 (2 units of test)
  * Traditional Pomade
      * Light                                 9
      * Original                              19
-     * Heavy                                 35
+     * Heavy                                 34
  * Shampoo                                   19
  * Soap
-     * Bay Rum                               19
-     * Lemon Lavender                        20
+     * Bay Rum                               18
+     * Lemon Lavender                        19
      * Forest                                20
  * Cologne
      * Heritage                              0
@@ -105,7 +105,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      27
+ * Pure truly argan oil                      25
 
 
 -------------------------------------------------------------------------------
