@@ -9,10 +9,10 @@ Received
 
   * Gravity Paste                            8
   * Scheme Cream                             1
-  * Modify Pomade                            90
+  * Modify Pomade                            88
   * Sponge Wax                               156
-  * Quicksand                                56
-  * Claymation                               144
+  * Quicksand                                55
+  * Claymation                               143
   * Hybridized Wax                           8
   * Natural Shampoo                          15
   * Natural Conditioner                      8
@@ -39,7 +39,7 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          565
+ * Styling Meraki (Special Edition)          564
 
 ### Mister Pompadour ###
 
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        50 (2 units of test)
+ * Water Based Pomade                        48 (2 units of test)
  * Traditional Pomade
      * Light                                 9
      * Original                              19
