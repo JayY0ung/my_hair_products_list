@@ -10,11 +10,11 @@ Received
   * Gravity Paste                            8
   * Scheme Cream                             1
   * Modify Pomade                            88
-  * Sponge Wax                               156
-  * Quicksand                                55
-  * Claymation                               143
+  * Sponge Wax                               155
+  * Quicksand                                54
+  * Claymation                               140
   * Hybridized Wax                           8
-  * Natural Shampoo                          15
+  * Natural Shampoo                          14
   * Natural Conditioner                      8
   * Sample Pack                              15
   * Steel Comb with Leather                  2
@@ -31,11 +31,11 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   64
-  * Chrome                                   56
-  * Treatment Cleansing Oil                  16
+  * Treatment Styling Balm                   63
+  * Chrome                                   53
+  * Treatment Cleansing Oil                  15
   * Chrome Sample                            58
-  * Wide Tooth Comb                          122
+  * Wide Tooth Comb                          121
 
 ### Original by Blumaan ###
 
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         20
- * Natural Beeswax Paste                     60
+ * Natural Beeswax Paste                     58
  * Sculpting Clay                            23
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -68,7 +68,7 @@ Received
  * Traditional Pomade
      * Light                                 9
      * Original                              19
-     * Heavy                                 34
+     * Heavy                                 32
  * Shampoo                                   19
  * Soap
      * Bay Rum                               18
@@ -105,7 +105,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      25
+ * Pure truly argan oil                      24
 
 
 -------------------------------------------------------------------------------
