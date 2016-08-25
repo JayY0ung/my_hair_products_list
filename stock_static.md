@@ -9,10 +9,10 @@ Received
 
   * Gravity Paste                            8
   * Scheme Cream                             1
-  * Modify Pomade                            88
-  * Sponge Wax                               154
-  * Quicksand                                53
-  * Claymation                               137
+  * Modify Pomade                            87
+  * Sponge Wax                               153
+  * Quicksand                                52
+  * Claymation                               133
   * Hybridized Wax                           8
   * Natural Shampoo                          14
   * Natural Conditioner                      8
@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   61
+  * Treatment Styling Balm                   57
   * Chrome                                   52
   * Treatment Cleansing Oil                  14
   * Chrome Sample                            58
@@ -39,17 +39,17 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          562
+ * Styling Meraki (Special Edition)          561
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         20
- * Natural Beeswax Paste                     58
- * Sculpting Clay                            23
+ * Natural Beeswax Paste                     56
+ * Sculpting Clay                            22
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        13
+ * Peppermint Shampoo                        11
  * Peppermint Conditioner                    13
 
 ### Baxter of California ###
@@ -64,12 +64,12 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        47 (2 units of test)
+ * Water Based Pomade                        46 (2 units of test)
  * Traditional Pomade
      * Light                                 9
      * Original                              19
      * Heavy                                 32
- * Shampoo                                   19
+ * Shampoo                                   18
  * Soap
      * Bay Rum                               18
      * Lemon Lavender                        19
@@ -87,7 +87,7 @@ Received
      * Bay Rum                               4
      * Lavender                              5
  * Deodorant                                 23
- * Clean up you act kit                      8
+ * Clean up you act kit                      7
  * Traveller kit                             19
 
 ### TheSalonGuy ###
