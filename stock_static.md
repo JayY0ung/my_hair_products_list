@@ -17,7 +17,7 @@ Received
   * Natural Shampoo                          14
   * Natural Conditioner                      8
   * Sample Pack                              14
-  * Steel Comb with Leather                  2
+  * Steel Comb with Leather                  1
 
 **Bonus**
 
@@ -32,7 +32,7 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   57
-  * Chrome                                   52
+  * Chrome                                   51
   * Treatment Cleansing Oil                  14
   * Chrome Sample                            58
   * Wide Tooth Comb                          121
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         20
- * Natural Beeswax Paste                     56
+ * Natural Beeswax Paste                     55
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    23
  * Classic Wax                               1
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               51
+ * Clay Pomade                               50
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -67,7 +67,7 @@ Received
  * Water Based Pomade                        46 (2 units of test)
  * Traditional Pomade
      * Light                                 9
-     * Original                              19
+     * Original                              18
      * Heavy                                 32
  * Shampoo                                   18
  * Soap
