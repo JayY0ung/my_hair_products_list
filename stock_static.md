@@ -7,16 +7,16 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            8
-  * Scheme Cream                             1
-  * Modify Pomade                            87
-  * Sponge Wax                               153
-  * Quicksand                                52
-  * Claymation                               133
-  * Hybridized Wax                           8
-  * Natural Shampoo                          14
-  * Natural Conditioner                      8
-  * Sample Pack                              14
+  * Gravity Paste                            5
+  * Scheme Cream                             0
+  * Modify Pomade                            20
+  * Sponge Wax                               139
+  * Quicksand                                37
+  * Claymation                               61
+  * Hybridized Wax                           6
+  * Natural Shampoo                          11
+  * Natural Conditioner                      7
+  * Sample Pack                              13
   * Steel Comb with Leather                  1
 
 **Bonus**
@@ -27,34 +27,34 @@ Received
 ### BlackLabel ###
 
   * Shapepaste                               5
-  * CraftClay                                1
+  * CraftClay                                0
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   57
-  * Chrome                                   51
-  * Treatment Cleansing Oil                  14
+  * Treatment Styling Balm                   40
+  * Chrome                                   48
+  * Treatment Cleansing Oil                  13
   * Chrome Sample                            58
   * Wide Tooth Comb                          121
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          561
+ * Styling Meraki (Special Edition)          559
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         20
- * Natural Beeswax Paste                     55
- * Sculpting Clay                            22
- * Moroccan Texture Paste                    23
+ * Peppermint Pomade                         16
+ * Natural Beeswax Paste                     44
+ * Sculpting Clay                            21
+ * Moroccan Texture Paste                    22
  * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        11
- * Peppermint Conditioner                    13
+ * Peppermint Shampoo                        8
+ * Peppermint Conditioner                    9
 
 ### Baxter of California ###
 
- * Clay Pomade                               50
+ * Clay Pomade                               48
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -64,24 +64,24 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        46 (2 units of test)
+ * Water Based Pomade                        39
  * Traditional Pomade
      * Light                                 9
-     * Original                              18
-     * Heavy                                 32
+     * Original                              17
+     * Heavy                                 30
  * Shampoo                                   18
  * Soap
      * Bay Rum                               18
      * Lemon Lavender                        19
-     * Forest                                20
+     * Forest                                19
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
  * Solid Cologne
      * Heritage                              2
      * Tobacoo Rum                           2
- * Winter stockist pomade                    4
- * Shave Cream                               17
+ * Winter stockist pomade                    1
+ * Shave Cream                               15
  * Candle
      * Forest                                4
      * Bay Rum                               4
@@ -95,17 +95,17 @@ Received
  * Shampoo                                   8
  * Conditioner                               9
  * Power Cream                               9
- * Talc                                      6
+ * Talc                                      5
  * Tidal Wave                                0
  * Mousse                                    7
- * Plush                                     1
+ * Plush                                     0
  * Red Carpet                                9
  * Money                                     8
  * Stinger Paste                             0
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      24
+ * Pure truly argan oil                      23
 
 
 -------------------------------------------------------------------------------
