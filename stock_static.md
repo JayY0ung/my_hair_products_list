@@ -33,7 +33,7 @@ Received
 
   * Treatment Styling Balm                   38
   * Chrome                                   48
-  * Treatment Cleansing Oil                  13
+  * Treatment Cleansing Oil                  12
   * Chrome Sample                            58
   * Wide Tooth Comb                          121
 
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        39
+ * Water Based Pomade                        38
  * Traditional Pomade
      * Light                                 9
      * Original                              17
