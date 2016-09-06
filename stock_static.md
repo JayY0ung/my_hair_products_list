@@ -9,10 +9,10 @@ Received
 
   * Gravity Paste                            5
   * Scheme Cream                             0
-  * Modify Pomade                            18
+  * Modify Pomade                            16
   * Sponge Wax                               138
-  * Quicksand                                31
-  * Claymation                               49
+  * Quicksand                                30
+  * Claymation                               46
   * Hybridized Wax                           6
   * Natural Shampoo                          11
   * Natural Conditioner                      7
@@ -56,7 +56,7 @@ Received
 
  * Clay Pomade                               48
  * Hard Water Pomade                         0
- * Hard Cream Pomade                         0
+ * Hard Cream Pomade                         1
  * Soft Water Pomade                         0
  * Cream Pomade                              0
  * Pocket Comb                               0
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        36
+ * Water Based Pomade                        33
  * Traditional Pomade
      * Light                                 9
      * Original                              17
@@ -105,7 +105,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      23
+ * Pure truly argan oil                      22
 
 
 -------------------------------------------------------------------------------
