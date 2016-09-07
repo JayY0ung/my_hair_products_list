@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   34
+  * Treatment Styling Balm                   33
   * Chrome                                   46
   * Treatment Cleansing Oil                  12
   * Chrome Sample                            58
@@ -39,12 +39,12 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          556
+ * Styling Meraki (Special Edition)          555
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         16
- * Natural Beeswax Paste                     38
+ * Natural Beeswax Paste                     37
  * Sculpting Clay                            21
  * Moroccan Texture Paste                    22
  * Classic Wax                               1
