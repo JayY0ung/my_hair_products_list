@@ -12,7 +12,7 @@ Received
   * Modify Pomade                            16
   * Sponge Wax                               138
   * Quicksand                                29
-  * Claymation                               46
+  * Claymation                               45
   * Hybridized Wax                           6
   * Natural Shampoo                          11
   * Natural Conditioner                      7
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         16
- * Natural Beeswax Paste                     37
+ * Natural Beeswax Paste                     36
  * Sculpting Clay                            21
  * Moroccan Texture Paste                    22
  * Classic Wax                               1
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               48
+ * Clay Pomade                               47
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         1
  * Soft Water Pomade                         0
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        33
+ * Water Based Pomade                        32
  * Traditional Pomade
      * Light                                 9
      * Original                              17
