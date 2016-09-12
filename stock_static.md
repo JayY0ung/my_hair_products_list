@@ -338,7 +338,7 @@ Ordered but not shipping
 
 **USPS**
 
-1. CJ450612752US 
+1. CJ450612752US
 
 **Australia Post**
 
