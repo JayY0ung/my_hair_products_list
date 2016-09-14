@@ -7,16 +7,16 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            5
+  * Gravity Paste                            3
   * Scheme Cream                             0
   * Modify Pomade                            15
-  * Sponge Wax                               137
+  * Sponge Wax                               135
   * Quicksand                                25
-  * Claymation                               42
+  * Claymation                               36
   * Hybridized Wax                           6
   * Natural Shampoo                          11
   * Natural Conditioner                      7
-  * Sample Pack                              13
+  * Sample Pack                              12
   * Steel Comb with Leather                  1
 
 **Bonus**
@@ -26,31 +26,31 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               5
-  * CraftClay                                0
+  * Shapepaste                               4
+  * CraftClay                                3
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   100
+  * Treatment Styling Balm                   94
   * Chrome                                   44
-  * Treatment Cleansing Oil                  72
+  * Treatment Cleansing Oil                  11
   * Chrome Sample                            58
-  * Wide Tooth Comb                          121
+  * Wide Tooth Comb                          120
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          555
+ * Styling Meraki (Special Edition)          554
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         16
- * Natural Beeswax Paste                     33
+ * Peppermint Pomade                         14
+ * Natural Beeswax Paste                     30
  * Sculpting Clay                            21
- * Moroccan Texture Paste                    22
+ * Moroccan Texture Paste                    21
  * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        8
- * Peppermint Conditioner                    9
+ * Peppermint Shampoo                        6
+ * Peppermint Conditioner                    7
 
 ### Baxter of California ###
 
@@ -64,11 +64,11 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        29
+ * Water Based Pomade                        25
  * Traditional Pomade
      * Light                                 9
      * Original                              17
-     * Heavy                                 25
+     * Heavy                                 23
  * Shampoo                                   18
  * Soap
      * Bay Rum                               18
@@ -105,7 +105,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      20
+ * Pure truly argan oil                      19
 
 
 -------------------------------------------------------------------------------
@@ -243,7 +243,7 @@ Ordered but not shipping
 ### BlackLabel ###
 
   * ShapePaste                               0
-  * CraftClay                                3
+  * CraftClay                                0
 
 
 ### Morris Motley ###
