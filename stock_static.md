@@ -11,9 +11,9 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            10
   * Sponge Wax                               124
-  * Quicksand                                12
-  * Claymation                               2
-  * Hybridized Wax                           5
+  * Quicksand                                10
+  * Claymation                               0
+  * Hybridized Wax                           4
   * Natural Shampoo                          10
   * Natural Conditioner                      6
   * Sample Pack                              9
@@ -31,32 +31,32 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   76
-  * Chrome                                   40
+  * Treatment Styling Balm                   73
+  * Chrome                                   48
   * Treatment Cleansing Oil                  11
   * Chrome Sample                            30
-  * Wide Tooth Comb                          120
+  * Wide Tooth Comb                          119
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          455
+ * Styling Meraki (Special Edition)          453
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         11
- * Natural Beeswax Paste                     7
+ * Peppermint Pomade                         9
+ * Natural Beeswax Paste                     4
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
  * Texture Powder                            0
- * Peppermint Shampoo                        1
+ * Peppermint Shampoo                        0
  * Peppermint Conditioner                    4
 
 ### Baxter of California ###
 
  * Clay Pomade                               44
  * Hard Water Pomade                         0
- * Hard Cream Pomade                         1
+ * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
  * Cream Pomade                              0
  * Pocket Comb                               0
@@ -64,16 +64,16 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        6
+ * Water Based Pomade                        4
  * Traditional Pomade
      * Light                                 10
      * Original                              17
-     * Heavy                                 18
- * Shampoo                                   15
+     * Heavy                                 17
+ * Shampoo                                   14
  * Soap
      * Bay Rum                               18
      * Lemon Lavender                        19
-     * Forest                                18
+     * Forest                                17
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
@@ -105,7 +105,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      15
+ * Pure truly argan oil                      14
 
 
 -------------------------------------------------------------------------------
