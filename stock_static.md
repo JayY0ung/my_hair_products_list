@@ -11,13 +11,13 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            10
   * Sponge Wax                               124
-  * Quicksand                                9
+  * Quicksand                                5
   * Claymation                               0
-  * Hybridized Wax                           4
-  * Natural Shampoo                          10
+  * Hybridized Wax                           3
+  * Natural Shampoo                          9
   * Natural Conditioner                      6
-  * Sample Pack                              9
-  * Steel Comb with Leather                  1
+  * Sample Pack                              8
+  * Steel Comb with Leather                  0
 
 **Bonus**
 
@@ -31,20 +31,20 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   73
-  * Chrome                                   48
+  * Treatment Styling Balm                   68
+  * Chrome                                   46
   * Treatment Cleansing Oil                  11
   * Chrome Sample                            30
   * Wide Tooth Comb                          119
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          453
+ * Styling Meraki (Special Edition)          451
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         9
- * Natural Beeswax Paste                     4
+ * Natural Beeswax Paste                     0
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               44
+ * Clay Pomade                               43
  * Hard Water Pomade                         0
  * Hard Cream Pomade                         0
  * Soft Water Pomade                         0
@@ -72,7 +72,7 @@ Received
  * Shampoo                                   14
  * Soap
      * Bay Rum                               18
-     * Lemon Lavender                        19
+     * Lemon Lavender                        18
      * Forest                                17
  * Cologne
      * Heritage                              0
@@ -92,7 +92,7 @@ Received
 
 ### TheSalonGuy ###
 
- * Shampoo                                   8
+ * Shampoo                                   7
  * Conditioner                               9
  * Power Cream                               8
  * Talc                                      5
