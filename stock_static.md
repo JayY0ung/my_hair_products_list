@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   68
-  * Chrome                                   44
+  * Treatment Styling Balm                   65
+  * Chrome                                   43
   * Treatment Cleansing Oil                  11
   * Chrome Sample                            30
   * Wide Tooth Comb                          119
@@ -64,7 +64,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        1
+ * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 10
      * Original                              17
