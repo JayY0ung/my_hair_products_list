@@ -12,7 +12,7 @@ Received
   * Modify Pomade                            10
   * Sponge Wax                               124
   * Quicksand                                1
-  * Claymation                               0
+  * Claymation                               85
   * Hybridized Wax                           3
   * Natural Shampoo                          9
   * Natural Conditioner                      6
@@ -43,24 +43,24 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         8
- * Natural Beeswax Paste                     0
+ * Peppermint Pomade                         32
+ * Natural Beeswax Paste                     144
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
- * Texture Powder                            0
- * Peppermint Shampoo                        0
- * Peppermint Conditioner                    3
+ * Texture Powder                            48
+ * Peppermint Shampoo                        48
+ * Peppermint Conditioner                    52
 
 ### Baxter of California ###
 
- * Clay Pomade                               43
- * Hard Water Pomade                         0
- * Hard Cream Pomade                         0
- * Soft Water Pomade                         0
+ * Clay Pomade                               83
+ * Hard Water Pomade                         5
+ * Hard Cream Pomade                         25
+ * Soft Water Pomade                         5
  * Cream Pomade                              0
- * Pocket Comb                               0
- * Large Comb                                0
+ * Pocket Comb                               30
+ * Large Comb                                10
 
 ### O'Douds ###
 
@@ -120,7 +120,7 @@ Shipped
   * Modify Pomade                            0
   * Sponge Wax                               0
   * Quicksand                                0
-  * Claymation                               85
+  * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
@@ -153,24 +153,24 @@ Shipped
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         24
- * Natural Beeswax Paste                     144
+ * Peppermint Pomade                         0
+ * Natural Beeswax Paste                     0
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
  * Classic Wax                               0
- * Texture Powder                            48
- * Peppermint Shampoo                        48
- * Peppermint Conditioner                    48
+ * Texture Powder                            0
+ * Peppermint Shampoo                        0
+ * Peppermint Conditioner                    0
 
 ### Baxter of California ###
 
- * Clay Pomade                               40
- * Hard Water Pomade                         5
- * Hard Cream Pomade                         25
- * Soft Water Pomade                         5
+ * Clay Pomade                               0
+ * Hard Water Pomade                         0
+ * Hard Cream Pomade                         0
+ * Soft Water Pomade                         0
  * Cream Pomade                              0
- * Pocket Comb                               30
- * Large Comb                                10
+ * Pocket Comb                               0
+ * Large Comb                                0
 
 ### O'Douds ###
 
@@ -350,7 +350,7 @@ Ordered but not shipping
 
 **SF-Express**
 
-1. 065006412171
+1. 856534260155
 
 **安能物流**
 
