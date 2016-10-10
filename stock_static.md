@@ -9,10 +9,10 @@ Received
 
   * Gravity Paste                            2
   * Scheme Cream                             0
-  * Modify Pomade                            4
+  * Modify Pomade                            3
   * Sponge Wax                               122
   * Quicksand                                0
-  * Claymation                               44
+  * Claymation                               43
   * Hybridized Wax                           3
   * Natural Shampoo                          8
   * Natural Conditioner                      6
@@ -39,12 +39,12 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          449
+ * Styling Meraki (Special Edition)          448
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         24
- * Natural Beeswax Paste                     126
+ * Natural Beeswax Paste                     125
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
