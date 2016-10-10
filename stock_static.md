@@ -7,14 +7,14 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            3
+  * Gravity Paste                            2
   * Scheme Cream                             0
-  * Modify Pomade                            10
-  * Sponge Wax                               124
+  * Modify Pomade                            4
+  * Sponge Wax                               122
   * Quicksand                                0
-  * Claymation                               67
+  * Claymation                               44
   * Hybridized Wax                           3
-  * Natural Shampoo                          9
+  * Natural Shampoo                          8
   * Natural Conditioner                      6
   * Sample Pack                              8
   * Steel Comb with Leather                  0
@@ -31,48 +31,49 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   64
-  * Chrome                                   42
+  * Treatment Styling Balm                   51
+  * Chrome                                   35
   * Treatment Cleansing Oil                  11
   * Chrome Sample                            30
-  * Wide Tooth Comb                          119
+  * Wide Tooth Comb                          117
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          451
+ * Styling Meraki (Special Edition)          449
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         31
- * Natural Beeswax Paste                     140
+ * Peppermint Pomade                         24
+ * Natural Beeswax Paste                     126
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
  * Texture Powder                            48
- * Peppermint Shampoo                        47
- * Peppermint Conditioner                    52
+ * Peppermint Shampoo                        45
+ * Peppermint Conditioner                    50
 
 ### Baxter of California ###
 
- * Clay Pomade                               82
+ * Clay Pomade                               81
  * Hard Water Pomade                         5
- * Hard Cream Pomade                         25
+ * Hard Cream Pomade                         24
  * Soft Water Pomade                         5
  * Cream Pomade                              0
- * Pocket Comb                               30
+ * Pocket Comb                               29
  * Large Comb                                10
+ * Mixer kit                                 9
 
 ### O'Douds ###
 
  * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 10
-     * Original                              17
-     * Heavy                                 17
- * Shampoo                                   14
+     * Original                              16
+     * Heavy                                 13
+ * Shampoo                                   13
  * Soap
-     * Bay Rum                               18
-     * Lemon Lavender                        18
+     * Bay Rum                               16
+     * Lemon Lavender                        17
      * Forest                                16
  * Cologne
      * Heritage                              0
@@ -80,7 +81,7 @@ Received
  * Solid Cologne
      * Heritage                              2
      * Tobacoo Rum                           2
- * Winter stockist pomade                    1
+ * Winter stockist pomade                    0
  * Shave Cream                               15
  * Candle
      * Forest                                4
@@ -95,7 +96,7 @@ Received
  * Shampoo                                   7
  * Conditioner                               9
  * Power Cream                               8
- * Talc                                      5
+ * Talc                                      4
  * Tidal Wave                                0
  * Mousse                                    7
  * Plush                                     0
@@ -105,7 +106,7 @@ Received
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      14
+ * Pure truly argan oil                      11
 
 
 -------------------------------------------------------------------------------
@@ -115,11 +116,11 @@ Shipped
 
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            0
+  * Gravity Paste                            48
   * Scheme Cream                             0
-  * Modify Pomade                            0
+  * Modify Pomade                            48
   * Sponge Wax                               0
-  * Quicksand                                0
+  * Quicksand                                48
   * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
@@ -226,10 +227,10 @@ Ordered but not shipping
 
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            48
-  * Modify Pomade                            48
+  * Gravity Paste                            0
+  * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                48
+  * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
@@ -350,7 +351,6 @@ Ordered but not shipping
 
 **SF-Express**
 
-1. 856534260155
 
 **安能物流**
 
