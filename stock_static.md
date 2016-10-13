@@ -7,13 +7,13 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            2
+  * Gravity Paste                            43
   * Scheme Cream                             0
-  * Modify Pomade                            3
+  * Modify Pomade                            48
   * Sponge Wax                               122
-  * Quicksand                                0
-  * Claymation                               43
-  * Hybridized Wax                           3
+  * Quicksand                                40
+  * Claymation                               39
+  * Hybridized Wax                           2
   * Natural Shampoo                          8
   * Natural Conditioner                      6
   * Sample Pack                              8
@@ -31,26 +31,26 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   51
-  * Chrome                                   35
+  * Treatment Styling Balm                   48
+  * Chrome                                   33
   * Treatment Cleansing Oil                  11
   * Chrome Sample                            30
   * Wide Tooth Comb                          117
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          448
+ * Styling Meraki (Special Edition)          447
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         24
- * Natural Beeswax Paste                     125
+ * Peppermint Pomade                         23
+ * Natural Beeswax Paste                     123
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
- * Texture Powder                            48
- * Peppermint Shampoo                        45
- * Peppermint Conditioner                    50
+ * Texture Powder                            46
+ * Peppermint Shampoo                        43
+ * Peppermint Conditioner                    48
 
 ### Baxter of California ###
 
@@ -61,7 +61,7 @@ Received
  * Cream Pomade                              0
  * Pocket Comb                               29
  * Large Comb                                10
- * Mixer kit                                 9
+ * Mixer kit                                 8
 
 ### O'Douds ###
 
@@ -70,7 +70,7 @@ Received
      * Light                                 10
      * Original                              16
      * Heavy                                 13
- * Shampoo                                   13
+ * Shampoo                                   12
  * Soap
      * Bay Rum                               16
      * Lemon Lavender                        17
@@ -88,7 +88,7 @@ Received
      * Bay Rum                               4
      * Lavender                              5
  * Deodorant                                 23
- * Clean up you act kit                      7
+ * Clean up you act kit                      6
  * Traveller kit                             18
 
 ### TheSalonGuy ###
@@ -116,11 +116,11 @@ Shipped
 
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            48
+  * Gravity Paste                            0
   * Scheme Cream                             0
-  * Modify Pomade                            48
+  * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                48
+  * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
