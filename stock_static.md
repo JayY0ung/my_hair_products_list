@@ -9,10 +9,10 @@ Received
 
   * Gravity Paste                            43
   * Scheme Cream                             0
-  * Modify Pomade                            48
-  * Sponge Wax                               122
-  * Quicksand                                40
-  * Claymation                               39
+  * Modify Pomade                            47
+  * Sponge Wax                               120
+  * Quicksand                                38
+  * Claymation                               38
   * Hybridized Wax                           2
   * Natural Shampoo                          8
   * Natural Conditioner                      6
@@ -32,19 +32,19 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   48
-  * Chrome                                   30
+  * Chrome                                   28
   * Treatment Cleansing Oil                  11
   * Chrome Sample                            30
   * Wide Tooth Comb                          116
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          447
+ * Styling Meraki (Special Edition)          380
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         23
- * Natural Beeswax Paste                     123
+ * Natural Beeswax Paste                     122
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
