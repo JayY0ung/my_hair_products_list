@@ -7,13 +7,13 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            43
+  * Gravity Paste                            42
   * Scheme Cream                             0
-  * Modify Pomade                            46
-  * Sponge Wax                               120
-  * Quicksand                                38
-  * Claymation                               36
-  * Hybridized Wax                           2
+  * Modify Pomade                            45
+  * Sponge Wax                               116
+  * Quicksand                                35
+  * Claymation                               30
+  * Hybridized Wax                           1
   * Natural Shampoo                          8
   * Natural Conditioner                      6
   * Sample Pack                              8
@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   46
-  * Chrome                                   27
+  * Treatment Styling Balm                   37
+  * Chrome                                   21
   * Treatment Cleansing Oil                  11
   * Chrome Sample                            30
   * Wide Tooth Comb                          116
@@ -43,18 +43,18 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         21
- * Natural Beeswax Paste                     121
+ * Peppermint Pomade                         17
+ * Natural Beeswax Paste                     117
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
- * Texture Powder                            46
+ * Texture Powder                            45
  * Peppermint Shampoo                        43
- * Peppermint Conditioner                    48
+ * Peppermint Conditioner                    47
 
 ### Baxter of California ###
 
- * Clay Pomade                               81
+ * Clay Pomade                               79
  * Hard Water Pomade                         5
  * Hard Cream Pomade                         24
  * Soft Water Pomade                         5
@@ -68,8 +68,8 @@ Received
  * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 10
-     * Original                              16
-     * Heavy                                 12
+     * Original                              15
+     * Heavy                                 11
  * Shampoo                                   12
  * Soap
      * Bay Rum                               16
