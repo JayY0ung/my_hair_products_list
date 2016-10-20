@@ -9,10 +9,10 @@ Received
 
   * Gravity Paste                            42
   * Scheme Cream                             0
-  * Modify Pomade                            45
+  * Modify Pomade                            44
   * Sponge Wax                               116
-  * Quicksand                                35
-  * Claymation                               30
+  * Quicksand                                33
+  * Claymation                               25
   * Hybridized Wax                           1
   * Natural Shampoo                          8
   * Natural Conditioner                      6
@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   37
-  * Chrome                                   21
+  * Treatment Styling Balm                   32
+  * Chrome                                   20
   * Treatment Cleansing Oil                  11
   * Chrome Sample                            30
   * Wide Tooth Comb                          116
@@ -43,7 +43,7 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         17
+ * Peppermint Pomade                         16
  * Natural Beeswax Paste                     117
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               79
+ * Clay Pomade                               77
  * Hard Water Pomade                         5
  * Hard Cream Pomade                         24
  * Soft Water Pomade                         5
@@ -68,13 +68,13 @@ Received
  * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 10
-     * Original                              15
+     * Original                              14
      * Heavy                                 11
  * Shampoo                                   12
  * Soap
      * Bay Rum                               16
      * Lemon Lavender                        17
-     * Forest                                16
+     * Forest                                15
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
