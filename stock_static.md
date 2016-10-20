@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   32
+  * Treatment Styling Balm                   28
   * Chrome                                   20
   * Treatment Cleansing Oil                  11
   * Chrome Sample                            30
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         16
- * Natural Beeswax Paste                     115
+ * Natural Beeswax Paste                     114
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
@@ -73,7 +73,7 @@ Received
  * Shampoo                                   12
  * Soap
      * Bay Rum                               16
-     * Lemon Lavender                        17
+     * Lemon Lavender                        16
      * Forest                                15
  * Cologne
      * Heritage                              0
