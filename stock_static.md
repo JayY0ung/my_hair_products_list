@@ -141,8 +141,8 @@ Shipped
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
-  * Chrome                                   0
+  * Treatment Styling Balm                   72
+  * Chrome                                   36
   * Treatment Cleansing Oil                  0
   * Comb                                     0
   * Chrome sample                            0
@@ -249,8 +249,8 @@ Ordered but not shipping
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   72
-  * Chrome                                   36
+  * Treatment Styling Balm                   0
+  * Chrome                                   0
   * Treatment Cleansing Oil                  0
   * Wide Tooth Comb                          0
   * Chrome sample                            0
@@ -332,6 +332,7 @@ Ordered but not shipping
 
 **DHL**
 
+1. 8080878853
 
 **FedEx**
 
