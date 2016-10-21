@@ -262,7 +262,7 @@ Ordered but not shipping
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         0
+ * Peppermint Pomade                         72
  * Natural Beeswax Paste                     0
  * Sculpting Clay                            0
  * Moroccan Texture Paste                    0
