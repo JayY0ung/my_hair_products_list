@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   15
-  * Chrome                                   18
+  * Treatment Styling Balm                   14
+  * Chrome                                   17
   * Treatment Cleansing Oil                  10
   * Chrome Sample                            30
   * Wide Tooth Comb                          116
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         12
- * Natural Beeswax Paste                     110
+ * Natural Beeswax Paste                     109
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
@@ -54,12 +54,12 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               76
+ * Clay Pomade                               75
  * Hard Water Pomade                         5
- * Hard Cream Pomade                         24
+ * Hard Cream Pomade                         23
  * Soft Water Pomade                         5
  * Cream Pomade                              0
- * Pocket Comb                               29
+ * Pocket Comb                               28
  * Large Comb                                10
  * Mixer kit                                 9
 
@@ -69,7 +69,7 @@ Received
  * Traditional Pomade
      * Light                                 10
      * Original                              14
-     * Heavy                                 9
+     * Heavy                                 8
  * Shampoo                                   12
  * Soap
      * Bay Rum                               15
