@@ -9,10 +9,10 @@ Received
 
   * Gravity Paste                            42
   * Scheme Cream                             0
-  * Modify Pomade                            43
+  * Modify Pomade                            42
   * Sponge Wax                               116
-  * Quicksand                                32
-  * Claymation                               22
+  * Quicksand                                31
+  * Claymation                               11
   * Hybridized Wax                           1
   * Natural Shampoo                          8
   * Natural Conditioner                      6
@@ -31,37 +31,37 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   23
-  * Chrome                                   19
+  * Treatment Styling Balm                   15
+  * Chrome                                   18
   * Treatment Cleansing Oil                  10
   * Chrome Sample                            30
   * Wide Tooth Comb                          116
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          380
+ * Styling Meraki (Special Edition)          379
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         14
- * Natural Beeswax Paste                     113
+ * Peppermint Pomade                         12
+ * Natural Beeswax Paste                     110
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
- * Texture Powder                            45
- * Peppermint Shampoo                        43
- * Peppermint Conditioner                    47
+ * Texture Powder                            44
+ * Peppermint Shampoo                        41
+ * Peppermint Conditioner                    45
 
 ### Baxter of California ###
 
- * Clay Pomade                               77
+ * Clay Pomade                               76
  * Hard Water Pomade                         5
  * Hard Cream Pomade                         24
  * Soft Water Pomade                         5
  * Cream Pomade                              0
  * Pocket Comb                               29
  * Large Comb                                10
- * Mixer kit                                 8
+ * Mixer kit                                 9
 
 ### O'Douds ###
 
@@ -69,10 +69,10 @@ Received
  * Traditional Pomade
      * Light                                 10
      * Original                              14
-     * Heavy                                 11
+     * Heavy                                 9
  * Shampoo                                   12
  * Soap
-     * Bay Rum                               16
+     * Bay Rum                               15
      * Lemon Lavender                        16
      * Forest                                15
  * Cologne
@@ -88,7 +88,7 @@ Received
      * Bay Rum                               4
      * Lavender                              5
  * Deodorant                                 23
- * Clean up you act kit                      6
+ * Clean up you act kit                      7
  * Traveller kit                             18
 
 ### TheSalonGuy ###
