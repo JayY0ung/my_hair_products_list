@@ -10,9 +10,9 @@ Received
   * Gravity Paste                            42
   * Scheme Cream                             0
   * Modify Pomade                            42
-  * Sponge Wax                               116
-  * Quicksand                                27
-  * Claymation                               5
+  * Sponge Wax                               115
+  * Quicksand                                26
+  * Claymation                               4
   * Hybridized Wax                           1
   * Natural Shampoo                          8
   * Natural Conditioner                      6
@@ -31,11 +31,11 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   81
+  * Treatment Styling Balm                   79
   * Chrome                                   52
   * Treatment Cleansing Oil                  10
   * Chrome Sample                            30
-  * Wide Tooth Comb                          116
+  * Wide Tooth Comb                          115
 
 ### Original by Blumaan ###
 
@@ -43,18 +43,18 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         11
- * Natural Beeswax Paste                     107
+ * Peppermint Pomade                         10
+ * Natural Beeswax Paste                     104
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
- * Texture Powder                            43
- * Peppermint Shampoo                        41
- * Peppermint Conditioner                    45
+ * Texture Powder                            42
+ * Peppermint Shampoo                        40
+ * Peppermint Conditioner                    44
 
 ### Baxter of California ###
 
- * Clay Pomade                               75
+ * Clay Pomade                               74
  * Hard Water Pomade                         5
  * Hard Cream Pomade                         23
  * Soft Water Pomade                         5
@@ -73,7 +73,7 @@ Received
  * Shampoo                                   12
  * Soap
      * Bay Rum                               15
-     * Lemon Lavender                        16
+     * Lemon Lavender                        15
      * Forest                                15
  * Cologne
      * Heritage                              0
