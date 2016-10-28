@@ -7,16 +7,16 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            42
+  * Gravity Paste                            41
   * Scheme Cream                             0
   * Modify Pomade                            42
-  * Sponge Wax                               115
-  * Quicksand                                26
-  * Claymation                               4
+  * Sponge Wax                               114
+  * Quicksand                                25
+  * Claymation                               1
   * Hybridized Wax                           1
   * Natural Shampoo                          8
   * Natural Conditioner                      6
-  * Sample Pack                              8
+  * Sample Pack                              7
   * Steel Comb with Leather                  0
 
 **Bonus**
@@ -31,11 +31,11 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   79
-  * Chrome                                   52
+  * Treatment Styling Balm                   74
+  * Chrome                                   51
   * Treatment Cleansing Oil                  10
   * Chrome Sample                            30
-  * Wide Tooth Comb                          115
+  * Wide Tooth Comb                          114
 
 ### Original by Blumaan ###
 
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         10
- * Natural Beeswax Paste                     104
+ * Natural Beeswax Paste                     102
  * Sculpting Clay                            22
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               74
+ * Clay Pomade                               73
  * Hard Water Pomade                         5
  * Hard Cream Pomade                         23
  * Soft Water Pomade                         5
@@ -69,7 +69,7 @@ Received
  * Traditional Pomade
      * Light                                 10
      * Original                              14
-     * Heavy                                 8
+     * Heavy                                 7
  * Shampoo                                   12
  * Soap
      * Bay Rum                               15
