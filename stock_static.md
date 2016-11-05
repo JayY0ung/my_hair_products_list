@@ -9,9 +9,9 @@ Received
 
   * Gravity Paste                            40
   * Scheme Cream                             0
-  * Modify Pomade                            39
-  * Sponge Wax                               109
-  * Quicksand                                11
+  * Modify Pomade                            38
+  * Sponge Wax                               108
+  * Quicksand                                8
   * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          8
@@ -31,30 +31,30 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   54
-  * Chrome                                   46
-  * Treatment Cleansing Oil                  8
+  * Treatment Styling Balm                   51
+  * Chrome                                   45
+  * Treatment Cleansing Oil                  6
   * Chrome Sample                            30
   * Wide Tooth Comb                          114
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          324
+ * Styling Meraki (Special Edition)          322
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         6
  * Natural Beeswax Paste                     94
- * Sculpting Clay                            22
+ * Sculpting Clay                            21
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
  * Texture Powder                            40
- * Peppermint Shampoo                        40
- * Peppermint Conditioner                    44
+ * Peppermint Shampoo                        39
+ * Peppermint Conditioner                    43
 
 ### Baxter of California ###
 
- * Clay Pomade                               71
+ * Clay Pomade                               70
  * Hard Water Pomade                         5
  * Hard Cream Pomade                         23
  * Soft Water Pomade                         5
@@ -69,17 +69,17 @@ Received
  * Traditional Pomade
      * Light                                 10
      * Original                              14
-     * Heavy                                 6
+     * Heavy                                 5
  * Shampoo                                   12
  * Soap
      * Bay Rum                               15
      * Lemon Lavender                        15
-     * Forest                                15
+     * Forest                                14
  * Cologne
      * Heritage                              0
      * Tobacoo Rum                           0
  * Solid Cologne
-     * Heritage                              2
+     * Heritage                              1
      * Tobacoo Rum                           2
  * Winter stockist pomade                    0
  * Shave Cream                               15
@@ -88,7 +88,7 @@ Received
      * Bay Rum                               4
      * Lavender                              5
  * Deodorant                                 23
- * Clean up you act kit                      7
+ * Clean up you act kit                      6
  * Traveller kit                             18
 
 ### TheSalonGuy ###
