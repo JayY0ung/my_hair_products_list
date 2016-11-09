@@ -10,8 +10,8 @@ Received
   * Gravity Paste                            47
   * Scheme Cream                             0
   * Modify Pomade                            37
-  * Sponge Wax                               107
-  * Quicksand                                52
+  * Sponge Wax                               105
+  * Quicksand                                51
   * Claymation                               38
   * Hybridized Wax                           24
   * Natural Shampoo                          8
@@ -49,7 +49,7 @@ Received
  * Moroccan Texture Paste                    21
  * Classic Wax                               1
  * Texture Powder                            40
- * Peppermint Shampoo                        39
+ * Peppermint Shampoo                        38
  * Peppermint Conditioner                    43
 
 ### Baxter of California ###
