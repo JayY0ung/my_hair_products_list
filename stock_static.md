@@ -11,12 +11,12 @@ Received
   * Scheme Cream                             0
   * Modify Pomade                            37
   * Sponge Wax                               105
-  * Quicksand                                51
-  * Claymation                               38
+  * Quicksand                                50
+  * Claymation                               37
   * Hybridized Wax                           24
   * Natural Shampoo                          8
   * Natural Conditioner                      6
-  * Sample Pack                              2
+  * Sample Pack                              1
   * Steel Comb with Leather                  0
 
 **Bonus**
@@ -32,7 +32,7 @@ Received
 ### Morris Motley ###
 
   * Treatment Styling Balm                   46
-  * Chrome                                   43
+  * Chrome                                   42
   * Treatment Cleansing Oil                  6
   * Chrome Sample                            30
   * Wide Tooth Comb                          114
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               69
+ * Clay Pomade                               68
  * Hard Water Pomade                         5
  * Hard Cream Pomade                         23
  * Soft Water Pomade                         5
