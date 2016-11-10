@@ -13,7 +13,7 @@ Received
   * Sponge Wax                               105
   * Quicksand                                50
   * Claymation                               37
-  * Hybridized Wax                           24
+  * Hybridized Wax                           23
   * Natural Shampoo                          8
   * Natural Conditioner                      6
   * Sample Pack                              1
@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   46
+  * Treatment Styling Balm                   44
   * Chrome                                   42
   * Treatment Cleansing Oil                  6
   * Chrome Sample                            30
