@@ -108,6 +108,31 @@ Received
 
  * Pure truly argan oil                      6
 
+### PLANT APOTHECARY ###
+
+ * RE: FRESH Organic Toning Face Mist        11
+ * ZIT ZAP Spot Treatment Mask               10
+ * MATCHA Antioxidant Face Mask              11
+ * RICE & CLEAN Gentle Facial Cleanser       11
+ * SUPER SOAK Healing Bath                   23
+ * SEA IN A SCRUB Organic Body Scrub         5
+ * WAKE UP Body Oil                          12
+ * CALM DOWN Body Oil                        12
+ * GET IT ON Body Oil                        12
+ * WAKE UP Bodywash, 9.5 oz.                 23
+ * CALM DOWN Bodywash, 9.5 oz.               11
+ * GET HAPPY Bodywash, 9.5 oz.               12
+ * GET IT ON Bodywash, 9.5 oz.               12
+ * BE WELL Bodywash, 9.5 oz.                 11
+ * ØÅ Face Oil                               12
+ * Ø Face Oil                                12
+ * Å Face Oil                                12
+ * Travel-size WAKE UP Bodywash, 2.3 oz.     48
+ * Travel-size CALM DOWN Bodywash, 2.3 oz    46
+ * Travel-size GET HAPPY Bodywash, 2.3 oz    48
+ * Travel-size GET IT ON Bodywash, 2.3 oz.   47
+ * Travel-size BE WELL Bodywash, 2.3 oz.     48
+
 
 -------------------------------------------------------------------------------
 
@@ -218,6 +243,31 @@ Shipped
 
  * Pure truly argan oil                      0
 
+### PLANT APOTHECARY ###
+
+ * RE: FRESH Organic Toning Face Mist        0
+ * ZIT ZAP Spot Treatment Mask               0
+ * MATCHA Antioxidant Face Mask              0
+ * RICE & CLEAN Gentle Facial Cleanser       0
+ * SUPER SOAK Healing Bath                   0
+ * SEA IN A SCRUB Organic Body Scrub         0
+ * WAKE UP Body Oil                          0
+ * CALM DOWN Body Oil                        0
+ * GET IT ON Body Oil                        0
+ * WAKE UP Bodywash, 9.5 oz.                 0
+ * CALM DOWN Bodywash, 9.5 oz.               0
+ * GET HAPPY Bodywash, 9.5 oz.               0
+ * GET IT ON Bodywash, 9.5 oz.               0
+ * BE WELL Bodywash, 9.5 oz.                 0
+ * ØÅ Face Oil                               0
+ * Ø Face Oil                                0
+ * Å Face Oil                                0
+ * Travel-size WAKE UP Bodywash, 2.3 oz.     0
+ * Travel-size CALM DOWN Bodywash, 2.3 oz    0
+ * Travel-size GET HAPPY Bodywash, 2.3 oz    0
+ * Travel-size GET IT ON Bodywash, 2.3 oz.   0
+ * Travel-size BE WELL Bodywash, 2.3 oz.     0
+
 
 -------------------------------------------------------------------------------
 
@@ -325,6 +375,31 @@ Ordered but not shipping
 ### Truly Moroccan ###
 
  * Pure truly argan oil                      0
+
+### PLANT APOTHECARY ###
+
+ * RE: FRESH Organic Toning Face Mist        0
+ * ZIT ZAP Spot Treatment Mask               0
+ * MATCHA Antioxidant Face Mask              0
+ * RICE & CLEAN Gentle Facial Cleanser       0
+ * SUPER SOAK Healing Bath                   0
+ * SEA IN A SCRUB Organic Body Scrub         0
+ * WAKE UP Body Oil                          0
+ * CALM DOWN Body Oil                        0
+ * GET IT ON Body Oil                        0
+ * WAKE UP Bodywash, 9.5 oz.                 0
+ * CALM DOWN Bodywash, 9.5 oz.               0
+ * GET HAPPY Bodywash, 9.5 oz.               0
+ * GET IT ON Bodywash, 9.5 oz.               0
+ * BE WELL Bodywash, 9.5 oz.                 0
+ * ØÅ Face Oil                               0
+ * Ø Face Oil                                0
+ * Å Face Oil                                0
+ * Travel-size WAKE UP Bodywash, 2.3 oz.     0
+ * Travel-size CALM DOWN Bodywash, 2.3 oz    0
+ * Travel-size GET HAPPY Bodywash, 2.3 oz    0
+ * Travel-size GET IT ON Bodywash, 2.3 oz.   0
+ * Travel-size BE WELL Bodywash, 2.3 oz.     0
 
 -------------------------------------------------------------------------------
 
