@@ -9,8 +9,8 @@ Received
 
   * Gravity Paste                            41
   * Scheme Cream                             0
-  * Modify Pomade                            28
-  * Sponge Wax                               93
+  * Modify Pomade                            27
+  * Sponge Wax                               92
   * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           20
@@ -31,25 +31,25 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   77
-  * Chrome                                   26
-  * Treatment Cleansing Oil                  26
+  * Treatment Styling Balm                   70
+  * Chrome                                   25
+  * Treatment Cleansing Oil                  25
   * Chrome Sample                            30
   * Wide Tooth Comb                          114
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          222
+ * Styling Meraki (Special Edition)          221
 
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         69
- * Natural Beeswax Paste                     62
+ * Natural Beeswax Paste                     58
  * Sculpting Clay                            18
  * Moroccan Texture Paste                    20
  * Classic Wax                               1
  * Texture Powder                            36
- * Peppermint Shampoo                        37
+ * Peppermint Shampoo                        36
  * Peppermint Conditioner                    38
 
 ### Baxter of California ###
@@ -59,24 +59,24 @@ Received
  * Hard Cream Pomade                         23
  * Soft Water Pomade                         5
  * Cream Pomade                              0
- * Pocket Comb                               25
+ * Pocket Comb                               24
  * Large Comb                                10
  * Mixer kit                                 3
 
 ### O'Douds ###
 
- * Water Based Pomade                        47
+ * Water Based Pomade                        46
  * Traditional Pomade
      * Light                                 10
-     * Original                              14
+     * Original                              13
      * Heavy                                 1
- * Shampoo                                   9
+ * Shampoo                                   8
  * Soap
-     * Bay Rum                               10
+     * Bay Rum                               8
      * Lemon Lavender                        8
-     * Forest                                8
+     * Forest                                7
  * Cologne
-     * Heritage                              8
+     * Heritage                              7
      * Tobacoo Rum                           0
  * Solid Cologne
      * Heritage                              1
@@ -93,7 +93,7 @@ Received
 
 ### TheSalonGuy ###
 
- * Shampoo                                   7
+ * Shampoo                                   6
  * Conditioner                               8
  * Power Cream                               7
  * Talc                                      2
@@ -113,7 +113,7 @@ Received
  * RE: FRESH Organic Toning Face Mist        11
  * ZIT ZAP Spot Treatment Mask               10
  * MATCHA Antioxidant Face Mask              11
- * RICE & CLEAN Gentle Facial Cleanser       11
+ * RICE & CLEAN Gentle Facial Cleanser       10
  * SUPER SOAK Healing Bath                   23
  * SEA IN A SCRUB Organic Body Scrub         5
  * WAKE UP Body Oil                          12
