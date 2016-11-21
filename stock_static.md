@@ -280,8 +280,8 @@ Ordered but not shipping
   * Gravity Paste                            0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                0
-  * Claymation                               0
+  * Quicksand                                480
+  * Claymation                               96
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
