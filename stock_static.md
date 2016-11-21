@@ -9,8 +9,8 @@ Received
 
   * Gravity Paste                            41
   * Scheme Cream                             0
-  * Modify Pomade                            27
-  * Sponge Wax                               92
+  * Modify Pomade                            26
+  * Sponge Wax                               91
   * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           20
@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   70
+  * Treatment Styling Balm                   68
   * Chrome                                   25
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            30
