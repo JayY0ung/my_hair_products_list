@@ -7,10 +7,10 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            41
+  * Gravity Paste                            40
   * Scheme Cream                             0
-  * Modify Pomade                            26
-  * Sponge Wax                               90
+  * Modify Pomade                            25
+  * Sponge Wax                               89
   * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           20
@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   68
+  * Treatment Styling Balm                   64
   * Chrome                                   23
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            30
@@ -39,11 +39,11 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          220
+ * Styling Meraki (Special Edition)          219
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         69
+ * Peppermint Pomade                         67
  * Natural Beeswax Paste                     56
  * Sculpting Clay                            18
  * Moroccan Texture Paste                    20
@@ -57,7 +57,7 @@ Received
  * Clay Pomade                               56
  * Hard Water Pomade                         4
  * Hard Cream Pomade                         23
- * Soft Water Pomade                         5
+ * Soft Water Pomade                         4
  * Cream Pomade                              0
  * Pocket Comb                               24
  * Large Comb                                10
