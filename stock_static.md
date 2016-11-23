@@ -145,8 +145,8 @@ Shipped
   * Scheme Cream                             0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                0
-  * Claymation                               0
+  * Quicksand                                480
+  * Claymation                               96
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
@@ -280,8 +280,8 @@ Ordered but not shipping
   * Gravity Paste                            0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                480
-  * Claymation                               96
+  * Quicksand                                0
+  * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
@@ -426,6 +426,7 @@ Ordered but not shipping
 
 **SF-Express**
 
+1. 856530474376
 
 **安能物流**
 
