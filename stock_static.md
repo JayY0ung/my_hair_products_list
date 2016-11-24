@@ -49,8 +49,8 @@ Received
  * Moroccan Texture Paste                    20
  * Classic Wax                               1
  * Texture Powder                            36
- * Peppermint Shampoo                        36
- * Peppermint Conditioner                    38
+ * Peppermint Shampoo                        35
+ * Peppermint Conditioner                    37
 
 ### Baxter of California ###
 
