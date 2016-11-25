@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         67
- * Natural Beeswax Paste                     55
+ * Natural Beeswax Paste                     54
  * Sculpting Clay                            18
  * Moroccan Texture Paste                    19
  * Classic Wax                               1
@@ -65,7 +65,7 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        46
+ * Water Based Pomade                        45
  * Traditional Pomade
      * Light                                 10
      * Original                              13
@@ -101,7 +101,7 @@ Received
  * Mousse                                    5
  * Plush                                     0
  * Red Carpet                                8
- * Money                                     7
+ * Money                                     6
  * Stinger Paste                             0
 
 ### Truly Moroccan ###
@@ -119,7 +119,7 @@ Received
  * WAKE UP Body Oil                          12
  * CALM DOWN Body Oil                        12
  * GET IT ON Body Oil                        12
- * WAKE UP Bodywash, 9.5 oz.                 23
+ * WAKE UP Bodywash, 9.5 oz.                 22
  * CALM DOWN Bodywash, 9.5 oz.               11
  * GET HAPPY Bodywash, 9.5 oz.               12
  * GET IT ON Bodywash, 9.5 oz.               12
