@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   62
+  * Treatment Styling Balm                   59
   * Chrome                                   19
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            30
@@ -46,7 +46,7 @@ Received
  * Peppermint Pomade                         67
  * Natural Beeswax Paste                     55
  * Sculpting Clay                            18
- * Moroccan Texture Paste                    20
+ * Moroccan Texture Paste                    19
  * Classic Wax                               1
  * Texture Powder                            36
  * Peppermint Shampoo                        35
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               56
+ * Clay Pomade                               55
  * Hard Water Pomade                         4
  * Hard Cream Pomade                         23
  * Soft Water Pomade                         4
