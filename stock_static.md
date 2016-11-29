@@ -7,9 +7,9 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            40
+  * Gravity Paste                            39
   * Scheme Cream                             0
-  * Modify Pomade                            24
+  * Modify Pomade                            23
   * Sponge Wax                               88
   * Quicksand                                0
   * Claymation                               0
@@ -31,20 +31,20 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   59
-  * Chrome                                   19
+  * Treatment Styling Balm                   23
+  * Chrome                                   16
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            30
   * Wide Tooth Comb                          114
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          219
+ * Styling Meraki (Special Edition)          63
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         67
- * Natural Beeswax Paste                     54
+ * Peppermint Pomade                         66
+ * Natural Beeswax Paste                     51
  * Sculpting Clay                            18
  * Moroccan Texture Paste                    19
  * Classic Wax                               1
@@ -65,21 +65,21 @@ Received
 
 ### O'Douds ###
 
- * Water Based Pomade                        45
+ * Water Based Pomade                        43
  * Traditional Pomade
      * Light                                 10
      * Original                              13
      * Heavy                                 1
- * Shampoo                                   8
+ * Shampoo                                   5
  * Soap
-     * Bay Rum                               8
+     * Bay Rum                               7
      * Lemon Lavender                        8
-     * Forest                                7
+     * Forest                                6
  * Cologne
      * Heritage                              7
      * Tobacoo Rum                           0
  * Solid Cologne
-     * Heritage                              1
+     * Heritage                              0
      * Tobacoo Rum                           1
  * Winter stockist pomade                    0
  * Shave Cream                               14
