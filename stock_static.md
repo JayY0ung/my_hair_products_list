@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   23
+  * Treatment Styling Balm                   20
   * Chrome                                   16
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            30
@@ -60,12 +60,12 @@ Received
  * Soft Water Pomade                         4
  * Cream Pomade                              0
  * Pocket Comb                               24
- * Large Comb                                10
+ * Large Comb                                9
  * Mixer kit                                 2
 
 ### O'Douds ###
 
- * Water Based Pomade                        43
+ * Water Based Pomade                        42
  * Traditional Pomade
      * Light                                 10
      * Original                              13
@@ -74,7 +74,7 @@ Received
  * Soap
      * Bay Rum                               7
      * Lemon Lavender                        8
-     * Forest                                6
+     * Forest                                5
  * Cologne
      * Heritage                              7
      * Tobacoo Rum                           0
