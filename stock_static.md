@@ -14,7 +14,7 @@ Received
   * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           20
-  * Natural Shampoo                          4
+  * Natural Shampoo                          3
   * Natural Conditioner                      5
   * Sample Pack                              0
   * Steel Comb with Leather                  0
@@ -31,15 +31,15 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   20
-  * Chrome                                   16
+  * Treatment Styling Balm                   18
+  * Chrome                                   15
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            30
   * Wide Tooth Comb                          114
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          63
+ * Styling Meraki (Special Edition)          61
 
 ### Mister Pompadour ###
 
