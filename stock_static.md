@@ -10,7 +10,7 @@ Received
   * Gravity Paste                            39
   * Scheme Cream                             0
   * Modify Pomade                            23
-  * Sponge Wax                               88
+  * Sponge Wax                               87
   * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           20
@@ -44,7 +44,7 @@ Received
 ### Mister Pompadour ###
 
  * Peppermint Pomade                         66
- * Natural Beeswax Paste                     51
+ * Natural Beeswax Paste                     50
  * Sculpting Clay                            18
  * Moroccan Texture Paste                    19
  * Classic Wax                               1
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               55
+ * Clay Pomade                               54
  * Hard Water Pomade                         4
  * Hard Cream Pomade                         23
  * Soft Water Pomade                         4
