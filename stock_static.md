@@ -27,11 +27,11 @@ Received
 ### BlackLabel ###
 
   * Shapepaste                               3
-  * CraftClay                                2
+  * CraftClay                                1
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   14
+  * Treatment Styling Balm                   9
   * Chrome                                   13
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            30
@@ -43,7 +43,7 @@ Received
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         66
+ * Peppermint Pomade                         63
  * Natural Beeswax Paste                     50
  * Sculpting Clay                            18
  * Moroccan Texture Paste                    19
@@ -54,7 +54,7 @@ Received
 
 ### Baxter of California ###
 
- * Clay Pomade                               54
+ * Clay Pomade                               53
  * Hard Water Pomade                         4
  * Hard Cream Pomade                         23
  * Soft Water Pomade                         4
@@ -69,8 +69,8 @@ Received
  * Traditional Pomade
      * Light                                 10
      * Original                              13
-     * Heavy                                 1
- * Shampoo                                   4
+     * Heavy                                 0
+ * Shampoo                                   3
  * Soap
      * Bay Rum                               7
      * Lemon Lavender                        8
