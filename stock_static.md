@@ -10,7 +10,7 @@ Received
   * Gravity Paste                            39
   * Scheme Cream                             0
   * Modify Pomade                            21
-  * Sponge Wax                               87
+  * Sponge Wax                               86
   * Quicksand                                0
   * Claymation                               0
   * Hybridized Wax                           20
@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   0
-  * Chrome                                   10
+  * Treatment Styling Balm                   95
+  * Chrome                                   58
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            30
   * Wide Tooth Comb                          114
@@ -45,7 +45,7 @@ Received
 
  * Peppermint Pomade                         63
  * Natural Beeswax Paste                     47
- * Sculpting Clay                            18
+ * Sculpting Clay                            17
  * Moroccan Texture Paste                    19
  * Classic Wax                               1
  * Texture Powder                            36
@@ -76,7 +76,7 @@ Received
      * Lemon Lavender                        8
      * Forest                                5
  * Cologne
-     * Heritage                              7
+     * Heritage                              6
      * Tobacoo Rum                           0
  * Solid Cologne
      * Heritage                              0
@@ -146,7 +146,7 @@ Shipped
   * Modify Pomade                            0
   * Sponge Wax                               0
   * Quicksand                                480
-  * Claymation                               96
+  * Claymation                               576
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
@@ -425,10 +425,6 @@ Ordered but not shipping
 
 
 **SF-Express**
-
-1. 856530474376
-
-**安能物流**
 
 
 -------------------------------------------------------------------------------
