@@ -70,7 +70,7 @@ Received
      * Light                                 10
      * Original                              13
      * Heavy                                 0
- * Shampoo                                   3
+ * Shampoo                                   2
  * Soap
      * Bay Rum                               7
      * Lemon Lavender                        8
