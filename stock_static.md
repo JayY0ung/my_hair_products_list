@@ -31,7 +31,7 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   90
+  * Treatment Styling Balm                   88
   * Chrome                                   57
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            30
@@ -39,7 +39,7 @@ Received
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          60
+ * Styling Meraki (Special Edition)          59
 
 ### Mister Pompadour ###
 
