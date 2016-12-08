@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   88
-  * Chrome                                   57
+  * Treatment Styling Balm                   87
+  * Chrome                                   56
   * Treatment Cleansing Oil                  25
   * Chrome Sample                            30
   * Wide Tooth Comb                          114
@@ -46,7 +46,7 @@ Received
  * Peppermint Pomade                         63
  * Natural Beeswax Paste                     46
  * Sculpting Clay                            17
- * Moroccan Texture Paste                    19
+ * Moroccan Texture Paste                    18
  * Classic Wax                               1
  * Texture Powder                            36
  * Peppermint Shampoo                        35
@@ -60,7 +60,7 @@ Received
  * Soft Water Pomade                         4
  * Cream Pomade                              0
  * Pocket Comb                               23
- * Large Comb                                9
+ * Large Comb                                8
  * Mixer kit                                 1
 
 ### O'Douds ###
