@@ -31,9 +31,9 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   87
+  * Treatment Styling Balm                   84
   * Chrome                                   56
-  * Treatment Cleansing Oil                  25
+  * Treatment Cleansing Oil                  24
   * Chrome Sample                            30
   * Wide Tooth Comb                          114
 
@@ -100,7 +100,7 @@ Received
  * Tidal Wave                                0
  * Mousse                                    5
  * Plush                                     0
- * Red Carpet                                8
+ * Red Carpet                                7
  * Money                                     6
  * Stinger Paste                             0
 
@@ -126,7 +126,7 @@ Received
  * BE WELL Bodywash, 9.5 oz.                 11
  * ØÅ Face Oil                               12
  * Ø Face Oil                                12
- * Å Face Oil                                12
+ * Å Face Oil                                11
  * Travel-size WAKE UP Bodywash, 2.3 oz.     48
  * Travel-size CALM DOWN Bodywash, 2.3 oz    46
  * Travel-size GET HAPPY Bodywash, 2.3 oz    48
