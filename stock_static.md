@@ -40,6 +40,7 @@ Received
 ### Original by Blumaan ###
 
  * Styling Meraki (Special Edition)          59
+ * Mask Pomade                               108
 
 ### Mister Pompadour ###
 
@@ -175,7 +176,7 @@ Shipped
 
 ### Original by Blumaan ###
 
-  * Styling Meraki (Special Edition)         108
+  * Styling Meraki (Special Edition)         0
 
 ### Mister Pompadour ###
 
@@ -409,7 +410,6 @@ Ordered but not shipping
 
 **UPS**
 
-1. 1Z1167436745940131
 
 **FedEx**
 
