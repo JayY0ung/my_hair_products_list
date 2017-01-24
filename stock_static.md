@@ -7,15 +7,15 @@ Received
 -------
 ### Hanz de Fuko ###
 
-  * Gravity Paste                            39
+  * Gravity Paste                            32
   * Scheme Cream                             0
-  * Modify Pomade                            21
-  * Sponge Wax                               85
-  * Quicksand                                288
-  * Claymation                               528
-  * Hybridized Wax                           20
-  * Natural Shampoo                          3
-  * Natural Conditioner                      4
+  * Modify Pomade                            1
+  * Sponge Wax                               70
+  * Quicksand                                150
+  * Claymation                               512
+  * Hybridized Wax                           13
+  * Natural Shampoo                          0
+  * Natural Conditioner                      1
   * Sample Pack                              0
   * Steel Comb with Leather                  0
 
@@ -26,67 +26,67 @@ Received
 
 ### BlackLabel ###
 
-  * Shapepaste                               3
-  * CraftClay                                1
+  * Shapepaste                               0
+  * CraftClay                                0
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   84
-  * Chrome                                   56
-  * Treatment Cleansing Oil                  24
+  * Treatment Styling Balm                   100
+  * Chrome                                   23
+  * Treatment Cleansing Oil                  17
   * Chrome Sample                            30
   * Wide Tooth Comb                          114
 
 ### Original by Blumaan ###
 
- * Styling Meraki (Special Edition)          59
- * Mask Pomade                               108
+ * Styling Meraki (Special Edition)          44
+ * Mask Pomade                               45
 
 ### Mister Pompadour ###
 
- * Peppermint Pomade                         63
- * Natural Beeswax Paste                     46
- * Sculpting Clay                            17
- * Moroccan Texture Paste                    18
+ * Peppermint Pomade                         47
+ * Natural Beeswax Paste                     109
+ * Sculpting Clay                            13
+ * Moroccan Texture Paste                    16
  * Classic Wax                               1
- * Texture Powder                            36
- * Peppermint Shampoo                        35
- * Peppermint Conditioner                    37
+ * Texture Powder                            17
+ * Peppermint Shampoo                        24
+ * Peppermint Conditioner                    30
 
 ### Baxter of California ###
 
- * Clay Pomade                               53
- * Hard Water Pomade                         4
- * Hard Cream Pomade                         23
- * Soft Water Pomade                         4
+ * Clay Pomade                               43
+ * Hard Water Pomade                         2
+ * Hard Cream Pomade                         19
+ * Soft Water Pomade                         2
  * Cream Pomade                              0
- * Pocket Comb                               23
- * Large Comb                                8
- * Mixer kit                                 1
+ * Pocket Comb                               21
+ * Large Comb                                4
+ * Mixer kit                                 0
 
 ### O'Douds ###
 
- * Water Based Pomade                        40
+ * Water Based Pomade                        0
  * Traditional Pomade
      * Light                                 10
-     * Original                              13
+     * Original                              11
      * Heavy                                 0
- * Shampoo                                   2
+ * Shampoo                                   0
  * Soap
-     * Bay Rum                               7
-     * Lemon Lavender                        8
-     * Forest                                5
+     * Bay Rum                               1
+     * Lemon Lavender                        2
+     * Forest                                2
  * Cologne
-     * Heritage                              6
+     * Heritage                              3
      * Tobacoo Rum                           0
  * Solid Cologne
      * Heritage                              0
-     * Tobacoo Rum                           1
+     * Tobacoo Rum                           0
  * Winter stockist pomade                    0
- * Shave Cream                               14
+ * Shave Cream                               13
  * Candle
      * Forest                                11
-     * Bay Rum                               10
+     * Bay Rum                               9
      * Lavender                              12
  * Deodorant                                 23
  * Clean up you act kit                      6
@@ -97,17 +97,17 @@ Received
  * Shampoo                                   6
  * Conditioner                               8
  * Power Cream                               6
- * Talc                                      2
+ * Talc                                      1
  * Tidal Wave                                0
  * Mousse                                    5
  * Plush                                     0
  * Red Carpet                                7
- * Money                                     6
+ * Money                                     5
  * Stinger Paste                             0
 
 ### Truly Moroccan ###
 
- * Pure truly argan oil                      6
+ * Pure truly argan oil                      2
 
 ### PLANT APOTHECARY ###
 
@@ -146,8 +146,8 @@ Shipped
   * Scheme Cream                             0
   * Modify Pomade                            0
   * Sponge Wax                               0
-  * Quicksand                                192
-  * Claymation                               48
+  * Quicksand                                0
+  * Claymation                               0
   * Hybridized Wax                           0
   * Natural Shampoo                          0
   * Natural Conditioner                      0
