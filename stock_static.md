@@ -12,8 +12,8 @@ Received
   * Modify Pomade                            1
   * Sponge Wax                               70
   * Quicksand                                150
-  * Claymation                               512
-  * Hybridized Wax                           13
+  * Claymation                               511
+  * Hybridized Wax                           12
   * Natural Shampoo                          0
   * Natural Conditioner                      1
   * Sample Pack                              0
@@ -31,8 +31,8 @@ Received
 
 ### Morris Motley ###
 
-  * Treatment Styling Balm                   100
-  * Chrome                                   23
+  * Treatment Styling Balm                   99
+  * Chrome                                   22
   * Treatment Cleansing Oil                  17
   * Chrome Sample                            30
   * Wide Tooth Comb                          114
@@ -86,7 +86,7 @@ Received
  * Shave Cream                               13
  * Candle
      * Forest                                11
-     * Bay Rum                               9
+     * Bay Rum                               8
      * Lavender                              12
  * Deodorant                                 23
  * Clean up you act kit                      6
